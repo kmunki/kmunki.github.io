@@ -23,6 +23,21 @@
         
         header {
             margin-bottom: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+        
+        .profile-photo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+        
+        .header-text {
+            flex: 1;
         }
         
         h1 {
@@ -73,6 +88,17 @@
                 padding: 1rem;
             }
             
+            header {
+                flex-direction: column;
+                text-align: center;
+                gap: 1rem;
+            }
+            
+            .profile-photo {
+                width: 100px;
+                height: 100px;
+            }
+            
             h1 {
                 font-size: 2rem;
             }
@@ -86,31 +112,29 @@
 </head>
 <body>
     <header>
-        <h1>Kyle Munkittrick</h1>
-        <p class="subtitle">Product Manager & Philosophy of Technology</p>
+        <img src="kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
+        <div class="header-text">
+            <h1>Kyle Munkittrick</h1>
+            <p class="subtitle">Product. Bioethics. Writing.</p>
+        </div>
     </header>
     
     <section>
         <h2>About</h2>
-        <p>I'm a Senior Product Manager at Amazon working on Care AI, with a background spanning product management at Apple and One Medical, and philosophical exploration of technology ethics and bioethics.</p>
+        <p>Hi! I'm Kyle. I'm a product manager, writer, and bioethicist. I've been product manager for almost a decade, with my most recent work launching <a href='https://www.aboutamazon.com/news/innovation-at-amazon/amazon-one-medical-launches-ai-tools-for-better-patient-care'>flagship AI products</a> at Amazon One Medical</p>
         
-        <p>My work sits at the intersection of practical product development and deeper questions about how technology shapes society. I've written about bioethics, transhumanism, and moral philosophy for publications including Discover Magazine and Slate.</p>
+        <p>I am also a regular contributor to <a href='https://3quarksdaily.com/3quarksdaily/author/kmunkittrick'>3 Quarks Daily</a>, where I tend to write a lot about how technology and the humanities tend to be better and more interesting together.</p>
     </section>
     
     <section>
         <h2>Current Work</h2>
-        <p>At Amazon, I focus on Care AI products that improve healthcare experiences. Previously, I worked on workflow and scheduling systems at One Medical and contributed to various projects at Apple.</p>
-    </section>
-    
-    <section>
-        <h2>Writing & Research</h2>
-        <p>I explore the ethical dimensions of emerging technologies through my blog Pop Bioethics and as an Affiliate Scholar with the Institute for Ethics and Emerging Technologies. Recent work includes examining how technology can address moral dilemmas and the cultural impact of AI-driven narratives.</p>
+        <p>I'm currently working on some personal projects, including using Claude Code to enhance my writing process and explore new creative avenues.</p>
     </section>
     
     <div class="contact">
-        <a href="mailto:hello@kmunk.com">Email</a>
+        <a href="mailto:kmunkitt@gmail.com">Email</a>
         <a href="https://linkedin.com/in/kylemunkittrick">LinkedIn</a>
-        <a href="https://www.popbioethics.com/author/kylemunkittrick/">Blog</a>
+        <a href="https://3quarksdaily.com/3quarksdaily/author/kmunkittrick">3 Quarks Daily</a>
     </div>
 </body>
 </html>
