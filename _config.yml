@@ -15,6 +15,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Collections for fiction
+collections:
+  fiction:
+    output: true
+    permalink: /fiction/:title/
+
 # Exclude files from processing
 exclude:
   - README.md

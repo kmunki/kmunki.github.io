@@ -1,0 +1,159 @@
+---
+layout: default
+---
+
+<article class="novel">
+    <header class="novel-header">
+        <h1 class="novel-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+            <p class="novel-subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+        {% if page.description %}
+            <div class="novel-description">{{ page.description }}</div>
+        {% endif %}
+    </header>
+    
+    <div class="novel-content">
+        {{ content }}
+    </div>
+    
+    <section class="chapter-list">
+        <h2>Chapters</h2>
+        {% assign novel_chapters = site.fiction | where: "novel", page.novel | sort: "chapter" %}
+        {% if novel_chapters.size > 0 %}
+            <ol class="chapters">
+            {% for chapter in novel_chapters %}
+                <li class="chapter-item">
+                    <div class="chapter-info">
+                        <h3 class="chapter-link">
+                            <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+                        </h3>
+                        <div class="chapter-meta">
+                            <span class="chapter-number">Chapter {{ chapter.chapter }}</span>
+                            <span class="chapter-date">{{ chapter.date | date: "%B %d, %Y" }}</span>
+                        </div>
+                        {% if chapter.synopsis %}
+                            <div class="chapter-synopsis">{{ chapter.synopsis }}</div>
+                        {% endif %}
+                    </div>
+                </li>
+            {% endfor %}
+            </ol>
+        {% else %}
+            <p class="no-chapters">Chapters coming soon...</p>
+        {% endif %}
+    </section>
+</article>
+
+<style>
+    .novel {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 0;
+    }
+    
+    .novel-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 2rem;
+    }
+    
+    .novel-title {
+        font-size: 3rem;
+        font-weight: 300;
+        margin-bottom: 1rem;
+        line-height: 1.2;
+    }
+    
+    .novel-subtitle {
+        font-size: 1.3rem;
+        color: #666;
+        font-style: italic;
+        margin-bottom: 1rem;
+    }
+    
+    .novel-description {
+        font-size: 1.1rem;
+        color: #555;
+        line-height: 1.6;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    
+    .novel-content {
+        margin-bottom: 3rem;
+        font-size: 1.1rem;
+        line-height: 1.7;
+    }
+    
+    .chapter-list h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+        font-weight: 500;
+    }
+    
+    .chapters {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .chapter-item {
+        margin-bottom: 2rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid #f0f0f0;
+    }
+    
+    .chapter-item:last-child {
+        border-bottom: none;
+    }
+    
+    .chapter-link a {
+        color: #333;
+        text-decoration: none;
+        border-bottom: 1px dotted #333;
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+    
+    .chapter-link a:hover {
+        opacity: 0.7;
+    }
+    
+    .chapter-meta {
+        display: flex;
+        gap: 1rem;
+        margin: 0.5rem 0;
+        font-size: 0.9rem;
+        color: #666;
+    }
+    
+    .chapter-synopsis {
+        font-size: 0.95rem;
+        color: #777;
+        line-height: 1.5;
+        margin-top: 0.5rem;
+    }
+    
+    .no-chapters {
+        text-align: center;
+        color: #999;
+        font-style: italic;
+        padding: 2rem;
+    }
+    
+    @media (max-width: 600px) {
+        .novel {
+            padding: 1rem;
+        }
+        
+        .novel-title {
+            font-size: 2.2rem;
+        }
+        
+        .chapter-meta {
+            flex-direction: column;
+            gap: 0.2rem;
+        }
+    }
+</style>
