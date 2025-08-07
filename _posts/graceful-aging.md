@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bioethics #1: We've got to get better about aging"
-date: 2025-08-06
+date: 2025-07-08
 tags: [bioethics, aging, culture]
 excerpt: "Getting comfortable with age maximums."
 ---
