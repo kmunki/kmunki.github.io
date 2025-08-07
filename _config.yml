@@ -1,0 +1,47 @@
+title: Kyle Munkittrick
+description: Product manager, bioethicist, and technology writer
+url: "https://kmunk.com"
+baseurl: ""
+
+author:
+  name: Kyle Munkittrick
+  email: kmunkitt@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - CNAME
+
+# Permalink structure for posts
+permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Social links
+social:
+  linkedin: kylemunkittrick
+  email: kmunkitt@gmail.com
+
+# SEO settings
+twitter:
+  username: # add if you have twitter
+  card: summary_large_image
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Kyle Munkittrick"
