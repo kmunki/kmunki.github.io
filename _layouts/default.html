@@ -43,6 +43,7 @@
             margin: 0 auto;
         }
         
+        /* Default header for all pages */
         header {
             margin-bottom: 3rem;
             display: flex;
@@ -51,8 +52,8 @@
         }
         
         .profile-photo {
-            width: 120px;
-            height: 120px;
+            width: 80px;
+            height: 80px;
             border-radius: 50%;
             object-fit: cover;
             flex-shrink: 0;
@@ -60,6 +61,51 @@
         
         .header-text {
             flex: 1;
+        }
+        
+        /* Landing page layout - medium photo side */
+        .landing-header {
+            margin-bottom: 4rem;
+            display: flex;
+            align-items: center;
+            gap: 3rem;
+        }
+        
+        .landing-header .profile-photo {
+            width: 200px;
+            height: 200px;
+            border-radius: 12px;
+            flex-shrink: 0;
+        }
+        
+        .landing-header .header-text {
+            flex: 1;
+        }
+        
+        /* About page layout - huge photo top */
+        .about-header {
+            margin-bottom: 4rem;
+            text-align: center;
+        }
+        
+        .about-header .profile-photo {
+            width: 280px;
+            height: 280px;
+            border-radius: 12px;
+            margin: 0 auto 2rem auto;
+            display: block;
+        }
+        
+        .about-header .header-text {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .intro-text {
+            font-size: 1.1rem;
+            color: #666;
+            margin-top: 1rem;
+            line-height: 1.7;
         }
         
         h1 {
@@ -79,13 +125,14 @@
         }
         
         nav a {
-            color: #0066cc;
+            color: #333;
             text-decoration: none;
             margin-right: 2rem;
+            border-bottom: 1px dotted #333;
         }
         
         nav a:hover {
-            text-decoration: underline;
+            opacity: 0.7;
         }
         
         nav a.active {
@@ -166,12 +213,13 @@
         }
         
         .contact a {
-            color: #0066cc;
+            color: #333;
             text-decoration: none;
+            border-bottom: 1px dotted #333;
         }
         
         .contact a:hover {
-            text-decoration: underline;
+            opacity: 0.7;
         }
         
         @media (max-width: 600px) {
@@ -179,15 +227,25 @@
                 padding: 1rem;
             }
             
-            header {
+            header, .landing-header {
                 flex-direction: column;
                 text-align: center;
                 gap: 1rem;
             }
             
             .profile-photo {
-                width: 100px;
-                height: 100px;
+                width: 60px;
+                height: 60px;
+            }
+            
+            .landing-header .profile-photo {
+                width: 160px;
+                height: 160px;
+            }
+            
+            .about-header .profile-photo {
+                width: 200px;
+                height: 200px;
             }
             
             h1 {
@@ -247,13 +305,35 @@
     </script>
 </head>
 <body>
-    <header>
+    {% if page.url == '/' %}
+    <!-- Landing page: medium photo side -->
+    <header class="landing-header">
         <img src="/kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
         <div class="header-text">
-            <h1><a href="/" style="color: inherit; text-decoration: none;">Kyle Munkittrick</a></h1>
+            <h1><a href="/" style="color: inherit; text-decoration: none; border-bottom: none;">Kyle Munkittrick</a></h1>
+            <p class="subtitle">Product. Bioethics. Writing.</p>
+            <p class="intro-text">I'm a product manager, writer, and bioethicist exploring how technology shapes society. I work on AI healthcare products at Amazon One Medical and write about the intersection of ethics and emerging technologies.</p>
+        </div>
+    </header>
+    {% elsif page.url == '/about/' %}
+    <!-- About page: huge photo top -->
+    <header class="about-header">
+        <img src="/kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
+        <div class="header-text">
+            <h1><a href="/" style="color: inherit; text-decoration: none; border-bottom: none;">Kyle Munkittrick</a></h1>
             <p class="subtitle">Product. Bioethics. Writing.</p>
         </div>
     </header>
+    {% else %}
+    <!-- Essays/posts: small circular banner -->
+    <header>
+        <img src="/kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
+        <div class="header-text">
+            <h1><a href="/" style="color: inherit; text-decoration: none; border-bottom: none;">Kyle Munkittrick</a></h1>
+            <p class="subtitle">Product. Bioethics. Writing.</p>
+        </div>
+    </header>
+    {% endif %}
     
     <nav>
         <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Essays</a>
