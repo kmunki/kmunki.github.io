@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Bioethics #2: Not Eugenics”
-date: 2025-07-08
+title: "Not Eugenics"
+date: 2025-07-22
 tags: [bioethics, eugenics, dwarkesh]
-excerpt: “An underhyped technology.”
+excerpt: "An underhyped technology."
 ---
 
 # Bioethics #2: Not Eugenics

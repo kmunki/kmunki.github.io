@@ -1,9 +1,9 @@
 ---
 layout: post
-title: “Culture #1: Of Human Slop”
+title: "Of Human Slop"
 date: 2025-07-15
 tags: [culture, jurassic park, slop]
-excerpt: “Only people could make a movie this bad.”
+excerpt: "Only people could make a movie this bad."
 ---
 # Culture #1: Of Human Slop
 
