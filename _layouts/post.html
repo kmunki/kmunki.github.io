@@ -3,9 +3,12 @@ layout: default
 ---
 
 <article>
-    <header>
+    <div class="post-content">
+        {{ content }}
+    </div>
+    
+    <footer class="post-footer">
         <div class="post-meta">{{ page.date | date: "%B %d, %Y" }}</div>
-        <h2>{{ page.title }}</h2>
         {% if page.tags.size > 0 %}
             <div class="post-tags">
                 {% for tag in page.tags %}
@@ -13,16 +16,18 @@ layout: default
                 {% endfor %}
             </div>
         {% endif %}
-    </header>
-    
-    <div class="post-content">
-        {{ content }}
-    </div>
+    </footer>
 </article>
 
 <style>
+    .post-footer {
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid #eee;
+    }
+    
     .post-tags {
-        margin: 1rem 0;
+        margin-top: 1rem;
     }
     
     .tag {
@@ -35,8 +40,11 @@ layout: default
         margin-right: 0.5rem;
     }
     
-    .post-content {
-        margin-top: 2rem;
+    .post-content h1 {
+        font-size: 2.2rem;
+        font-weight: 400;
+        margin-bottom: 1.5rem;
+        color: #222;
     }
     
     .post-content h2 {
