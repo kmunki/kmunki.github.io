@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<style>
+    /* Override default header for landing page */
+    body > header {
+        display: none;
+    }
+    
+    .hero-header {
+        margin-bottom: 4rem;
+        display: flex;
+        align-items: center;
+        gap: 3rem;
+    }
+    
+    .hero-header .profile-photo {
+        width: 200px;
+        height: 200px;
+        border-radius: 12px;
+        flex-shrink: 0;
+        object-fit: cover;
+    }
+    
+    .hero-header .header-text {
+        flex: 1;
+    }
+    
+    .hero-header h1 {
+        font-size: 2.5rem;
+        font-weight: 300;
+        margin-bottom: 0.5rem;
+    }
+    
+    .hero-header .subtitle {
+        font-size: 1.2rem;
+        color: #666;
+        font-weight: normal;
+    }
+    
+    .intro-text {
+        font-size: 1.1rem;
+        color: #666;
+        margin-top: 1rem;
+        line-height: 1.7;
+    }
+    
+    @media (max-width: 600px) {
+        .hero-header {
+            flex-direction: column;
+            text-align: center;
+            gap: 1rem;
+        }
+        
+        .hero-header .profile-photo {
+            width: 160px;
+            height: 160px;
+        }
+    }
+</style>
+
+<!-- Custom hero header for landing page -->
+<header class="hero-header">
+    <img src="/kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
+    <div class="header-text">
+        <h1>Kyle Munkittrick</h1>
+        <p class="subtitle">Product. Bioethics. Writing.</p>
+        <p class="intro-text">I'm a product manager, writer, and bioethicist exploring how technology shapes society. I work on AI healthcare products at Amazon One Medical and write about the intersection of ethics and emerging technologies.</p>
+    </div>
+</header>
+
+{{ content }}

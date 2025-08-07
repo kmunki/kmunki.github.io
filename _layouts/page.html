@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<style>
+    /* Override default header for about/pages */
+    body > header {
+        display: none;
+    }
+    
+    .page-header {
+        margin-bottom: 4rem;
+        text-align: center;
+    }
+    
+    .page-header .profile-photo {
+        width: 280px;
+        height: 280px;
+        border-radius: 12px;
+        margin: 0 auto 2rem auto;
+        display: block;
+        object-fit: cover;
+    }
+    
+    .page-header .header-text {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    
+    .page-header h1 {
+        font-size: 2.5rem;
+        font-weight: 300;
+        margin-bottom: 0.5rem;
+    }
+    
+    .page-header .subtitle {
+        font-size: 1.2rem;
+        color: #666;
+        font-weight: normal;
+    }
+    
+    @media (max-width: 600px) {
+        .page-header .profile-photo {
+            width: 200px;
+            height: 200px;
+        }
+    }
+</style>
+
+<!-- Large photo header for about page -->
+<header class="page-header">
+    <img src="/kyle_munkittrick.jpg" alt="Kyle Munkittrick" class="profile-photo">
+    <div class="header-text">
+        <h1>Kyle Munkittrick</h1>
+        <p class="subtitle">Product. Bioethics. Writing.</p>
+    </div>
+</header>
+
+{{ content }}
