@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Your Doctor Is Like Shakespeare (And That’s A Problem)"
+date: 2025-02-04
+tags: [AI, healthcare, scaled-intelligence]
+excerpt: "Could there be genres of healthcare?"
+---
+
+When I think about AI, I think about poor Queen Elizabeth.
+
+Imagine being her: you have access to Shakespeare — in his prime! You get to see a private showing of *A Midsummer Night’s Dream* at the height of the players’ skill and the Bard’s craft. And then... that’s it. You've hit the entertainment ceiling for the month. Bored? Your other options include plays by *not Shakespeare*, your jester, and watching animals fight to the death.
+
+Shakespeare and his audiences were limited not by his genius but by *physics*. One stage, one performance, one audience at a time. Even at their peak his plays probably reached fewer people in his entire lifetime than a mediocre TikTok does before lunch. 
+
+Today we have an embarrassment of entertainment. I’m not saying *Dune - Part 2* or *Succession* or *Taylor Swift: The Eras Tour* are the same as Shakespeare, but I am going to make the bold claim that they are, in fact, better than bear-baiting. My second, and perhaps bolder claim, is that AI is going to let ‘knowledge workers’ scale like entertainers can today.
+
+Consider this tweet from Amanda Askell, the “philosopher & ethicist trying to make AI be good at Anthropic AI”:
+
+If you can have a single AI employee, you can have thousands of AI employees. And yet the mental model for human-level AI assistants is often "I have a personal helper" rather than "I am now the CEO of a relatively large company".
+
+https://x.com/AmandaAskell/status/1806341752883929532
+
+Askell is correct (she very often is, especially when you disagree with her). “I am going to be a CEO” is the mental model we *should* have, but it *isn’t* the mental model most of us have. Our mental models for human-level AI don’t quite work. There are lots of very practical predictions out there about what scaled intelligence means. I aim to make weirder ones.
+
+I think AI will make us all founders, but not of ‘companies’. That’s an old model. We’ll be founders of something that we don't quite have a name for yet. Maybe "orgs" the way "phone" still describes the touch screen computer/camera/communicator in our pockets. Think about the word ‘influencer’. Now imagine explaining it to someone in 2005. “A blogger, but where people want their life?” Yikes.
+
+Our mental models fail us here because we're stuck thinking about "founding" in terms of today's organizational structures — companies, research labs, governments. These huge structures exist because they're our only way to scale intelligence. To achieve a vision that requires vastly more work than a single person could accomplish in a lifetime, you need to get a bunch of people to work together in parallel, and you need infrastructure to keep those people accountable, motivated, and focused. But what if you didn't need all that infrastructure to scale intelligence? What if, like digital music replacing physical CDs, AI lets us strip away all the organizational overhead that companies require? 
+
+This is hard to understand. AI is weird. So let’s go back to Shakespeare. Don’t worry this time Kenneth Branagh and *Wicked* make appearances.
+
+Shakespeare and company probably entertained half a million people in his entire lifetime. Let’s generously quadruple that to two million, assuming we missed a bunch of stuff. That two million people includes every single person who saw *any* performance of *any* Shakespeare work while he lived. Once a play had been rehearsed, performed, and re-written a few times, we must imagine this bordered on some of the best possible entertainment you could get — literally fit for not just *a* queen, but *the* queen; the one for whom the era is named. But no matter how good it was, he was limited to who could get to the right place at the right time to enjoy the play. Shakespeare could not *scale*.
+
+In 1996, Kenneth Branagh’s *Hamlet* was released. Claude estimated that a few million people saw it in theaters, and that 10 - 20 million have seen it on home video, streaming, in the decades since. I’m using Branagh here because this production of *Hamlet* is considered one of the most faithful adaptions (unabridged text, 4 hours long, etc) ever made. Branagh — despite my love of *Thor* — is not on Shakespeare’s level. Not even close. Yet Branagh’s single production of *one* Shakespeare play probably eclipsed Shakespeare’s total lifetime audience because technology let Branagh scale.
+
+I need to pause to emphasize a point here: technology didn't kill theater. We’re often worried about this, and a lot of very smart people are worried about this for AI. But. But! It’s worth asking: if you can instantly distribute Shakespeare to the phone in everyone’s pocket, why would anyone go to the theater? And yet, if anything, technology made it *bigger*. *Hamilton*, *Wicked*, *Book of Mormon* — theater isn't just for theater kids, let alone just queens, anymore. Technology scaled performance in ways that created new audiences and possibilities, rather than replacing what came before.
+
+Moreover, film didn't just let more people see Shakespeare — it *invented* new types of artistic expression: the close-up that lets us read every micro-emotion, the montage that compresses time and space, the smash cut and dolly zoom that manipulate our perspective. The technology didn't just solve the problem of audience size; it created entirely new possibilities for storytelling. Radio and records didn’t kill symphonies, but they gave us the idea of a pop song and of an album, both of which you need for, say, *The White Album* to exist. TV didn’t kill movies or film, but gave us *Succession*.
+
+Here is where it gets even stranger: just as scaling entertainment led to the emergence of genres — ways of approaching and reimagining the fundamental task of entertaining — we might see the emergence of intelligence *genres*. Imagine a Foucauldian approach to legal AI competing with a Rawlsian one, or education AIs that embody either Montessori or Classical methodologies. Not just technical specializations, but entire philosophical approaches to thinking and problem-solving. A 'punk rock' teacher AI might prioritize creative disruption and individual expression, while a 'jazz' legal AI could excel at improvising novel arguments within established precedents.
+
+Back to Shakespeare. Remember: poor guy was limited by physics — time and space. All these technologies made performance able to overcome those hurdles, by allowing the experience to be captured, repeated, and shippable. A recording could be pressed a million times, a film played over and over, a book printed and shared. A disc of vinyl is easier to mail than a concert.
+
+However, even these technologies are limited — books, film, records all required physical medium, which require manufacturing and shipping and storage and whole massive systems of commerce. Since Branagh’s *Hamlet* another technology, computers and the internet, have reduced reproduction and distribution costs to near zero. A single CD used to cost $15 to $20. Now you can listen to nearly any song ever produced on demand, and as much music as you want, 24/7 really, for the same price, because digital files cost effectively nothing to produce, store, and distribute. This allows for entirely new forms of creation and consumption. Youtube and TikTok videos, even high production ones, might take only ten minutes to a few hours make, then perhaps another minute to upload, and then eclipse both Shakespeare and Branagh’s total lifetime audiences in a day. They cost nothing to make, nothing to distribute, nothing to consume.
+
+Now imagine this digital transition — nearly free to create, reproduce, distribute, and access — for intelligence. Right now, nearly every profession that you can be hired for is stuck in Shakespeare's predicament. A doctor can only talk to one patient at a time. A lawyer can only work on one case. A manager can only support a single set of reports. A politician represents only their constituents. Queen Elizabeth had to schedule a performance by Shakespeare, I have to schedule a visit with my doctor.
+
+My theory, and boy is it a theory, is that this is what AI is going to change. It will not replace doctors anymore than books, film, TV, records, and radio replaced storytellers and musicians. Instead, it will add a new way for individuals to scale. Currently, you have access only to the clinicians who are 1) near you and 2) have time for you. Companies can only hire people who are not employed at other companies (mostly). When there is a good politician, the next district over can’t say “oh, us too!” The only way to get the very best is to be either 1) in the right place at the right time or 2) eye-wateringly wealthy.
+
+And we're not just talking about scaling pure intelligence — we're talking about scaling the ability to coordinate and do stuff in the physical world. Think about Apple: they probably have some of the best manufacturing experts in the world. Now imagine if that person could say "for $5 a month, my AI self will help you set up your production line." Or a doctor who can suddenly “see” dozens of patients a minute through AI-enabled coordination. The physical barriers don't disappear, but they become more manageable through scaled oversight and expertise.
+
+What happens when intelligence is too cheap to meter? Well there are a few options. Given the general trajectory of humanity, when things get cheaper, we don't tend to buy the same amount, we tend to want way way more (thank you DeepSeek for thrusting Jevons Paradox into the discourse). In Shakespeare's day, Queen Elizabeth did not binge plays. She *couldn’t*, even if she wanted to! She watched probably one play a month. She went to a few balls and dances. She was probably bored a lot of the time, and a lot of what she consumed was at best, mid.
+
+One of my very favorite things about print, film, and music is that it is so cheap that even the very poor have effectively the exact same access as oligarchs to the greatest works of all time. The richest person on the planet cannot get a better version of the story of *Pride and Prejudice* than what I can loan from the library or download from Project Gutenberg or pick up of my shelf. If we all agree the best movie of the year is *Dune — Part 2*, and the best way to see it is in IMAX, then basically anyone with $25 can see it. Even (most) super billionaires don't have IMAX screens in (all) their houses.
+
+But while they can’t get better versions of Shakespeare's plays, very rich people *can*, today, get better doctors than the average person. Which brings us back to Askell's CEO point. Right now, starting a company requires tens or hundreds of thousands of dollars, if not millions. You spend that to hire great people to make your idea real — labor! Labor is the primary cost but that labor is often just sitting at a computer, thinking and turning thinking into outputs of thinking (code, decisions, documents, policy). Lawyers, architects, clinicians, real estate agents, teachers, middle managers, financial advisors, even most engineers, rarely interact with the physical world. Yet a judge cannot go viral, no matter how good her rulings; an engineer has no equivalent of a platinum record.
+
+The only exception to this bounded intelligence are founders — people who have the vision, focus, and story-telling ability to scale their intelligence via a corporation. The reward is massive, but so is the risk. So you need to convince very wealthy people they will become even more wealthy in backing you. But what if it cost, let's say, oh I don't know, $2,500 a year to have a full corporation at your disposal? 
+
+*This* is Askell’s point — soon we will all be founders.
+
+We often ask ourselves "why are there no teachers as wealthy as Taylor Swift?" We say this as if it is some indictment of our society and not just something that was materially impossible. We don't have teachers as wealthy or popular as Taylor Swift for the same reason Shakespeare wasn’t as wealthy or popular as Taylor Swift. It isn’t possible for them to scale. Or, well, it wasn’t.
+
+People long to be people who scale. We look up to those who had the grit, talent, time, insight, and luck to go big: great thinkers, artists, actors, musicians, business people, revolutionaries, and athletes. I think, perhaps soon, AI let us all have that awesome opportunity to scale, no matter our craft.
