@@ -217,23 +217,62 @@
         "name": "Kyle Munkittrick",
         "url": "{{ site.url }}",
         "image": "{{ site.url }}/kyle_munkittrick.jpg",
-        "jobTitle": "Lead Product Manager",
-        "worksFor": {
-            "@type": "Organization",
-            "name": "Amazon One Medical"
-        },
+        "jobTitle": "Product Manager & Technology Writer",
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Product Manager",
+                "occupationalCategory": "Software Product Management",
+                "skills": ["AI Product Development", "Healthcare Technology", "Product Strategy", "GenAI Applications"]
+            },
+            {
+                "@type": "Occupation",
+                "name": "Technology Writer",
+                "occupationalCategory": "Writing and Journalism",
+                "skills": ["Bioethics", "Technology Ethics", "AI and Creativity", "Philosophy"]
+            }
+        ],
         "alumniOf": [
             {
-                "@type": "Organization",
-                "name": "Apple Inc."
+                "@type": "EducationalOrganization",
+                "name": "New York University",
+                "sameAs": "https://www.nyu.edu/",
+                "degree": "Master of Arts in Bioethics of Human Enhancement",
+                "year": "2011"
             },
             {
-                "@type": "Organization", 
-                "name": "One Medical"
+                "@type": "EducationalOrganization",
+                "name": "George Mason University",
+                "sameAs": "https://www.gmu.edu/",
+                "degree": "Bachelor of Arts in English Literature, Summa Cum Laude",
+                "year": "2007",
+                "description": "Minors in Comparative Religion, Philosophy, and Mandarin"
             },
             {
                 "@type": "Organization",
-                "name": "Amazon"
+                "name": "Amazon Health Services",
+                "sameAs": "https://www.amazon.com/health",
+                "startDate": "2023-10",
+                "endDate": "2025-06",
+                "jobTitle": "PMT III - AI & Provider Experience",
+                "description": "Led launch of provider-facing GenAI products used 20,000+ times per week by 650+ clinicians"
+            },
+            {
+                "@type": "Organization",
+                "name": "One Medical",
+                "sameAs": "https://www.onemedical.com/",
+                "startDate": "2012-05",
+                "endDate": "2023-10",
+                "jobTitle": "Group/Lead Product Manager",
+                "description": "9 years as Product Manager building practice management tools, scheduling systems, and remote care products for 900,000+ patients"
+            },
+            {
+                "@type": "Organization",
+                "name": "Apple Inc.",
+                "sameAs": "https://www.apple.com/",
+                "startDate": "2010-08",
+                "endDate": "2012-05",
+                "jobTitle": "Retail Specialist"
             }
         ],
         "knowsAbout": [
@@ -243,14 +282,20 @@
             "Technology Ethics",
             "Philosophy of Technology",
             "Artificial Intelligence",
-            "Healthcare Technology"
+            "Healthcare Technology",
+            "Human Enhancement",
+            "Mortality Studies",
+            "AI and Creativity",
+            "GenAI Product Development",
+            "Machine Learning in Healthcare"
         ],
+        "publishingPrinciples": "Writer focusing on AI, human enhancement, mortality, and technology ethics through a bioethics lens, challenging prevailing assumptions using philosophy and pop culture",
         "sameAs": [
             "https://linkedin.com/in/kylemunkittrick",
             "https://3quarksdaily.com/3quarksdaily/author/kmunkittrick"
         ],
         "email": "kmunkitt@gmail.com",
-        "description": "Product manager specializing in AI healthcare products, bioethics researcher, and technology writer at the intersection of ethics and emerging technologies."
+        "description": "Product manager and bioethics researcher writing about AI, human enhancement, and technology ethics. Regular contributor to 3 Quarks Daily. Former PM at Amazon One Medical and One Medical, where I launched AI healthcare products and practice management tools. M.A. in Bioethics from NYU, B.A. in English Literature from George Mason University."
     }
     </script>
 </head>
@@ -258,6 +303,7 @@
     <nav>
         <a href="/" {% if page.url == "/" %}class="active"{% elsif page.layout == "post" %}class="active"{% endif %}>Essays</a>
         <a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About</a>
+        <a href="https://calendar.app.google/XXuudRKmRJrDuzoAA" target="_blank">Schedule Time</a>
     </nav>
     
     <!-- Default header for all pages -->
