@@ -169,15 +169,7 @@
             font-size: 0.85rem;
             flex-shrink: 0;
         }
-        
-        .contact {
-            display: flex;
-            gap: 2rem;
-            flex-wrap: wrap;
-            margin-top: 2rem;
-        }
-        
-        
+
         @media (max-width: 600px) {
             body {
                 padding: 1rem;
@@ -200,11 +192,6 @@
             
             nav a {
                 margin-right: 1rem;
-            }
-            
-            .contact {
-                flex-direction: column;
-                gap: 0.5rem;
             }
         }
     </style>
@@ -304,6 +291,9 @@
         <a href="/" {% if page.url == "/" %}class="active"{% elsif page.layout == "post" %}class="active"{% endif %}>Essays</a>
         <a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About</a>
         <a href="https://calendar.app.google/XXuudRKmRJrDuzoAA" target="_blank">Schedule Time</a>
+        <a href="mailto:kmunkitt@gmail.com">Email</a>
+        <a href="https://linkedin.com/in/kylemunkittrick" target="_blank">LinkedIn</a>
+        <a href="https://3quarksdaily.com/3quarksdaily/author/kmunkittrick" target="_blank">3 Quarks Daily</a>
     </nav>
     
     <!-- Default header for all pages -->
@@ -318,13 +308,7 @@
     <main>
         {{ content }}
     </main>
-    
-    <div class="contact">
-        <a href="mailto:kmunkitt@gmail.com">Email</a>
-        <a href="https://linkedin.com/in/kylemunkittrick">LinkedIn</a>
-        <a href="https://3quarksdaily.com/3quarksdaily/author/kmunkittrick">3 Quarks Daily</a>
-    </div>
-    
+
     <!-- Littlefoot footnotes -->
     <script src="https://unpkg.com/littlefoot/dist/littlefoot.js" type="application/javascript"></script>
     <script type="application/javascript">
