@@ -1,25 +1,32 @@
 ---
-layout: home
+layout: page
+title: Kyle Munkittrick
 ---
 
 <section>
-    <h2>Essays</h2>
-    {% if site.posts.size > 0 %}
-        <div class="post-list">
-        {% for post in site.posts %}
-            <div class="post-item">
-                <div class="post-header">
-                    <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                    <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
-                </div>
-                {% if post.excerpt %}
-                    <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 10 }}</div>
-                {% endif %}
-            </div>
-        {% endfor %}
-        </div>
-    {% else %}
-        <p>Essays coming soon. I write about the intersection of product management, technology ethics, and bioethics.</p>
-        <p>In the meantime, you can read my work at <a href="https://3quarksdaily.com/3quarksdaily/author/kmunkittrick">3 Quarks Daily</a>.</p>
-    {% endif %}
+    <h2>About</h2>
+    <p>Hi! I'm Kyle. I'm a writer and product manager interested in bioethics, AI, and literature. I've been a product manager for almost a decade. My most recent work was launching <a href='https://www.aboutamazon.com/news/innovation-at-amazon/amazon-one-medical-launches-ai-tools-for-better-patient-care'>flagship AI products</a> at Amazon One Medical. Before that, my team and I built tools and systems that helped make practice management easier (tasks, scheduling, check-in), improved safety with vaccine scanners (the first hardware at One Medical), and added lots of quality of life elements for our patients (like the 'running late' text option).</p>
+</section>
+
+<section>
+    <h2>Current Work</h2>
+
+    <p>Right now I'm writing regularly for <a href='https://3quarksdaily.com/3quarksdaily/author/kmunkittrick'>3 Quarks Daily</a>, where I explore AI, human enhancement, mortality, and technology ethics through a bioethics lens. I like to challenge prevailing assumptions about things like AI and creativity, often using philosophy and pop culture to make abstract ideas more accessible and to show how technology and the humanities tend to be better and more interesting together.</p>
+
+    <p>I built an MCP server that lets Claude Code work with Scrivener, and I'm using it alongside Claude Code, Obsidian, and Scrivener to write a novel. I'm experimenting with AI as a legitimate creative partner and exploring whether serialized publishing and tools like GitHub might make self-publishing higher quality and more collaborative.</p>
+</section>
+
+<section>
+    <h2>Prior Work</h2>
+
+    <p><strong>Amazon Health Services</strong> (Oct 2023 - June 2025) — Led the launch of One Medical's first provider-facing AI products. Built GenAI tools now used 20,000+ times per week by hundreds of clinicians in daily patient care.</p>
+
+    <p><strong>One Medical</strong> (May 2012 - Oct 2023) — Spent 9 years as a Product Manager building practice management tools, scheduling systems, and remote care products. Helped support 900,000+ patients and launched One Medical's hybrid care model during COVID.</p>
+</section>
+
+<section>
+    <h2>Education</h2>
+
+    <p><strong>NYU</strong> — M.A. Bioethics of Human Enhancement<br>
+    <strong>George Mason University</strong> — B.A. English Literature, Summa Cum Laude (minors in Comparative Religion, Philosophy, and Mandarin)</p>
 </section>

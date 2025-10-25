@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Mass Effect Is Excellent Sci-Fi"
+date: 2012-02-13
+tags: [video games, sci-fi, story]
+excerpt: "The answer to The Culture in gaming"
+---
+
 # Mass Effect Is Excellent Sci-Fi
 
 *Mass Effect* is epic. It's the product of the best parts of *Star Trek, Star Wars,* *Battlestar Galactica* and more with a protagonist who could be the love-child of Picard, Skywalker, and Starbuck. It's one of the most important pieces of science fiction narrative of our generation. *Mass Effect* goes so far beyond other fictional universes in ways that you may not have yet realized. It is cosmic in scope and scale.

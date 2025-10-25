@@ -288,8 +288,8 @@
 </head>
 <body>
     <nav>
-        <a href="/" {% if page.url == "/" %}class="active"{% elsif page.layout == "post" %}class="active"{% endif %}>Essays</a>
-        <a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About</a>
+        <a href="/" {% if page.url == "/" %}class="active"{% endif %}>About</a>
+        <a href="/essays/" {% if page.url == "/essays/" %}class="active"{% elsif page.layout == "post" %}class="active"{% endif %}>Essays</a>
         <a href="https://calendar.app.google/XXuudRKmRJrDuzoAA" target="_blank">Schedule Time</a>
         <a href="mailto:kmunkitt@gmail.com">Email</a>
         <a href="https://linkedin.com/in/kylemunkittrick" target="_blank">LinkedIn</a>
