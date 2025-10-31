@@ -5,3 +5,9 @@ _site/
 .claude
 .DS_Store
 Gemfile.lock
+
+# Violet serialization scripts and private documentation
+convert_violet.py
+export_to_substack.py
+VIOLET-SERIALIZATION-GUIDE.md
+substack-export/
