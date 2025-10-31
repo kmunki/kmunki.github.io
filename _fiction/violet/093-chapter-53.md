@@ -73,6 +73,8 @@ There was a rustling and clanking from the kitchen.
 
 “See you two on the second sleep.”
 
+---
+
 Illapa could not suppress her grin. Heavy and cold, her gun felt good in her hand. Arachno-weave kevlar wrapped her body. A half dozen little weapons were strapped to her body. And she had allies. Sapa be praised she might just get out of this alive.
 
 She made her way through the empty, darkened ballroom, weaving among the empty tables and couches. Mere hours before she had been trading stories with what she now had no doubt was an asura. Maybe more than just a… maybe *the*. The thought had crossed her mind more than once. Elided phrases, tactical ambiguity, the woman left so much to interpretation. Whatever age had been present earlier had been obliterated by adrenaline and cause. Her words of warning, how she was never able to relax here, haunted Illapa.

@@ -49,6 +49,8 @@ Illapa realized her hand was shaking as she set the bottle down. Waves of heat a
 
 Illapa’s eyes narrowed as she listened, burrowing into her memories.
 
+---
+
 “What are we looking at,” asked Msizi, wrapped in one of the smuggled sheets, over which she wore a rice-bag cloak.
 
 “I don’t know,” said Illapa, sitting into the nest of packaging, “There were stories of cannibalistic monstrosities from the war, but nothing like this. If we survive I’ll have to ask our Master of Intelligence what the hell it is. If we survive.”
@@ -100,6 +102,8 @@ For a moment all three were quiet as their imaginations painted separate, grueso
 Eshma, chastened, said, “well, that’s not how I planned to go. So let’s get going.”
 
 Half-naked, huddled in sheets and wood shavings, surrounded by dewy produce, hanging meats, and shelves of cans and jars, they began to scheme.
+
+---
 
 The sounds in the kitchen had stopped for, best Illapa could guess, at least twenty minutes. They would need at least ten for the initial part of the plan. Silent as a ghost, she crept to the door and peered through the window. No ghul. It wasn’t anywhere she could see. Somewhat panicked, she pressed her face to the window and nearly stumbled backwards in shock when she saw it. The ghul had put itself to sleep almost directly in front of the fridge door. They would have barely two feet of play to swing the door open and squeeze out. It must have suspected.
 

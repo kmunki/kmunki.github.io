@@ -93,6 +93,8 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 “My boy my boy,” Advika said, “thank you my boy you saved my boy.”
 
+---
+
 With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
 
 “You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”

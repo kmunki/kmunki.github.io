@@ -288,8 +288,8 @@ def collect_child_content(uuid, documents, sync_mapping, depth=0):
         for child_uuid in children:
             child_content = collect_child_content(child_uuid, documents, sync_mapping, depth + 1)
             if child_content:
-                # Add spacing between scenes
-                content_parts.append("\n\n")
+                # Add scene break divider between scenes
+                content_parts.append("\n\n---\n\n")
                 content_parts.append(child_content)
 
     return "".join(content_parts)

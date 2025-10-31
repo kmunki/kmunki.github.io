@@ -73,6 +73,8 @@ The ogumo grabbed Hye’s shoulders with its lower claws and removed its helmet 
 
 The ogumo grabbed Hye’s head with its upper claws, forcing her to look at the Sifu’s face. Bracing the lower claws against her shoulders, talons digging into her temple, neck, and jaw, it began to pull.
 
+---
+
 Advika hunched in front of the security monitors, her dark face lit by their glow. In the grainy images, she had watched it build its awful assembly line of corpse-sourced calories. Through what remained of that first night, and well into the first day it butchered, roasted, boiled, and ate. Worse was yet to come. 
 
 A safe room is a strange thing. A prison cell of one’s own choosing, with the threat locked out rather than in. That descriptor, ‘safe’, depends on an asymmetry of power; the threat must be weaker than the room. Busaws were a solution to that problem. They required time, food, and their own window of peace before pealing open the hidden steel door like an orange rind. Those first early hours, maybe the first day, they could have stopped it. Now that she knew what it was, how it behaved, together she and Hye could have overpowered it.
@@ -114,6 +116,8 @@ Hye winced, swallowing a scream as a stammered whisper, as the Sifu manipulated 
 “I had weird dreams,” Hye mumbled, eyes already half lidded.
 
 “The fever is gone. You’ll sleep peaceful.”
+
+---
 
 Cannibalistic monsters could be found in almost every culture’s legends. Graveyard-haunting ghouls, forest-dwelling wendigos, city-lurking hungry ghosts—each their emissary of the demon world, an example of what waits for those who stray from the path. Among them, the busaw: corpse-stealer. That such a fiend could become fodder for a Long War boffin was not the worst horror. No that was nature’s prerogative. 
 

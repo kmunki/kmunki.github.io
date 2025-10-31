@@ -85,6 +85,8 @@ Hye’s eyes went wide.
 
 “You gave it to me, Uyasimi Kurku,” said Hye, picking up Trine, holding them close. The Host arched an eyebrow up to the seam in her skull, intrigued. “I am desperate. Truly. But I still have allies. Send us home through them, through Daewoo. If I am what you say I am, then my grand plan simple: I plan to make my own luck.”
 
+---
+
 Carved into the permafrost and rock beneath the Tower were tunnels, radiating out into subterranean dark. A tram waited for them like an heirloom. Once gleaming white, the curved plastic body had aged to a yellowed egg-shell. Within, the seats held their plush and the interior flickered to muted life as they approached. Even here, the Zaqqum presided.
 
 Advika pressed a few of the chunky buttons on the console and clicked a dial to their heading. On this command, the tram rotated, the light within casting harsh shadows outwards, like fading campfire in a midnight wood. A single clunk as it locked onto the new tracks and then the not-quite-silent humming of the electric engine grew as they accelerated into the shadow.

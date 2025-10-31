@@ -85,6 +85,8 @@ More chirrups and hoots of assent.
 
 Zakat yanked the stick back and the Bear tilted skywards. She flicked up a cover on the console and smashed the button beneath. From behind them, an explosion and then bone-shaking thunder of rocket blast. Hye was crushed into her seat, as was the Sifu. The old woman gripped her thighs for stability, straining to breathe. She looked at the Ward, expecting to see her terrified. Hye’s eyes were wide, yes, but with unrestrained joy. They burst through a cloud, climbing up towards the sun.
 
+---
+
 Zakat took the Bear higher, well above the sparse clouds over Novy Urengoy. Her ears equalized just as they had within the Olgoi. Within minutes the here-and-there puffs turned to a vast sea of white. The craft’s shadow danced across the vaporous peaks. That shelf of white soon again opened, revealing windows to the tundra. With some deliberate physical geometry and a thoughtfully folded shirt, Hye was able to nestle her head within the bubble window beside her seat. Trine joined her, crawling from her pocket to make a nest among the spare shirt. Together they watched the Wilds below. A scorwev swarm twisted and undulated, a seething sculpture of black, separating and converging. A forest of pines were almost shaken free of snow as a hundreds strong herd of mammoth thundered from within it out onto the plain. There were lone creatures too—bear, moose, wolves—tiny at this distance, heralded by their long shadows cast across the glittering white by the low southern sun.
 
 The low thrum of the engines settled into a steady rhythm. Another bank of clouds covered over the Wilds. Hye could not find it within her to stay awake, nor could she allow herself to miss a moment. She fought sleep, and lost.

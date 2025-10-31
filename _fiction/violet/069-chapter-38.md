@@ -103,6 +103,8 @@ She ran a hand along the large briefcase thing that Vidya had been modifying.
 
 As promised, the formal dresses were interwoven with arachnoweave. With a tuck and clip they became tactical pants and top, allowing for more practical movements. The cut was such that leg holsters disappeared. Armed and fitted, she picked up the huge case, and made to leave as Ambassador Illapa, honored guest to the Koryo enthronement.
 
+---
+
 “A moment, Agent,” said Vidya as Illapa walked past her office door.
 
 Illapa halted. Vidya was at her desk, scrutinizing her comm. If for nothing else than curiosity, she stepped inside and, on instinct, closed the door behind her. A lone chair sat opposite Vidya’s desk. Best to sit. Vidya’s thinking, which despite the furious pace of her mind, was a thorough process. Her office was dim, lamp lit, no windows. The walls were books, many old and peeling. What titles Illapa could read seemed impossibly dull. On the corner of the desk, a small bronze statue, Hindu in style, depicting a man on one knee, winged, and with the head of a bird. The bird-person held his right palm towards the sky and in their left, held a censor, or orb of some kind. From a box at its feet, the velvety smoke of incense drifted upwards toward the low, simple ceiling.

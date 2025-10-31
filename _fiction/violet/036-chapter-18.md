@@ -37,6 +37,8 @@ Illapa held a cigarette to her own lips, then touched the end to Tir’s. Tir dr
 
 “My hotel room is just…” She pointed to a balcony a few floors down, on another building, “perhaps we can evaluate our options from there?”
 
+---
+
 After, Illapa rolled over in the sheets. From the silver case on the side table, she pulled two cigarettes, lit both, and handed one to Tir.
 
 “While I do enjoy a good talk,” said Illapa, “I find these more intimate engagements with scholars such as yourself far more rewarding.”

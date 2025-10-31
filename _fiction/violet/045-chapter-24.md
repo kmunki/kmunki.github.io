@@ -31,11 +31,15 @@ Deep rumbling purrs came from Do, who wriggled around with impatience as Advika 
 
 “Ya, yaaaank” said Do, through a half yawn, then with one last rub across Advika’s shins, she padded off down the hall. The porter followed, tipping her hat goodnight.
 
+---
+
 Hye slept first, exhaustion claiming her in minutes. 
 
 Some hours later she woke. The Sifu was seated on the edge of the bed, staring at the door. In the dark of the room, she seemed a statue, though the gentle rise and fall of long, slow breaths indicated otherwise. Half asleep herself, Hye asked if she should take watch. No, said her Sifu in her pseudo somnambulant monotone, go back to sleep. 
 
 Permission granted, her body overrode her honor and pulled Hye back into the depths of dreamless slumber.
+
+---
 
 Early morning found its way into the city. Shopkeepers with keys in one hand, tea in another, and breakfast bun held in the mouth as they fumbled to unlock for business, found two rather worse-for-wear women waiting for them. A flashed brick of cash raised eyebrows and opened doors ahead of schedule. Shopping became Hye’s next lesson.
 

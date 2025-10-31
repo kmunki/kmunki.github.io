@@ -47,6 +47,8 @@ Quaint name for neural plasticiser, thought Illapa. She had dosed with it during
 
 The lemur’s face lit up with delight as she popped another grape into her mouth.
 
+---
+
 Outer Mombasa was a cluster of formerly free floating Drift Cities now all but permanently moored off the coast. In theory, any one of them could weigh anchor and sail off, but only a few had ever done so. For the bulk that remained, their economies had become so intertwined with the advanced industries around Inner Mombasa, Nairobi and the rest of the Valley it would have been foolish to consider leaving. Small factions of secessionists always agitated to cut rope, but could never muster majority. Residents were private—Outer Mombasa offered the option of isolation without the inconvenience of it.
 
 Biby guided Illapa to a skiff shuttle, a hovercraft. The driver, an old salt of a woman, harrumphed a greeting. Biby said a single word, Kulullû. A nod, a key turn and the huge fans roared to life. They slid over the sand and then surf, skipping along the gentle waves, weaving and twisting through the labyrinth, under bridges and between floating domes. Kulullû was a far out cluster of large icebergean structures. For each, a story or two rose above the water while most of the colossal buildings were submerged. Illapa could see the lights twinkling in the ocean below like an inverted night skyline.

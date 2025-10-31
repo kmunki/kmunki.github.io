@@ -93,6 +93,8 @@ Of the many worries ogumo presented, mere existence was what most haunted Advika
 
 “I don’t know. Whomever took your sister, whomever is after you, Hye, is resurrecting war-relics.”
 
+---
+
 Night fell. The train plunged along through the meters-deep path in carved through Siberian snow. The low glow of the guide lights rippled across the uneven wall of surrounding white. 
 
 Hye’s stomach had grown tired of being empty. It rumbled and gurgled as they walked to the dining car. The gentle rock and sway of the train brought Hye’s hand up, in part for the balance, in part to it run it along the low ceiling. More than stabilizing, she could feel the train through its skin: engine hum, buffeting winds, subtle metal flex as they rounded a curve. Beyond were whatever frozen horrors the Taiga Wilds offered. Not a hand’s width separated civilization and chaos. Yet she did not withdraw from it, but pressed her palm to it, wishing to feel it through the barrier.

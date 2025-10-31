@@ -99,6 +99,8 @@ The boy and another two arc crew members arrived, loading the last of the agar.
 
 “Be safe,” said the Arc Chief as the two climbed into the transport cabin, “take care of each other and remember, the war starts tomorrow!”
 
+---
+
 Crossing the steppe, Hye saw it with new eyes. Edge-lands had, upon her first arrival, been thrilling; a home to adventure, the place where the madness of the Wilds was held at bay. Now she saw that there was no such place. No border existed. The Wilds, the edge-lands, civilization… what was Novy but civilization? What was Ji-woo and Violet’s secret coup but the law of the jungle? The clear lines were gone. No map was real: only a reference, a shared hallucination, and structured lie in one. Tire tracks in dirt turned to gravel road, which soon widened, filled with motos and litters and auto-carriages. Buildings sprang up and at their center, the train station. The rig rolled into the cargo area, isolated from the passenger cars, public and private. Forklifts and trollies loaded and unloaded, beeping and clanging. Laborers shouted, station administrators milled about, hardhatted and yellow-vested, stamping forms and filling out ledgers.
 
 They were directed to a large open cargo car. The crew got out. Advika and Hye joined them unloading barrels. Handling agar this way, as vast barrels, was disorienting. Each drop was precious, and yet so many drops were needed for so much. A train’s worth would hardly last Koryo itself a week. It may never even leave royal hands.

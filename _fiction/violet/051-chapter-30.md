@@ -31,6 +31,8 @@ Advika revved the throttle and they shot off down the river.
 
 As they rounded the bend, Hye turned to look back. There, standing on the edges of both sides of the river, were several sets of wolves watching them depart. In the center of the ice, where their moto had been, was a single massive wolf, a dire, with a scar across one eye. Its lone eye held her gaze, evaluating, until they disappeared behind the trees.
 
+---
+
 Their luck held, however, and they rode on. Each time they paused to rest and recharge the batteries, Hye expected to catch movement in the trees. Feeling the eyes of some creature watching, she would peer into the woods or over her shoulder into the expanse of white, each time expecting to see the wolf, far off, staring back. But they were alone.
 
 Near the end of the following day, they stopped to take advantage of the remaining light. They released the cinder hawks to hunt into an empty brilliant blue winter sky that held nothing but the low, hard, bright sun. Beneath it was the incandescent snow and shadowed forests. This would be their last push. Camp set, the fire burning, and perimeter established, they sat and ate, facing each other at angles, so they could easily see over the other’s shoulder. 
@@ -92,6 +94,8 @@ The cinder hawk trotted over the ice to the mice and once again looking from Hye
 “See? You’ll get along great. Come on, Trine, you’ll be safe here.
 
 The little fusion of mice situated themselves into this pocket, all three heads able to poke out from the pocket flap at will and chirped merrily with warmth. Mutually curious, the hawk leaned over and let the nearest mouse touch her beak and sniff it as they set off down river.
+
+---
 
 A bellow came from the woods, starting low and finishing in a high pitched blare closer to siren than a natural sound. Cracks and shots of splintering trees echoed over the ice as whatever it was charged through the few trees between it and the frozen river edge.
 
@@ -202,6 +206,8 @@ Staying slow, Advika drove the snow moto along side the pack, then stopped. All 
 There was no acknowledgement. Each lowered its head to return to eating.
 
 Advika and Hye drove on towards the glint to the north, dusk approaching.
+
+---
 
 The clear sky held for an hour before the southern horizon darkened. A fast moving storm, flickering with lightning, chased them north. The hasty sub-arctic dusk combined with the heavy clouds and swirling snow to create midnight darkness by mid-afternoon. Winds whipped up ice crystals and old snow that stung their faces. Useless, the cinder hawks hunkered their pouches. Sideways driven snow obscured the world; each infuriating snow flake mirrored back their headlights into a churning white wall. They slowed to a half-speed crawl. To come this far to smash into a tree or drive off an unseen ledge was not an option. Advika piloted by memory and will. 
 

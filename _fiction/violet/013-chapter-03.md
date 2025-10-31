@@ -41,6 +41,8 @@ He started laughing again and pushed past Hye and Sun.
 
 “You think it’s about earning it, or deserving it. Respect! Ha!” His posse followed. “That is your mistake, Seong-ma. Selection is about power. Power you don’t have and have no idea how to get. Those who are Selected *already have it*. And this time, the person who has it, *is me*.”
 
+---
+
 Viceroy In-yeong’s mood was already curdled from Prince Ji-woo’s visit. How the man managed such obsequiousness and pompousness into every whinging phrase, each mincing gesture would have been poetic were it not so irritating. Begging and demanding assistance in Selection. The gall! Five decades and yet his mind was as smooth and soft as his princely hands. Hundreds of royals, most true progeny, and that womb-error thought he deserved to rule, among all of them. To wield power. 
 
 Now here she was, asking some foreign-born rearer brought in by her predecessor for a favor. The question was a bitter one.

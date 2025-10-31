@@ -107,6 +107,8 @@ Miriam straightened up and said "It'll be dark and quiet when you check back in 
 
 A corner of Li Xing's mouth let a half-smile escape.
 
+---
+
 Later Li Xing passed the doors of the lab, the observation windows showing the dull blue-gray light of the empty, shut down lab. Li Xing smiled, Miriam never failed.
 
 Her thoughts returned to the dead agent. She seethed. 

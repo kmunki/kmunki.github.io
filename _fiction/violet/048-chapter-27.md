@@ -19,6 +19,8 @@ On a global scale, quite a bit goes wrong every a few days. Narrowing it down to
 
 *Most pressing are the attacks on multiple high ranking officials homes, resulting in the “deaths” of six heads of state and the confirmed abduction of at least thirteen, if not more, individuals of meaningful prominence. Most remarkable is Yi In-Yeong, Viceregent of Koryo, head of the Joseon Dynasty, and the abduction of two of her fledgling royal daughters. Princess Yi Seong-ma, known as Sun, was one of several royal progeny (the Koryo are the last genetic oligarchicy) competing for Viceregency. The next Viceroy will become Chief Magistrate of the Continuum when power transitions in the coming years. Song-ma’s sister, Ward Hyeon Bong-cha, and their rearer-tutor, Sifu Advika Shidao, are missing presumed dead after the attack as well. Like the assaults on the regional chancellor of Iranian Persia and the Hamazan Inca, among other less notables, the attack was against a suzerainty. **	**Be a dear and get us plausible information on what the hell happened in Koryo.* *I’ve booked you on the catamaran from Mombasa to Pyongyang. From there it’s a two hour ride into the mountains, a moto will be waiting for you at the station. To stop Violet, The Olokun and I need information. Go get it.*
 
+---
+
 At the entrance to the palace stood a bedraggled woman in military ceremonial dress who seemed to be maintaining a sense of authority and decorum through sheer willpower alone.
 
 “And you are?” The guard sighed it more than she said it.
