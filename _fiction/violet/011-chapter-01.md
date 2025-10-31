@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: December 08, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Sixteen years since her rainy fishing village, and Hye still hadn't let go.
 
-With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
+Princess Sun found her Ward-sister exactly where she'd expected—balled up on the settee, nose buried in a book, oblivious to the golden-hour light spilling across the Summer Palace's black-in-the-shade-green-in-the-sun tiles. 
 
 “Fantasizing again, Hye?” Sun asked, teasing, “One of your wuxia novels? *Condor Heroes?*”
 
@@ -29,27 +29,17 @@ Sun laughed, straightened to sit upright, became solemn and put her hand on her 
 
 Both fell back into the chair laughing.
 
-“Have you ever wondered though?” Hye asked, dreamy, “What would have happened if the Xuande Emperor had actually died then? He was *so *sick. It would have ended at seven! No auspicious Eighth Voyage to the East! No Golden Coast! No Inka War!”
+"Have you ever wondered what would have happened if the Xuande Emperor had died?" Hye asked, dreamy. "No Eighth Voyage. No Golden Coast. No Inka War."
 
-“What an odd thing to consider,” said Sun, pondering, “Would it even have been that different? ‘Chance is the droplet’s path, not the river’s,’ no?”
+"Imagining a different world—where would you even start?" Sun said. "'Chance is the droplet's path, not the river's.'"
 
-“Proverbs? Please, tell me you aren’t going to quote those when you’re Viceroy.”
+"Please don't quote proverbs. Maybe there wouldn't have been a Long War at all—"
 
-“No, because I shall be coining them. I don’t intend to be a footnote in *anyone’s* story.”
+"Some other monster would have come along with some other cause," said Sun, leaning her head onto her sister's shoulder. "Shouldn't you be studying more recent history?"
 
-“Sometimes I wonder, though, how close we came to something else happening. Maybe Zheng He wouldn’t be world famous… and no one would even know who the Xuande Emperor was. He ruled the Ming Dynasty at its zenith for two decades! The Emperor Who Met the East!”
+"I bet Sifu agrees with me."
 
-“Imagining a different history, a different world—where would you even start? So much would have changed,” said Sun, half to herself, under her breath.
-
-“A hundred year delay. The—” Hye flipped through some pages, “The Europeans didn’t come looking for gold until later. Maybe,” she lit up, “maybe there wouldn’t have been a Long War. No Ananda to release the plagues that started it all. Or…maybe—”
-
-“And maybe the Far Siders made it to the dark side of the moon. A whole city up there, forgotten by all of us! Oh, Hye,” said Sun, leaning her head back onto her sister’s shoulder, “I suspect something like the Long War would have happened no matter what. Asura Ananda, the plagues weren’t special. Some other monster would have come along with some other cause.”
-
-“I bet Sifu agrees with me.”
-
-“Sifu Shidao *is* history—she’s a living textbook. Maybe she knew Ananda and we can just ask her if she thinks someone else could have done it. Zheng He, Treasure Voyages, *please*. Shouldn’t you be studying more recent history?”
-
-Hye swatted her, “I have been! All about arcologies,” she said, “I will visit one, one day.”
+Hye swatted her, "I have been! All about arcologies," she said, "I will visit one, one day."
 
 “And I will rule Koryo—perhaps all the Continuum one day,” she replied, attempting to tease, but unable to be anything but earnest in that desire.
 
@@ -75,7 +65,7 @@ She sighed, “Sweet sister, always looking at the sky.”
 
 “It’s not a waste! I’m ready for any test! We could bet the Sifu for her help. She could get us a boon. I know *Arcologies*. I know it, Onzulu to Pearl. I could beat her.”
 
-“Prove it,” said a stern, yet playful voice.
+"Prove it," said a stern yet playful voice.
 
 Both girls startled. Standing behind them was an old woman wrapped in simple gray silk robes and leaning on a polished staff. Her long gray hair was up with a few twists, held in place by a jade skewer and her eyes were age-faded icy purple. 
 
@@ -143,7 +133,7 @@ Hye huffed and lowered into the fighting stance that she realized Advika had her
 
 Sun exhaled, calming herself. “So be it. Vizier,” she turned again to Daewoo, “the game itself is martial, hence their readiness to spar, and intellectual, hence our need of you. Questions are asked by an arbiter, me, during the fight. Fighters must shout readiness to reply first for the honor to answer, they are then judged on eloquence, accuracy, and brevity. A perfect response is a single poetic line that answers the heart of the question, showing the deepest understanding. These are rare. Recitation of facts is sufficient. Scoring is, unlike the rules, quite complicated. If you merely state your judgment, I shall tally the score.” 
 
-“There is business to which we need to attend,” said the Vizier, smoothing her green and white outfit, absent-mindedly, “but as I possess both the aesthetic and scholarly skills you require, I shall deign to adjudicate this little game, if nothing else to keep the old ways alive.”
+"There is business to which we need to attend," said the Vizier, smoothing her green and white outfit, absent-mindedly, "but as I possess both the aesthetic and scholarly skills you require, I shall deign to adjudicate this little game, if only to keep the old ways alive."
 
 All three bowed, a hand-capped fist held to their chests. “Thank you, your honor,” said Hye.
 
@@ -173,7 +163,7 @@ Hye and Advika’s attacks had paused during the recitation of the judgement, th
 
 Advika nodded with pride. “Not so barbaric, eh Daewoo?”
 
-“Not at all. Imagine how elevated it could become without your churlishness,” the Vizier shot back. Advika laughed and looked at Sun.
+"Not at all. Imagine how elevated it could become without your churlishness," the Vizier shot back; Advika laughed and looked at Sun.
 
 “Fight! Question Two!” Sun had barely uttered the first syllable before Hye was in the air hurtling towards Advika. Daewoo had seen expert demonstrations of the Duel in the past, as it was a traditional part of several celebrations and ceremonies. But not like this. What Advika had taught these girls was something else. The speed, force, and grace were exceptional. She nearly didn’t hear the second question, and blustered.
 
@@ -185,7 +175,7 @@ Advika nodded with pride. “Not so barbaric, eh Daewoo?”
 
 Hye, about to shout her readiness, found herself under a barrage of blows that were, themselves, feints to get in close enough for Advika to grapple her. The old woman’s arms were iron vices. She didn’t take senescence suppressors how was she this strong, Hye thought, desperate to get an arm free.
 
-“Answer!” Advika bellowed while strangling her student. As she was about to speak, Hye launched off the ground sending two knees hurtling towards Advika’s face, forcing her to release and handspring away.
+"Answer!" Advika bellowed, arms locked around her student. Hye launched off the ground, knees driving toward Advika's face. The old woman released and handsprang away.
 
 “Sifu first response!”
 
