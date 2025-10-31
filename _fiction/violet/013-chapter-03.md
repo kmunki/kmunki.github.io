@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-03/
 act: 1
 date: December 22, 2025
 ---
-Stepped into the mountainside, the Summer Palace grounds were a more vertical affair than its southern city siblings. At its center, the vast Hall of Celestial Balance housed the Ruby Dragon Throne—where power was invested with ceremony, not where it was exercised. 
+Stepped into the mountainside, the Summer Palace grounds were a more vertical affair than its southern city siblings. At its center, mid-way up, was the vast and ornate, double-eaved Hall of Celestial Balance, containing there in the Ruby Dragon Throne. Beautiful, stunning, and almost always empty, the hall was where power was invested with due ceremony. It was not where it resided, not where it was exercised. 
 
-Daily life and business were conducted in the Palace of Civic Contemplation near the palace summit. Though small in relative grandeur, the council offices held stunning views of the Koryo mountains through walls that were little but glass with wood skeletons—a deliberate fusion of ancient style and modern materials built around a central meditative garden. No need for secrecy among royals.
+Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though small in relative grandeur, the Viceroy and her council's offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush, meditative garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through walls that were little but glass with a wood skeleton. No need for secrecy among royals.
 
 As they entered the long hall to the Receiving Room in the Viceroy’s Council Chambers, they were met with laughing and shouting. A boisterous group of royals were approaching.
 
@@ -29,7 +29,7 @@ The prince scoffed. In his early fifties, he was still boyish and slight, wearin
 
 “Best win before making promises,” said Sun, attempting to walk past. “Usually royals tend to vote for someone they *respect*. You’re awful confident for a serial failure and perennial punchline.”
 
-Ji-woo stepped forward, pressing close until they were nose-to-nose. Sun neither flinched nor blinked.
+Ji-woo surged forward, pressing close until they were nose-to-nose. Sun neither flinched nor blinked.
 
 “This time, you foreigner-raised brat, it’s different. I’ve learned from my mistakes. I’m an ogre with an iron rod. I’m done begging for what is mine by right.”
 
