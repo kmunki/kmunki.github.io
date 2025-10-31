@@ -106,3 +106,29 @@ A few met her gaze. Many looked at the floor, shoulders drawn up.
 Miriam straightened up and said "It'll be dark and quiet when you check back in ten, President Wen.” She could not entirely eliminate the quaver in her voice.
 
 A corner of Li Xing's mouth let a half-smile escape.
+
+---
+
+Later Li Xing passed the doors of the lab, the observation windows showing the dull blue-gray light of the empty, shut down lab. Li Xing smiled, Miriam never failed.
+
+Her thoughts returned to the dead agent. She seethed. 
+
+The Shah gambles away a ticket and someone steals from her rotting *office*. Miriam’s badge lifted during the gala. Picked locks. The plan. The *List*. Hideyo had fumbled in a way she hadn’t expected. Perhaps the party itself was a mistake—hubris.
+
+No. It had been the right play.
+
+Powerful countries act like powerful countries. Soft power. Diplomacy. The art of signaling one’s place was strategic, much more delightful than pushing around black and white pebbles. Reading the nuance of bows, the hierarchy of who sat where and spoke with whom; which jokes got polite chuckles and gentle arm touches, “Oh how marvelous, your excellency. May I speak with you for a moment?” Why muster an army when a sentence could disarm the enemy? Bending ears and eyes and purses and vaults was always more delightful than bombing and kidnapping. Terror had its place—what a lever it was with the right fulcrum—but it could be brittle. His death was necessary. Power in front of her people, sovereign authority. 
+
+Those Keralans besotted with their conquered continent knew how to pray upon your last shreds of dignity, didn’t they? Brand was washed up. The ESA a mess. It was a zero risk tactic for the UKK’s Intelligence Ministry to send him, but what did they want? The Samraat was a major stakeholder in Violet. If the Keralan crown was so intent on finding out what her little upstart was doing, perhaps filling the empty seat held for her royal grace at every board meeting would have been a better way to start.
+
+She had some sympathy: the Indians had bad luck with tiny islands dreaming of world domination. The Europeans would be angry as well, of course, another blow to their shriveling reputation, their position within the UKK further diminished.
+
+How to adjust? How to leverage this? Crisis and threat, find the win. Defense would be easier to explain now. Investments could be articulated to the board. R & D had always been corporate only. Time to be a country. Not quite military. Just M.A.D. capable. New nation, no treaties yet —not even a day old and already a diplomatic incident. 
+
+*Frustrating*.
+
+Ripple effects and consequences. Who would come next? Not the Rift Valley. The Inka? Perhaps, though Condor was a known threat. The Sok-Oyo? A risk… but they could be bought, and would keep Violet’s hands clean. Direct action would require transgressing one of the dozens of tangled global treaties that kept the peace for a near century. One got the impression they made war too much paperwork to be worth it. One mistake, though, and we’re back to attempting to annihilate humanity just to catch our enemies in the collateral damage, living out of arcologies. 
+
+But Brand’s plan had entirely backfired. The Keralans were out in the open, exposed while her secrets stayed safe. Moreover, this was nearly an international incident that, with the right leaks and insinuations she could turn eyes away from Violet’s debut, toward the old guard nibbling away at the boundaries of the peace. She must move first. *She* is who would come next. With the spotlight on them, it was all that much easier for her to move in the shadows.
+
+Which meant it could all finally, in earnest, *begin*.
