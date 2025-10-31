@@ -36,3 +36,33 @@ Illapa held a cigarette to her own lips, then touched the end to Tir’s. Tir dr
 “Ah, what ever shall we do instead?”
 
 “My hotel room is just…” She pointed to a balcony a few floors down, on another building, “perhaps we can evaluate our options from there?”
+
+After, Illapa rolled over in the sheets. From the silver case on the side table, she pulled two cigarettes, lit both, and handed one to Tir.
+
+“While I do enjoy a good talk,” said Illapa, “I find these more intimate engagements with scholars such as yourself far more rewarding.”
+
+“Oh you have many?” She teased.
+
+“I suspect you do as well.”
+
+“How presumptuous!” She held a hand to her chest in feigned shock, “And how flattering. One does one’s best to maintain strong relationships with the rest of the community. Though this was quite enjoyable,” Tir continued, with a hint of suspicion, “I do still wonder who sent you.”
+
+“Ah, you have me,” said Illapa, hands up, “I’m a spirit from the future, here to warn you that  carci-vaccines are no longer effective and these things,” she waved the cigarette around, “will kill you.”
+
+Tir stared, stoic, “You may jest, agent, but I am no fool. Your people have been following me since I arrived here. I’ve had a tail at every turn. You have me, I’m here, drop the pretense.”
+
+“My people?” Asked Illapa set her cigarette down in the tray, “I’m here alone. If you’ve been followed, it’s…” Violet. How much to disclose? Was Tir already compromised? The Persians weren’t, as she put it, fools. She would have been trained in counter-espionage before being allowed to approach a station, let alone attend Uplift.
+
+Tir was visibly startled. The same thoughts raced through her mind. If this Inkan agent isn’t with them, who were they?
+
+“What can you tell me about them?”
+
+“Why should I trust you?” Said Tir, drawing away. She swung out of bed and stood, wrapping the sheet around her in sudden modesty, “I’m not comfortable with you here any more, you should go. I have a presentation to prepare for.”
+
+Illapa, stoic agent again, got out of bed and began to pull her clothes on. The bed separating them, Tir looked across it as if she had let a stranger into her room. She was having regrets, letting her libido get the better of her. Everyone wants something, it was never just her, just attraction. Always an angle, some ulterior motive. I will not be used, she thought, as the agent pulled on her jacket and boots.
+
+“Good then, you know where the door is,”
+
+Illapa walked to it, placing a hand on the handle, “when you realize I’m not your enemy, and you figure out they are, come find me. I’d still like to help,” she said, opening the door.
+
+“I’ll be sure to do that,” said Tir sharply as she drew open the closet. A small white streak flashed past her. She recoiled and screamed. It darted across the room and through Illapa’s legs, out into the hall. The secret agent sprinted after it.

@@ -102,3 +102,79 @@ She ran a hand along the large briefcase thing that Vidya had been modifying.
 “Go see wardrobe for your dresses, they all have the standard adjustments and enhancements. This *coffin* will be delivered to your carriage.”
 
 As promised, the formal dresses were interwoven with arachnoweave. With a tuck and clip they became tactical pants and top, allowing for more practical movements. The cut was such that leg holsters disappeared. Armed and fitted, she picked up the huge case, and made to leave as Ambassador Illapa, honored guest to the Koryo enthronement.
+
+“A moment, Agent,” said Vidya as Illapa walked past her office door.
+
+Illapa halted. Vidya was at her desk, scrutinizing her comm. If for nothing else than curiosity, she stepped inside and, on instinct, closed the door behind her. A lone chair sat opposite Vidya’s desk. Best to sit. Vidya’s thinking, which despite the furious pace of her mind, was a thorough process. Her office was dim, lamp lit, no windows. The walls were books, many old and peeling. What titles Illapa could read seemed impossibly dull. On the corner of the desk, a small bronze statue, Hindu in style, depicting a man on one knee, winged, and with the head of a bird. The bird-person held his right palm towards the sky and in their left, held a censor, or orb of some kind. From a box at its feet, the velvety smoke of incense drifted upwards toward the low, simple ceiling.
+
+“That is Garuda, King of the Birds, vahana of Vishnu, and my family’s namesake. He sets me at ease.”
+
+“Something interesting?” Illapa nodded at the comm.
+
+Vidya let out a huff of a laugh. She knew her face gave her away, painful as it was to admit. Stoicism was a point of pride for her. But Illapa was more perceptive than most. Surprising for an Inka. Not so surprising, however, as the stream of words across the tiny screen of her comm. There were several possible explanations. Most obvious, that the Olokun was lying, and, in doing so, attempting to deceive and undermine the agent of one of her mortal enemies. Yet this information would not modify their mission, not directly. So unlikely. Another possibility was that her information was simply wrong, though for one of her skill to transmit such information believing it true and herself mislead seemed—implausible. Of all the answers, though, what she now read, seemed, impossible as it was, to be most likely to be true.
+
+“Thank you for your patience, Illapa.”
+
+“Rare I get time with my thoughts.”
+
+“I imagine both of them are delighted for the company.”
+
+Illapa feigned to stand. Vidya raised a hand. 
+
+“Wait, wait. Apologies. I… do not know how to share this information. It feels patently absurd and also obviously correct.”
+
+“Let me get it, same as you. Show me the comm.”
+
+Vidya began to hand the device across the desk and, half way, froze, unsure. For an instant, she could keep that information from not just Illapa, but the world. For a bit longer, the past would stay buried. Illapa leaned forward and plucked the device from her hand.
+
+The Inkan’s face was wry, expecting some titillating gossip of another of Ursine’s historic conquests. As the words ticked by, her eyes narrowed. Her arched brow furrowed. She leaned into it, drawing the comm close, holding it with both hands, as though it were weighty, or unstable. Not a long message. Time enough elapsed for three full passes. There was no mistaking the meaning.
+
+“You believe this?” Illapa asked, not able to look up.
+
+“I do.”
+
+“Sapa and serpent feathers.”
+
+“Indeed.”
+
+“Starts to explain some things. She’s aged well, eh?”
+
+Vidya laughed, harder than warranted as it escaped under pressure.
+
+“Should we all be so lucky,” she added, composing herself.
+
+“Whatever she is could—” she caught herself—“there are opportunities for Condor and Kerala both if we were able to get an alliance, bring her into the fold.”
+
+“Even get a sample.”
+
+“Is that an order? Bring her back dead or alive?”
+
+“An ancillary objective. Ji-woo and Violet remain the more imminent threat. She should have died ages ago, asura or no. That neither time nor the dozens who would have put her on trial for crimes against humanity and civilization have been able to stop her bodes well for a partnership, should one be possible.”
+
+“A partnership? With *her?* She deserves death not allies.”
+
+“Which war do you want to win, Illapa? Today’s or last century’s.”
+
+“No one won the last one.”
+
+Vidya nodded as her gaze drifted to the incense burner. She watched the smoke curl around the legs and up through the wings and hands.
+
+“How many Inka died in the Long War?”
+
+“You know the answer,” the Inka responded.
+
+“Yes, I do. Three hundred and forty-three million, seven-hundred thousand, two-hundred and sixty two is the most correct count, but of course, record keeping became rather poor for the several years of the war. Twelve million, eight-hundred thousand, six-hundred and twelve died in the first three months when the plagues of Ananda were unleashed. Our numbers were similar, worse in some ways, better in others, but a tragedy, same as yours.”
+
+Illapa had gone still, deadly.
+
+“Your point, Vidya?”
+
+“History is done. Settled. Vengeance empties no graveyards. Our disappointment in that truth does not make it a lie. Knowledge is our priority, an edge against what is coming. Once Violet’s puppet is dealt with, we must see if we can gain the old asura’s allegiance. The Olokun understood such a bargain with you. She would be a near infinite source of intelligence and interest.”
+
+“And if she is unwilling?”
+
+“Justice.” 
+
+“After all this time.”
+
+“Don’t forget your coffin, Ambassador.”

@@ -98,3 +98,65 @@ The Arc Chief waved it off. “Is crass to say we are even. You are now bonded t
 The boy and another two arc crew members arrived, loading the last of the agar.
 
 “Be safe,” said the Arc Chief as the two climbed into the transport cabin, “take care of each other and remember, the war starts tomorrow!”
+
+Crossing the steppe, Hye saw it with new eyes. Edge-lands had, upon her first arrival, been thrilling; a home to adventure, the place where the madness of the Wilds was held at bay. Now she saw that there was no such place. No border existed. The Wilds, the edge-lands, civilization… what was Novy but civilization? What was Ji-woo and Violet’s secret coup but the law of the jungle? The clear lines were gone. No map was real: only a reference, a shared hallucination, and structured lie in one. Tire tracks in dirt turned to gravel road, which soon widened, filled with motos and litters and auto-carriages. Buildings sprang up and at their center, the train station. The rig rolled into the cargo area, isolated from the passenger cars, public and private. Forklifts and trollies loaded and unloaded, beeping and clanging. Laborers shouted, station administrators milled about, hardhatted and yellow-vested, stamping forms and filling out ledgers.
+
+They were directed to a large open cargo car. The crew got out. Advika and Hye joined them unloading barrels. Handling agar this way, as vast barrels, was disorienting. Each drop was precious, and yet so many drops were needed for so much. A train’s worth would hardly last Koryo itself a week. It may never even leave royal hands.
+
+“I am certain there is a better way to do that,” came a voice from behind Hye as she loaded a barrel onto a dolly, “it appears that, regardless of what you set your mind to, you set it to doing it imperfectly.”
+
+Hye turned to see Vizier Daewoo Eun, smiling with bashful joy. Stunned, Hye reached out and touched the Vizier’s face, then bowed deeply.
+
+“I thought…”
+
+She held up a shushing hand.
+
+“That makes two of us. You are here now. Both of you,” she smiled at the Sifu.
+
+“Good to see you, Eun,” said Advika. “We’ve some luck left yet.”
+
+The Vizier had worn her hair down, and her large, flat-brimmed brimmed hat had cast a shadow over her face. Cuts and bruises were half-hidden behind cover-up bandages.
+
+“You were… hurt,” said Hye.
+
+“I still am,” said the Vizier. She pulled her flowing top-robes aside. Her entire upper torso was encased in an exo-skeletal bodice, woven from green chitinous fibers. At her waist, it thickened into a harness, from which emerged four insect-like legs, two front, two back. “My back is broken. I was in a coma for the first two days, and have been learning to move in this thing since I woke up.”
+
+“What has…” but she could not finish the question. She felt as though she were hallucinating.
+
+Again, the Vizier smiled, understanding the Ward’s utter bafflement.
+
+“We’ve a long ride. There will be time to discuss. I got your message.”
+
+Hye and the Sifu bid the boy from the arc and the rest of the crew goodbye with half-nods and subtle gestures. A station loading bay was no place for emotional partings. They were, to the random observer, just crew, following some Joseon aristocrat to fulfill some task.
+
+Of the many migrations the Koryo royals made throughout the year, most were by train, and all within private carriages. Hundreds of royal cars could be linked up, creating a kind of rolling palace. Each one was unique and ornate, with the exception of where the cars coupled. No matter how baroque the aesthetics, the design of each became identical upon reaching the car ends, creating a flowing river of Joseon art as the train rolled out of the station. Daewoo’s car was, like the Vizier, both bombastic and traditional. Dark lacquered woods with intricate carvings and inlays accented everything. As they sat, the train accelerated south.
+
+“Given my task is to smuggle you home and your cryptic message, I have made some assumptions. At this point I am wiling to gamble my life on those.” 
+
+The Vizier adjusted her hands in her lap, using the opportunity to scrutinize Hye and the Sifu. Both were beyond tired, as if sleep was as unimaginable a luxury as breakfasting on the moon. Hye no longer wore the wide-eyed innocence she had come to expect. Daewoo found herself under the scrutiny of the Ward. She does not know if she can trust me, she thought, both wounded and heartened. The Sifu—golden gods, those eyes! How even after a week I had forgotten—taught her well.
+
+“Seeing the two of you feels, for the first time since that night, like I have a friend in Koryo. Dramatic, I know, perhaps jejune. Tolerate my eccentricities for a moment, both of you, please.” 
+
+She poured them each tea. Lifting hers, cup between her palms, she inhaled and took a small sip.
+
+“Ji-woo’s rise to power was all but complete before I had even opened my eyes again. Though others remembered the attack, we were the only ones who saw ogumo and survived. The official story quickly became that it was a Zhongguo assassination strike. And that… you, Sifu, were a suspect. There is a warrant for you. Ji-woo’s council has spun the story that the old foreigner, living in the Zhongguo before she was brought to Koryo, aided the attack and abducted Hye. Sun, they proposed, had escaped, was in hiding. She would re-emerge in time, when it was safe. All this was explained to me within an hour of opening my eyes. They did not ask me what had happened. I knew better than to offer.” She took another sip of tea. “I quickly learned Ji-woo was not yet Viceroy, merely elect. The council, despite his machinations and protestations, demanded twelve days for things to calm. I held out hope that the lie of Sun’s escape was, like Hye’s abduction, a transposed falsehood, hewing as close to the real as possible. I set to my research. Should you return in time, how could we, in the eyes of the council, prove Ji-woo false?”
+
+“What do you know about his falseness?” Asked the Sifu. An obvious test, one without malice or suspicion.
+
+“He is not the architect of this mess. He is a pawn. He must be. In council meetings, where I am relegated to mere note taker, a passive observer, it is obvious his ideas, his words, are not his own. From one question to another, it is as though another being entirely inhabits him. Stranger still is his constant need for breaks, to recede from the world, to ponder. Never was the man even willing to blink before blurting whatever transient thought flickered through his dim mind. Now he contemplates? No. He is aided, or worse, puppeted.”
+
+“I agree,” said the Sifu. Caution and optimism swirled in Hye.
+
+Vizier Daewoo smiled, “By the Heaven’s Emperor, Sifu, never had I thought I’d hear those words from you directed at me.”
+
+“We live in interesting times, Vizier.”
+
+“That we do.”
+
+“We,” Hye began to add, then hedged, “may have details that will help.”
+
+“I can scarcely imagine. Let’s start with what I am certain about. We cannot take the throne by force. No council will try Ji-woo based on our ravings. I searched for some procedural error he made, some obvious mistake, but can find none. He is, from almost every angle, safe.”
+
+“Almost?”
+
+“Almost. I’ve been going through our laws. The old ones, as you suggested, Hye. Most are more written tradition than codified jurisprudence. But it *is* there. The challenge would be legitimate. Far from ideal—we are exposed to a massive amount of risk. If we fail, we help him further, anchoring his legitimacy and revealing ourselves as all but traitors. But it is within the heart of Koryo law and new Joseon tradition. I believe I can get the council to allow it. That is my part. And yours, Hye, well—” Daewoo raised an eyebrow at the Sifu—“that is where your teacher’s base pugilism has proven most fortuitous.”

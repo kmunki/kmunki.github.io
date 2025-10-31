@@ -92,3 +92,85 @@ Of the many worries ogumo presented, mere existence was what most haunted Advika
 “But that means… they found… no they had to grow, but… how?”
 
 “I don’t know. Whomever took your sister, whomever is after you, Hye, is resurrecting war-relics.”
+
+Night fell. The train plunged along through the meters-deep path in carved through Siberian snow. The low glow of the guide lights rippled across the uneven wall of surrounding white. 
+
+Hye’s stomach had grown tired of being empty. It rumbled and gurgled as they walked to the dining car. The gentle rock and sway of the train brought Hye’s hand up, in part for the balance, in part to it run it along the low ceiling. More than stabilizing, she could feel the train through its skin: engine hum, buffeting winds, subtle metal flex as they rounded a curve. Beyond were whatever frozen horrors the Taiga Wilds offered. Not a hand’s width separated civilization and chaos. Yet she did not withdraw from it, but pressed her palm to it, wishing to feel it through the barrier.
+
+The dining car itself was that odd mix of austerity and elegance one finds in such places. Small, simple booths, easy to clean, all of it affixed to the floor. A spot of respite for the a weary soldier or business traveler, their suits rumpled at the shoulders from being slept in, smooth with wear at the elbows and knees.
+
+Busier than expected at the late hour, few tables were open. By luck a pair of seats cleared at a small table. In addition to the surrounding traders and odd lone soldiers on leave, there were the almost-wealthy luxuriating in public; immigrants with their whole lives in a bag; the occasional indiscernible brooding bunch. Behind Advika sat one such table. Grizzled and dark, three brutes of ambiguous profession and purpose were hunched over their drink and expensively-shaped food which they ate with a somber relish.
+
+“I’ll order for us,” said Advika, “train food is… mmm, some things just don’t travel well.”
+
+Hye nodded. A calm had washed over her. She let her gaze drift through the car, lulled by the ambient sounds of clinking utensils on plates and the murmuration of the conversational chorus. 
+
+“By the blade, that job,” growled one of the brutes, her catching Hye’s attention. With casual cool, she let her eyes drift away, while her ears took focus.
+
+“In and out, smash and grab. Look at us,” said a bitter second, holding an arm close to her side. “Three left of *ten*. Even one of the og—“
+
+“*Hsss* don’t say it, not even here,” said an icy third, using her knife to pull bits of steak from her teeth.
+
+Not lifting her heavy brows from her drink, the growler said, “what good they did us.”
+
+“We got one, didn’t we?”
+
+“One, hah,” the bitter one coughed a laugh, “of two. Two *princesses*,” she said through clenched teeth. “Ten mercs plus two. Two over-promised beetles. Myrmidons my ass.”
+
+“Were we set up?”
+
+“A fair question,” said the icy one. “None of this was ordinary. Two monsters and two hands-worth of us for what? Some old woman and pampered girls—who fought like demons.”
+
+“And that Viceroy. Blowing herself up.”
+
+Hye dug her nails into her thigh.
+
+A round of nods and then a collective sigh.
+
+“Boss said the client would pay the same rate again for the second one, that’s still out there.”
+
+“Sadiya is offering the same *again?* We won’t have to work for a year.”
+
+“You saw what happened. That old woman is no joke.”
+
+As they spoke, the old Sifu returned with two mugs of tea, steam writhing out of them. Her face was kind, sympathetic. Then it shifted. Hye watched as her own fear transformed the Sifu’s face.
+
+“That last business deal sure was a tough one, eh?” Said Hye, bugging her eyes at her Sifu, making the hand-signal for danger, begging for understanding. “Nice to know it’s *behind us*.”
+
+Advika nodded slowly, letting out a sigh of empathy, then leaned back in her chair, throwing one arm over the back, “Aye, it was. But rookie you’ll learn that they’re all tough in their own way.” She took a long slurp of tea, savoring it loudly. “Come here let me tell you some secrets of the trade.”
+
+In a conspiratorial pose, the two hunched over their tea.
+
+“Mercenaries,” Hye whispered. “They mentioned the viceroy and… monsters.”
+
+“Said I *won’t do it*,” growled a mercenary.
+
+She pushed back her glass and stood. Her gaze flicked to Hye. A chance glance, nothing more or less. Hesitation, an instant of it, was enough.
+
+The merc looked at Hye, then at the back of the Sifu’s head, then back to Hye. Not this easy. Not *right here*. She walked around Advika to the table and slapped her hands down. *Well what do we have here* plastered all over her face. The other two mercs stood, confused, then it dawned.
+
+“Them?”
+
+Advika didn’t look away. She stared right back, purple eyes ablaze as the icy one nodded.
+
+The bitter one laughed.
+
+“Oh, no. Not your lucky day, now is it?”
+
+“We are on a train. This is all-land,” said Hye, protesting.
+
+“It is at that!” Said the bitter one, “but Istanbul is not. Not Cairo or Timbuktu, Lagos, eGoli. Only the trains, only the stations. Your ticket runs out at some point. Where ever you go, we’ll be waiting outside.”
+
+“Don’t fight it,” growled the other, “just come with us at Istanbul. You’re not getting off before then!”
+
+“If you’re thinking of jumping out, just knock on my door,” said the bitter one, “suicide needn’t be painful, I’ll put a bullet in you. You’re worth more alive, but I’m a generous gal, eh?” She ribbed her comrade and laughed.
+
+“I think,” said the icy one standing, “I shall have myself another drink to celebrate.” She walked past her colleagues towards the bar. Laughing, the other two followed. She turned, “enjoy your dinner!”
+
+Advika and Hye ate, quickly, quietly, and left, ignoring the taunts of the mercenaries.
+
+Back in their stateroom, Hye fought hysteria.
+
+“Which, ummm… ah, which station would—“ she struggled to complete thoughts. She didn’t know the stations. Not well enough to think of escape routes, of optional exists, of places to hide. If forced she couldn’t have come up with a strategy for Pyongyang, forget Cairo.
+
+The Sifu, calmly taking down her bag, began removing a few items and said, “we have to get off this train *tonight*.”

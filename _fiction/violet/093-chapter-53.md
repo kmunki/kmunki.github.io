@@ -72,3 +72,37 @@ There was a rustling and clanking from the kitchen.
 “Deal. Let’s go.”
 
 “See you two on the second sleep.”
+
+Illapa could not suppress her grin. Heavy and cold, her gun felt good in her hand. Arachno-weave kevlar wrapped her body. A half dozen little weapons were strapped to her body. And she had allies. Sapa be praised she might just get out of this alive.
+
+She made her way through the empty, darkened ballroom, weaving among the empty tables and couches. Mere hours before she had been trading stories with what she now had no doubt was an asura. Maybe more than just a… maybe *the*. The thought had crossed her mind more than once. Elided phrases, tactical ambiguity, the woman left so much to interpretation. Whatever age had been present earlier had been obliterated by adrenaline and cause. Her words of warning, how she was never able to relax here, haunted Illapa.
+
+As she approached the kitchen door, Illapa noticed a movement in the darkness. Damnit, Msizi, thought the spy, I said wait for—
+
+A slab of light fell across her as the kitchen lights blazed to life. Framed in the doorway, whatever had been Saongwon Moon was now the unmistakeable monster of Eshma’s childhood horror stories. The body had grown hulking, one arm hung large and huge down to its knees. With the other, it barred any remaining space in the doorway.
+
+Before it had a chance to roar, Illapa had put two rounds through it, both shredding the smaller shoulder. Ribbons of meat hung from the gaping wound. Please, by the Sapa, let them know why I was shooting.
+
+ It smiled greedily and began sprinting towards her. 
+
+Just slow it down, Illapa told herself, just get to safety, no fancy stuff. 
+
+She adjusted her aim, picked one of the thing’s feet and squeezed three times. Each round found the ankle, hatcheting it to shreds that crumpled under when it stepped down. Under the mutated corpulence’s weight the foot snapped nearly off, leaving broken stump, throwing it forward off balance. 
+
+Illapa leaped over it as it dove towards her, flailing and skidding. She landed, rolled, and came up running. 
+
+Do not look back. You make it or you die. 
+
+She sprinted back toward the kitchen. 
+
+“Get ready! I’m coming!”
+
+She leaped over a counter and dove through the fridge door, Eshma pulling it shut behind her. Msizi rammed the can of beans home into just as the ghul loped into the kitchen and, seeing their faces in the door, charged. The thick fridge door took the impact at full speed. With a crash it caved inward, deformed and dented. 
+
+The wendigo roared, then walked back over the main room. Soon it returned, gut once again distended, black bile on its hands and down its front. From among its pile of cooked limbs, it grabbed an arm, one with a gold cuff. Sitting back against the wall, it ripped off chunks, the cuff glinting. For minutes, it did little else but masticate. Finishing the arm, it looked up. 
+
+Spying Illapa staring at it through the now distorted window, the ghul hurled the meaty bones at the door in frustration. With a monstrous sigh, it looked down at its ruined ankle, the foot now attached by only threads of sinew. As much as was possible, it locked its gaze on the spy. With deliberate slowness it reached down, grabbed its own foot, and yanked it free of the leg. 
+
+A *fool me once* grin stretched across its ruined face. 
+
+It brought its severed foot to its mouth and took a smiling bite.
