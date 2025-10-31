@@ -92,3 +92,43 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 “What is she saying,” the General asked, noting Bolormaa’s extreme reaction.
 
 “My boy my boy,” Advika said, “thank you my boy you saved my boy.”
+
+---
+
+With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
+
+“You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”
+
+“You will,” said Hye, “because as soon as I leave you will grab your staff and begin hobbling about, stretching the bandages and burning up the calories the infusions need to accelerate your healing. Then you’ll faint—“
+
+“I would not faint!” Advika protested.
+
+“It is good,” said Bolormaa, who neither had noticed was standing at the doorway, “to be weak at times.”
+
+The Arc Chief looked depleted. She came into the room and sat in a chair facing both Hye and Advika. 
+
+“Children at Olgoi,” she began, “are raised in clutches. Most arcs are same. Raised together—by older clutches and a few rearers who raise many, many clutches their whole life .”
+
+“We have rearers in the Joseon Koryo as well, Arc Chief,” said Hye, “all of the Continuum, really. Sun and I have Sifu, a gift from our Generation Mother, Viceroy Jeoson Mi-Yong, who the Sifu—“
+
+“Owed a favor. Why she spent it on asking a war-relic to tutor a Princess and Ward, she never explained.” Advika paused, catching her breath, “but I don’t think you came in here to discuss the nuances of reproductive strategy?”
+
+“No, no,” Bolormaa said, with a sad smile, “I have point, promise. Olgoi are like most born post-war. No *parents*. Boy was one day wandering around arc. We encourage this, to learn arc ways and workings. I turned a corner and boom! He bumped into the Arc Chief!” She slapped her thighs in emphasis. “Not watching where he was going. I almost scold him, but then instead, say, ‘Follow me.’ 
+
+Then I ignore him. Whole day, he follow, quiet as a scut. Next morning, he at my door. Again he watch and follow. This all years ago. We become,” she became quiet, thoughtful. “Bond,” she said, “we bond.
+
+He get older, late teens, comfortable outside. Good outside. Good outside! Ha!” She laughed at hearing herself say the two words in that order, and continued, “soon he helping with transports.”
+
+“The whole time,” Hye interjected, “you must have known. That he was out there, that he was late and a swarm on the way.” 
+
+The Arc Chief nodded, the worry that had been gnawing at her flashing across her face. 
+
+“Yes, I knew. I worry. When the swarm close and he not through doors, worry is now fear.” She presses the palm of her fist against her chest,”Arc Chiefs, though, must mother all, not just some. Worry. Fear. Not for just boy. For all Olgoi. Can not risk swarm getting inside. 
+
+Closing the doors,” she said as tears welled again in her eyes, “require strength,” she looks up at them, eyes reddened. “Was like he already dead, closing doors like putting his body in digester.”
+
+She took a large, shuddering breath.
+
+“When the Sifu brought him back, it was not from the outside in,” the Arc Chief looked Advika in the eyes, “but from death to life. And you,” Bolormaa turned to look at Hye, putting hand on hers, “he tell me you get him out of buggy, out of frozen fear. That is why I say ‘thank you for my boy.’ Not my boy, but my boy. You return him to me. Need more than thank you, so I tell story, so you understand thank you.”
+
+She looked them each in the eye and said, “Thank you. Thank you for my boy.”

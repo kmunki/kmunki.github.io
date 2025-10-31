@@ -60,3 +60,23 @@ Laughter and applause drowned the furious moan of the Shah, trapped by his own i
 He scoffed, sipping his martini at the bar. That some of the most resource impoverished and far flung pebbles in the middle of the Great Ocean had been bought up in a biotech land grab after the first few post war treaties had always struck him as daft. How anyone could do anything in the doldrums heat of equatorial jungle, a half day’s boat ride from the next anything? Preposterous. Ah well. Nothing left to do but enjoy the rest of the cruise.
 
 Oh, but what’s this? The heiress had sidled up next to him at the bar and slid him a napkin with her room number. Nothing to do but enjoy the cruise, indeed.
+
+---
+
+Brand turned under the luxurious silk sheets of the heiress’ bed as she dozed next to him, exhausted with pleasure. Her gown on the floor, her gems still clinging to her throat and ears. He was half tempted to wake her for another round. His eyelids drooped, the gentle rolling of the ship soothing as a nightcap. An unexpected sensation for a ship foiling two meters above the ocean surface at five-hundred kilometers per hour, but not undesirable. When paired with the hum of the ships reactor and various systems, one felt there was nothing to do in the world but rest. Indeed the somniferous room had all but lulled him when he heard it—a tiny, almost imperceptible click. A click that did not belong to the room. A click that belonged to a gun.
+
+Brand pretended to roll over onto his stomach and grip the pillow, listening with every fibre for the sound of a hammer being pulled back. Another near silent click—*there*. Brand whipped around, hurling the pillow at his assailant as he sprung out of the bed onto the floor, rolling and driving a kick into where he thought a leg might be. Right on both counts. The pillow took a round through center mass with a *poof *sound before colliding with the gun itself. In the same instant, Brand’s heel connected with the attacker’s shin, a meaty crack buckling the knee. Brand, naked, was quite literally exposed save for the near pitch-black room. With dark and surprise to his advantage, he rolled again, past and behind the attacker, and there putting him in a chokehold. Both had heard the gun clatter to the floor and, even silenced, the gunshot plus the commotion was enough to wake the heiress.
+
+“Brand! What’s happening?” Her voice real fear.
+
+“Assassin!” Hissed Brand.
+
+The heiress switched on the light in time to see the assassin straining against Brand’s grip, fingers stretched towards the gun on the floor. She jumped up and kicked it across the floor. Brand redoubled his headlock and moments later, the assassin passed out. Brand dragged the attacker onto perhaps the greatest extravagance of her luxurious state room, the balcony, where the whipping sound of the wind modulated by feathered edges on the leading barrier. A probing hand could feel the swirl of air just at the edge, and then an almost hard wall of rushing wind. Incredible, but no time to marvel at it now. No monster, he put a life vest on the attacker and strapped a self-inflating raft to him, then tossed him overboard. Poor bastard was just a pawn in the Old Shah’s jealous attempts to recoup his honor after being done in by his own dice. No reason for any man to die. True, hitting first the air then the water at that speed would not be fun. Unlikely, though, to be fatal and would give the Shah and his remaining toughs second thoughts.
+
+Brand leaned against the balcony rail for a moment, watching the moon dance off the waves. He felt the heiresses warm hands on his shoulders.
+
+“Are we safe?” She asked, her voice trembling.
+
+“That’s two bouts of bad luck for your Shah tonight, I don’t think he’ll risk a third,” said Brand. He turned and embraced her. “But I seem to be on a hot streak. Would be a shame to stop now,” said Brand.
+
+“Oh Jack,” said the heiress, swooning as he carried her back to bed.

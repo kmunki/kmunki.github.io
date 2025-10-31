@@ -84,3 +84,37 @@ Through all of history, nations formed from tribes, turning shared racial, relig
 Whether we will it or not, tomorrow will come.
 
 But, because we—we, the people of Violet—because *we* *will it*,* *tomorrow will be *better.*”
+
+---
+
+“Good evening, Dr. Okafor,” he began, his accent and eyes charming, “everyone else has had their chance with you, I was hoping it could be my turn.”
+
+She turned from looking out over the jungle. During Li Xing’s speech she had made her way out to the platform edge, to lean against the rail and watch at a remove.
+
+“But,” he added, “if you’re looking for solitude, I won’t intrude.” 
+
+That laugh again, an edge of disbelief this time in her voice, “No. I’m just getting some air,” Okafor gave him a raised eyebrow, “And you are?”
+
+“Brand,” he grinned, “Jack Brand.” He raised his glass to hers, “Congratulations are in order. Earlier this year, first company on the planet to a trillion in market cap. Now the first company to declare Sovereignty and get it to stick for more than ten minutes. Dr. Wen up there gets to make the speeches, but my impression is that it’s because this woman in front me understands life almost as well as the gods or even genes themselves. Cheers!”
+
+A flicker of satisfaction and pride before the requisite bashfulness. She clinked all the same.
+
+Li Xing and Okafor hadn’t started the bio-revolution, Brand knew, but they managed to turn what was left of the empty, shattered world after the Long War and rebuild the basics of what it meant to be human. Diseases were gone because she had decided to eliminate them. Brand felt himself being swept up in the current. A one in a billion mind that could conceive, create, and commercialize. And at Violet there were two of them. Li Xing’s greatest coup had not been Violet itself but turning the person who should have been her biggest enemy into her ally. Their lives were balanced and entwined, spiraling upwards in their own double helix. Li Xing ran the show and Miriam was the star magician, pulling cures for cancer and aging itself out of her hat. 
+
+He caught himself staring. You’re not here for the party, old boy. Find out what they’re up to. What she’s up to. Her badge could show him.
+
+He manifested a rakish grin, “My I’ve heard so much about you!” He feigned the tone of a random untouchable, who would look at her admiringly from the cover of a magazine, “Autograph?”
+
+She laughed and rolled her eyes, “Yes, so many people want the autograph of the biggest nerd at a Giant Evil Corporation,” her tone put scare quotes around that last bit. He feigned shock. “Please,” she said, dismissive, “not everyone in the audience loved that speech. You don’t look like the rabble either. What did you say it was you did again? Not that I expect an answer after you dodged the first question about being here. On an island a half-day’s cruise from anywhere, party crashers aren’t exactly something we’ve gotten used to.”
+
+Brand pressed his palms together, “Ah, yes. You have me. Want to know the truth of it, I imagine?” He dropped his voice, “I can tell you.” Quieter still, she leaned in, “just the two of us, eh?” She could feel his breath on her ear and put one arm around, the center of her back, pulling her in close. “I’m a *shade*.” He said, the laugh barely repressed under his voice. He squeezed her close, her arm draped with the white jacket pressing between them. She pushed him away, playfully.
+
+“Oh stop. Alright so don’t tell me. If you’re some bored dignitary husband flirting with me, let me enjoy it. Don’t go and make me think the whole thing is a farce with the far flung fantasy.” She paused for a moment, “You’re too handsome. And what’s that accent, European? Cute, but no.”
+
+Brand winced, for a millisecond, and let his laugh join hers. Forced at first, but stumbling into the real as he thought of how odd it was the truth was the best cover of all.
+
+“Well then I guess I’ll leave you guessing. It was a pleasure, Dr. Okafor,” he said, leaving her with a wink and a smile.
+
+He followed a waiter across the party to what looked like the closest entrance to the main building and there, stopping him, begged, “Do you, ah, have a private bathroom? Something isn’t sitting quite right and I’d prefer not to disturb everyone else. Are you following?”
+
+“Of course, xiansheng,” the waiter nodded for Brand to follow and badged them through one of the doors and lead him down a hallway. Once they were out of sight, the waiter was dealt with and Brand took the waiters badge as far as it would go. Now for Okafor’s. When the door badged for hers only, well now he was getting somewhere.

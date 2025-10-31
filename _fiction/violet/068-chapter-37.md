@@ -84,3 +84,33 @@ Hye’s eyes went wide.
 “Yes,” said the Host, still chuckling, “what is your grand plan?”
 
 “You gave it to me, Uyasimi Kurku,” said Hye, picking up Trine, holding them close. The Host arched an eyebrow up to the seam in her skull, intrigued. “I am desperate. Truly. But I still have allies. Send us home through them, through Daewoo. If I am what you say I am, then my grand plan simple: I plan to make my own luck.”
+
+---
+
+Carved into the permafrost and rock beneath the Tower were tunnels, radiating out into subterranean dark. A tram waited for them like an heirloom. Once gleaming white, the curved plastic body had aged to a yellowed egg-shell. Within, the seats held their plush and the interior flickered to muted life as they approached. Even here, the Zaqqum presided.
+
+Advika pressed a few of the chunky buttons on the console and clicked a dial to their heading. On this command, the tram rotated, the light within casting harsh shadows outwards, like fading campfire in a midnight wood. A single clunk as it locked onto the new tracks and then the not-quite-silent humming of the electric engine grew as they accelerated into the shadow.
+
+“An asura?” Hye asked after a stretch of silence.
+
+A wincing smile found its way to Advika’s face.
+
+“If we hadn’t…”
+
+“No, you never would have known. I . . . would not have told you.”
+
+“Because?”
+
+“It was so long ago.”
+
+“You’re an asura *now. *Aren’t you? Aren’t you always? I don’t know anyone else who only puts half their brain to sleep.”
+
+“No—”Advika shook her head, almost laughing—“well, I wasn’t. Now… I’m not sure. An asura is not the body alone but *embodiment*. Idea made flesh. We were loosed on the world. War-enders. Mission made us, purpose defined us. I retain… too much of what I once was. I am old, Hye, but time is not agar. No matter what the cliches claim, not all wounds heal.”
+
+Advika looked back along the line of the tram towards the tower.
+
+“What are you then?”
+
+Advika turned to Hye, locking eyes.
+
+“I’m your rearer,” she said, almost incredulous, “Yours and Sun’s. I’ve lived long, Hye, and had many lives, and tried to be many things. Of all of them, it is the purpose I’ve cherished most. The two of you have helped me find more of myself. Yes, I’m spliced enough to give an uplift pause, but I’m no longer an asura. I’m something else. Some*one* else. Someone lucky enough that destiny put us together.”
