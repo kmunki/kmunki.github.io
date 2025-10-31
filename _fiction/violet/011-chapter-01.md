@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: December 08, 2025
 ---
-Sixteen years since her rainy fishing village, and Hye still hadn't let go.
+Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
 
-Princess Sun found her Ward-sister exactly where she'd expected—balled up on the settee, nose buried in a book, oblivious to the golden-hour light spilling across the Summer Palace's black-in-the-shade-green-in-the-sun tiles. 
+With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
 
 “Fantasizing again, Hye?” Sun asked, teasing, “One of your wuxia novels? *Condor Heroes?*”
 
