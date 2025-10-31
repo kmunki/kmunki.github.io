@@ -29,15 +29,25 @@ Sun laughed, straightened to sit upright, became solemn and put her hand on her 
 
 Both fell back into the chair laughing.
 
-"Have you ever wondered what would have happened if the Xuande Emperor had died?" Hye asked, dreamy. "No Eighth Voyage. No Golden Coast. No Inka War."
+"Have you ever wondered though?" Hye asked, dreamy, "What would have happened if the Xuande Emperor had actually died then? He was *so *sick. It would have ended at seven! No auspicious Eighth Voyage to the East! No Golden Coast! No Inka War!"
 
-"Imagining a different world—where would you even start?" Sun said. "'Chance is the droplet's path, not the river's.'"
+"What an odd thing to consider," said Sun, pondering, "Would it even have been that different? 'Chance is the droplet's path, not the river's,' no?"
 
-"Please don't quote proverbs. Maybe there wouldn't have been a Long War at all—"
+"Proverbs? Please, tell me you aren't going to quote those when you're Viceroy."
 
-"Some other monster would have come along with some other cause," said Sun, leaning her head onto her sister's shoulder. "Shouldn't you be studying more recent history?"
+"No, because I shall be coining them. I don't intend to be a footnote in *anyone's* story."
+
+"Sometimes I wonder, though, how close we came to something else happening. Maybe Zheng He wouldn't be world famous… and no one would even know who the Xuande Emperor was. He ruled the Ming Dynasty at its zenith for two decades! The Emperor Who Met the East!"
+
+"Imagining a different history, a different world—where would you even start? So much would have changed," said Sun, half to herself, under her breath.
+
+"A hundred year delay. The—" Hye flipped through some pages, "The Europeans didn't come looking for gold until later. Maybe," she lit up, "maybe there wouldn't have been a Long War. No Ananda to release the plagues that started it all. Or…maybe—"
+
+"And maybe the Far Siders made it to the dark side of the moon. A whole city up there, forgotten by all of us! Oh, Hye," said Sun, leaning her head back onto her sister's shoulder, "I suspect something like the Long War would have happened no matter what. Asura Ananda, the plagues weren't special. Some other monster would have come along with some other cause."
 
 "I bet Sifu agrees with me."
+
+"Sifu Shidao *is* history—she's a living textbook. Maybe she knew Ananda and we can just ask her if she thinks someone else could have done it. Zheng He, Treasure Voyages, *please*. Shouldn't you be studying more recent history?"
 
 Hye swatted her, "I have been! All about arcologies," she said, "I will visit one, one day."
 
