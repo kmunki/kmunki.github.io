@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-05/
 act: 1
 date: January 05, 2026
 ---
-Four motos streaked across the Mongolian steppe, dust trails rising behind them. The knobby tires and heavy springs of Hye and Sun’s military-issue motos rumble and creaked as they hammered over the washboard dirt that constituted a road. 
+Four motos streaked across the Mongolian steppe, dust trails rising behind them. The knobby tires and heavy springs of Hye and Sun's military-issue motos rumbled and creaked as they hammered over the washboard dirt that passed for a road. 
 
 A crackle came over their helmet radios, “We’re well into edge-land now,” said the General, “we’ll be at the arc soon enough. Stay vigilant.”
 
@@ -15,7 +15,7 @@ Between the wilds and proper Koryo were the edge-lands. At the Long Wars apex—
 
 “Edge-lands!” Hye repeated. For the first time in her life she was beyond the border of Koryo proper. 
 
-“Thought you said this was our territory now, General,” said Adivka, “first you come to the Viceroy begging for an old woman to do you job for you, when you can’t get that, you settle for fledglings, now you tell me you can’t even keep us safe?” 
+"Thought you said this was our territory now, General," said Advika, "first you come to the Viceroy begging for an old woman to do you job for you, when you can't get that, you settle for fledglings, now you tell me you can't even keep us safe?" 
 
 The old Sifu had insisted on bringing her own moto. It was a liquid black crystalline thing, two shards of angled chiton-carbon alloy. The seat cantilevered over the huge rear wheel, giving the effect of the rider all-but-floating just above the tires and motor. Rumors among the palace staff said that it was stolen from a spy she had killed; that it had hidden compartments.
 
@@ -41,7 +41,7 @@ Advika let out a grumbling mock-laugh as she pulled her helmet off. All were cla
 
 “Like you said, not idiots,” Advika agreed.
 
-Hye was awestruck as they approached. From a distance, the arcology had seemed perhaps the size of the palace. Yet as they walked closer it towered—perhaps a hundred meters high and over a kilometer long. This closest building was just one among many comprising the whole. Hye could barely imagine a single arcology of this scale being built, let alone hundreds of them, each with a unique design, in places all around the planet, in just a few decades. The outside was coated with a fur of brown lichen and yellowing grasses. She could see land crabs skittering up and down the sides, their dusty claws and flittering antennae in constant motion, searching for threats to the infrastructure and nibbling on the withered vegetation. Pruning sheers with appetites, Advika had called them once in an effort to dissuade a much younger Hye from attempting to make a pet of one she found on the palace grounds. Both failed in their endeavors.
+Hye was awestruck as they approached. From a distance, the arcology had seemed perhaps the size of the palace. Yet as they walked closer it towered—perhaps a hundred meters high and over a kilometer long. This closest building was just one among many comprising the whole. Hye could barely imagine a single arcology of this scale being built—let alone hundreds of them across the planet, each with unique designs, all in just a few decades. The outside was coated with a fur of brown lichen and yellowing grasses. She could see land crabs skittering up and down the sides, their dusty claws and flittering antennae in constant motion, searching for threats to the infrastructure and nibbling on the withered vegetation. Pruning sheers with appetites, Advika had called them once in an effort to dissuade a much younger Hye from attempting to make a pet of one she found on the palace grounds. Both failed in their endeavors.
 
 A door opened in the huge facade and a woman walked out, like watching an ant emerge from an aubergine. Even from a distance the woman’s distinctive walk betrayed an almost joyous self confidence. Her shoulders were back, chest out, arms wide and swinging freely, her legs kicking out in front and flopping down. She strode to them directly, ignoring the markings of the safe path. This was her territory. She was draped in a practical cape, under which were patched and stained coveralls.
 
