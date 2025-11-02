@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: December 08, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. At four, she was chosen from her rainy fishing village—by chance or fate, they argued endlessly which—and placed with the same Royal Rearer as Sun. The royal-born Princess, only five herself, sat beside the scared, sad newcomer. Hye clung to her and, in many ways, never let go. Sixteen years and a battalion of tutors, courses, and ceremonies later, they were still a pair.
 
 With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
 
@@ -17,9 +17,9 @@ Hye let only her eyes move, looking up through her eyebrows with skepticism.
 
 “I prefer wuxia movies and shows to books. The fights are more fun to watch than read. This” —she tapped the pages—“is history. Treasure ships. For fantasy, I have *your* selection bid.”
 
-“Oh yes, Zheng He,” Sun squeezed herself alongside her sister, “He was a eunuch, right? Not so different from a Ward. Plucked from his ordinary life into royal service, yet not likely to rule. How very sad.”
+"Oh yes, Zheng He." Sun squeezed herself alongside her sister. "He was a eunuch, right? Not so different from a Ward. Plucked from his ordinary life into royal service, yet not likely to rule. How very sad."
 
-“Precisely,” said Hye, “While the Emperor, princes, and *princesses *stayed home doing… well it’s so hard to say because none of it was important enough to write down. It seems Zheng He is the one in the history books, not the royals! Oh wait, I’m sorry, I’m wrong. Here,” she tapped the page archly, “they’re mentioned. Just before the last voyage. The most important thing the Xuande Emperor did was—let me check, ah yes—not get sick and die. There you have it!” Hye closed the book with gusto and then, taking on a herald’s regal tone, said “when we get you Selected and you rule Koryo as Viceroy of the New Joseon Dynasty, your most important duty is to… stay alive.”
+"Precisely." Hye tapped the page. "While the Emperor, princes, and *princesses* stayed home doing… well it's so hard to say because none of it was important enough to write down. It seems Zheng He is the one in the history books, not the royals! Oh wait, I'm sorry, I'm wrong. Here"—she tapped the page archly—"they're mentioned. Just before the last voyage. The most important thing the Xuande Emperor did was—let me check, ah yes—not get sick and die. There you have it!" Hye closed the book with gusto and then, taking on a herald's regal tone, said "when we get you Selected and you rule Koryo as Viceroy of the New Joseon Dynasty, your most important duty is to… stay alive."
 
 Sun laughed, straightened to sit upright, became solemn and put her hand on her heart, “I shall do my utmost.”
 
@@ -75,9 +75,9 @@ She sighed, “Sweet sister, always looking at the sky.”
 
 “It’s not a waste! I’m ready for any test! We could bet the Sifu for her help. She could get us a boon. I know *Arcologies*. I know it, Onzulu to Pearl. I could beat her.”
 
-“Prove it,” said a stern, yet playful voice.
+"Prove it," said a stern, yet playful voice.
 
-Both girls startled. Standing behind them was an old woman wrapped in simple gray silk robes and leaning on a polished staff. Her long gray hair was up with a few twists, held in place by a jade skewer and her eyes were age-faded icy purple. 
+Both girls startled. An old woman stood behind them, wrapped in simple gray silk, leaning on a polished staff. Her long gray hair was twisted up and held with a jade skewer. Her eyes—age-faded, icy purple. 
 
 “Is that a formal challenge, Sifu?” Asked Hye, “I am ready!” She leaped to her feet.
 
@@ -231,7 +231,11 @@ Daewoo pondered, “Hye has the core of it, yes. Some lovely phrasing. To the po
 
 Hye resumed her strikes. The old Sifu caught Hye’s hand and yanked her off balance, hurtling her across the ring and hard onto her back. 
 
-“A haven, ha!” Advika advanced and stomped, a heal smash barely missing Hye as she rolled away. “Earth is *life*, the source, the home!” Advika hissed, “Arcologies are desperate life rafts, capsules against our self-made armageddon.” Advika moved at a speed the Vizier could barely perceive, flickering from strike to strike. Hye’s blocks were late, misplaced, or simply not strong enough. Neck, chest, knee, kidney, face all absorbed Advika’s rage. “Billions born only to die—not a haven for life, but factory for death. War-relics all, towering tombstones, crumbling and haunted, like the memories of the belligerence that begat them.” Hye had thrown a strike at a mirage only to find Advika behind her. “From them flows agar, like the Vaitarani, a river of sweet nectar, giving us new life for the price of forgetting our past.”  
+"A haven, ha!" Advika advanced and stomped—a heel barely missing Hye as she rolled away. "Earth is *life*, the source, the home! Arcologies are desperate life rafts, capsules against our self-made armageddon."
+
+Advika moved faster than the Vizier could track, flickering between strikes. Hye's blocks came late, misplaced, or simply not strong enough. Neck, chest, knee, kidney, face—all absorbed Advika's rage.
+
+"Billions born only to die—not a haven for life, but factory for death. War-relics all, towering tombstones, crumbling and haunted, like the memories of the belligerence that begat them." Hye threw a strike at a mirage only to find Advika behind her. "From them flows agar, like the Vaitarani, a river of sweet nectar, giving us new life for the price of forgetting our past."  
 
 Hye’s were arms barred, twisted and levered to the edge of tolerance. No no no, what had happened. She had *had* her.
 
