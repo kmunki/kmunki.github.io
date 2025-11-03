@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-03/
 act: 1
 date: December 22, 2025
 ---
-Stepped into the mountainside, the Summer Palace grounds were a more vertical affair than its southern city siblings. At its center, mid-way up, was the vast and ornate, double-eaved Hall of Celestial Balance, containing there in the Ruby Dragon Throne. Beautiful, stunning, and almost always empty, the hall was where power was invested with due ceremony. It was not where it resided, not where it was exercised. 
+The Summer Palace grounds were stepped into the mountainside—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, seat of the Ruby Dragon Throne. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
 
-Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though small in relative grandeur, the Viceroy and her council’s offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush, meditative garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through walls that were little but glass with a wood skeleton. No need for secrecy among royals.
+Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though small in relative grandeur, the Viceroy and her council's offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through glass walls in wooden frames. No need for secrecy among royals.
 
 As they entered the long hall to the Receiving Room in the Viceroy’s Council Chambers, they were met with laughing and shouting. A boisterous group of royals were approaching.
 
@@ -17,7 +17,7 @@ As they entered the long hall to the Receiving Room in the Viceroy’s Council C
 
 “It is unbecoming to be so loud,” said Vizier Daewoo, refusing to raise her voice, but well within their hearing, “you’re Progeny, Prince Ji-woo, act like it.”
 
-“Ah, Vizier Daewoo!” Said the prince, louder than before, “and Hyeon, how lucky am I? My least favorite of the Wards. And foolish Princess Seong-ma with the old foreigner makes an unlucky four. I just came from seeing her grace, the Viceroy! I’m feeling very good about my chances at Selection.”
+"Ah, Vizier Daewoo!" The prince's voice now booming. "And Hyeon, how lucky am I? My least favorite of the Wards. And foolish Princess Seong-ma with the old foreigner makes an unlucky four. I just came from seeing her grace, the Viceroy! I'm feeling very good about my chances at Selection."
 
 “Won’t that be a lucky fourth attempt for you, Ji-woo?” Asked Hye.
 
@@ -27,7 +27,7 @@ The prince scoffed. In his early fifties, he was still boyish and slight, wearin
 
 “And look at the state Koryo’s in. Time for a new—no, this once you’re right, Vizier— a *fresh* approach. Don’t worry, I’ll give you an honorable retirement.”
 
-“Best win before making promises,” said Sun, attempting to walk past. “Usually royals tend to vote for someone they *respect*. You’re awful confident for a serial failure and perennial punchline.”
+"Best win before making promises," said Sun, attempting to walk past. "Royals usually vote for someone they *respect*. You're awfully confident for a serial failure and perennial punchline."
 
 Ji-woo lunged, nose-to-nose with Sun. She neither flinched, nor blinked.
 
@@ -43,7 +43,7 @@ He started laughing again and pushed past Hye and Sun.
 
 ---
 
-Viceroy In-yeong’s mood was already curdled from Prince Ji-woo’s visit. How the man managed such obsequiousness and pompousness into every whinging phrase, each mincing gesture would have been poetic were it not so irritating. Begging and demanding assistance in Selection. The gall! Five decades and yet his mind was as smooth and soft as his princely hands. Hundreds of royals, most true progeny, and that womb-error thought he deserved to rule, among all of them. To wield power. 
+Viceroy In-yeong's mood was already curdled from Prince Ji-woo's visit. How the man managed to infuse every whinging phrase, each mincing gesture with such obsequiousness and pompousness would have been poetic were it not so irritating. Begging and demanding assistance in Selection. The gall! Five decades and yet his mind was as smooth and soft as his princely hands. Hundreds of royals, most true progeny, and that womb-error thought he deserved to rule, among all of them. To wield power. 
 
 Now here she was, asking some foreign-born rearer brought in by her predecessor for a favor. The question was a bitter one.
 
@@ -51,7 +51,7 @@ Now here she was, asking some foreign-born rearer brought in by her predecessor 
 
 Hah! What power? She could not get even this old foreign rearer to come to heel. 
 
-“You see, General?” Said Viceroy Yi In-yeong, leader of the New Joseon dynasty and Koryo head of state. She lacked Sun’s cheekbones and almond eyes, thought Hye, but not her gaze. Beautiful and sharp, like sunlight through a loupe. Where it lingered, it burned. Save upon the Sifu, who remained cool as ever. The rest of the room shifted with discomfort.
+"You see, General?" said Viceroy Yi In-yeong, leader of the New Joseon dynasty and Koryo head of state. She lacked Sun's cheekbones and almond eyes, thought Hye, but not her gaze. Beautiful and sharp, like sunlight through a loupe. Where it lingered, it burned. Save upon the Sifu, who remained cool as ever. The rest of the room shifted with discomfort.
 
 “Sifu,” said Vizier Daewoo, attempting to placate, “this is within—”
 
@@ -81,29 +81,29 @@ The old woman shrugged, “Power doesn’t make the world better.”
 
 “Vizier,” warned the General.
 
-“Jee, please, I did earned my position as much as you. The scars politics leaves are less visible, but no less painful to acquire, no faster to heal. Your battlefield is out there, claiming the Mongolian edge-lands from the Zhongguo, keeping the Drifters off our shores. I do not tell you where to place battalions, nor where to send our spies, human or otherwise. Yet their information is *mine. *It is for *me *to choose where and how to deploy it. 
+"Jee, please, I earned my position as much as you. The scars politics leaves are less visible, but no less painful to acquire, no faster to heal. Your battlefield is out there, claiming the Mongolian edge-lands from the Zhongguo, keeping the Drifters off our shores. I do not tell you where to place battalions, nor where to send our spies, human or otherwise. Yet their information is *mine.* It is for *me* to choose where and how to deploy it. 
 
 Sun, Hye, you need to hear this as well. No doubt your Sifu has inferred it—she is aggravating that way—but the Peace is failing and we are on the losing side of the equilibrium of power. The Continuum falls further and further behind and Koryo is more weight than engine. Sun, you wish to rule one day? To be selected? Well then convince your Sifu to help make sure there is a Koryo when it is time.”
 
-The Viceroy laughed, “Yes, young Seong-ma. Please, help us convince your Sifu. While we are being honest about things: your chances of Selection are, as of now, too small to merit calculation. Want to be the *next* Viceroy? You’d be amazed by the favors the *current *Viceroy can grant.”
+The Viceroy laughed, "Yes, young Seong-ma. Please, help us convince your Sifu. While we are being honest about things: your chances of Selection are, as of now, too small to merit calculation. Want to be the *next* Viceroy? You'd be amazed by the favors the *current* Viceroy can grant."
 
 “Sifu,” Sun turned, but too was silenced by her rearer’s raised hand.
 
 “No campaigning. This is campaigning.”
 
-“I just wish I could go at all,” said Hye, lost in her thoughts, “I’d do the negotiations myself for a chance to see an arcology. To see the edge-lands.”
+"I just wish I could go at all," said Hye, lost in thought, "I'd do the negotiations myself for a chance to see an arcology. To see the edge-lands."
 
 “Hyeon,” said the Vizier, “I appreciate the offer, but these are delicate situations, not for tourism. Your sister has the training, and as a true Progeny could be a representative. But the idea is—”
 
 Vizier Daewoo quieted. The Viceroy had sat forward, a marginal movement.
 
-“You’ve hit upon something there, Vizier Daewoo. Once again your council proves as actionable as wise. Princess Seong-ma, *you *shall conduct the negotiations with the Olgoi-Khorkhoi Arcology. How often I have heard that you have been trained by this *master* in all things state craft. Yet you have been unable to put those campaign claims to the test. We must rectify that.”
+"You've hit upon something there, Vizier Daewoo. Once again your council proves as actionable as wise. Princess Seong-ma, *you* shall conduct the negotiations with the Olgoi-Khorkhoi Arcology. How often I have heard that you have been trained by this *master* in all things state craft. Yet you have been unable to put those campaign claims to the test. We must rectify that."
 
 Sun moved a subtle hand to Hye’s knee and gripped it. Whether it was in excitement or terror, Hye didn’t know. She didn’t dare look away from the Viceroy. Don’t react, don’t give anything away. Heat ran under her skin, a shimmer of sweat would be her only tell.
 
 “Your majesty,” said the Sifu, “you—”
 
-“You’ve spoken, Sifu. You have declined. Understood, accepted. You *are *correct, I cannot order you about. This conversation no longer requires you. But my Progeny? My *Ward*? They I can command, absolutely, at my pleasure and whim. Should I not foster growth in my fledglings? I should and shall. Ward Hyeon, you shall accompany her. Separating the two of you is difficult enough and as I have my councilor, so too the Princess shall have hers. Brief them, General. Sifu, you are dismissed, but of course, grant you leave to observe the briefing and, should you find it relevant, to join them in their journey, though I’m sure Stump here can keep them quite safe without you.”
+"You've spoken, Sifu. You have declined. Understood, accepted. You *are* correct, I cannot order you about. This conversation no longer requires you. But my Progeny? My *Ward*? They I can command, absolutely, at my pleasure and whim. Should I not foster growth in my fledglings? I should and shall. Ward Hyeon, you shall accompany her. Separating the two of you is difficult enough and as I have my councilor, so too the Princess shall have hers. Brief them, General. Sifu, you are dismissed, but of course, grant you leave to observe the briefing and, should you find it relevant, to join them in their journey, though I'm sure Stump here can keep them quite safe without you."
 
 The General nodded, “Of course, my grace. Feel free to treat this as a vacation, Sifu. I’m sure your old bones could use a rest.”
 
