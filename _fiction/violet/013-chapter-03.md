@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-03/
 act: 1
 date: December 22, 2025
 ---
-The Summer Palace grounds stepped into the mountainside—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, containing the Ruby Dragon Throne. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
+The Summer Palace grounds were stepped into the mountainside—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, seat of the Ruby Dragon Throne. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
 
 Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though small in relative grandeur, the Viceroy and her council's offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through glass walls in wooden frames. No need for secrecy among royals.
 
@@ -17,7 +17,7 @@ As they entered the long hall to the Receiving Room in the Viceroy’s Council C
 
 “It is unbecoming to be so loud,” said Vizier Daewoo, refusing to raise her voice, but well within their hearing, “you’re Progeny, Prince Ji-woo, act like it.”
 
-"Ah, Vizier Daewoo!" The prince's voice boomed. "And Hyeon, how lucky am I? My least favorite of the Wards. And foolish Princess Seong-ma with the old foreigner makes an unlucky four. I just came from seeing her grace, the Viceroy! I'm feeling very good about my chances at Selection."
+"Ah, Vizier Daewoo!" The prince's voice now booming. "And Hyeon, how lucky am I? My least favorite of the Wards. And foolish Princess Seong-ma with the old foreigner makes an unlucky four. I just came from seeing her grace, the Viceroy! I'm feeling very good about my chances at Selection."
 
 “Won’t that be a lucky fourth attempt for you, Ji-woo?” Asked Hye.
 
