@@ -5,7 +5,7 @@ chapter: 45
 title: "Yōkai"
 permalink: /fiction/violet/chapter-45/
 act: 4
-date: September 13, 2026
+date: November 02, 2025
 ---
 Parties were like flower gardens, Saongwon Moon thought as he retreated up the stairs to his bedchamber. One of dozens of bits of wisdom bestowed upon him by his mentor. She always had a little aphorism to distill some nuanced learning into a crystalline mnemonic. In a flower garden, the aim is not perfect harvestable crops, all in neat rows, easy to fertilize and weed. One wanted the colors to mix and cluster, for the flowers to spill over their boxes and to layer upon one another. And while you prepared the soil and planted the seeds, each must grow on its own. As the general din of the gathering rose to a crescendo of laughter before another subsiding, he paused, resting his finger tips on the banister, as though perching, smiled to himself. 
 

@@ -5,7 +5,7 @@ chapter: 26
 title: "The Railroad of Bones"
 permalink: /fiction/violet/chapter-26/
 act: 3
-date: May 03, 2026
+date: November 02, 2025
 ---
 The north-bound train sped through the saturnine winter’s day. Koryo’s snowy mountains flattened into high, blighted plains of the edge-lands that ran to the end of the continent. Hye sat, forehead to window, lost in the churning cobalt sea and yellowed-steel sky. Far out over the distant waves, the rain was a charcoal smear, virga under heavy clouds. There was no sun. What ill light there was came from nowhere, diffused through the etherized sky; as though the planet begrudgingly allowed itself be lit. For what else was winter but the whole of the earth tilting away from its source of light and life.
 

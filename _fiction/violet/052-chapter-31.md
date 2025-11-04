@@ -5,7 +5,7 @@ chapter: 31
 title: "Legendary Weapons"
 permalink: /fiction/violet/chapter-31/
 act: 3
-date: June 07, 2026
+date: November 02, 2025
 ---
 Waiting at the dock in Busan was the Olokun’s ship, the *Chombo. *Hours prior, Illapa had delivered the moto, but stayed herself until she was sure she had no tail. Two heavily armed macaques eyed her as she strode up the gang plank. She held out her talisman, waived it in the pass-gesture, then mentioned the mission password as she got into range. The guards relaxed, waving her onboard. Just beyond was Biby, wringing her hands and looking from one macaque to another. The ship began to pull out of the harbor as Illapa, their sole reason for docking, followed the lemur below deck.
 

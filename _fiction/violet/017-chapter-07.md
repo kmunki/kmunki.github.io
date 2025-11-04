@@ -5,7 +5,7 @@ chapter: 7
 title: "The Organs of the Olgoi"
 permalink: /fiction/violet/chapter-07/
 act: 1
-date: December 21, 2025
+date: November 02, 2025
 ---
 The narrow interior hallway of the Olgoi felt like being in a capillary. It had no grand entryway. The Olgoi was both space ship and hazmat suit for a city; able to keep generations safe if need be. Form did not merely follow function, it genuflected. Hye could almost feel her breath being pulled and her skin drying as those minor wastes were drawn away. The Stump scratched at herself and a small cluster of what looked like puffball mushrooms growing on the wall began flicking out feather-like appendages. Jee recoiled.
 

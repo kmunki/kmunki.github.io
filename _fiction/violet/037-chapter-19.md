@@ -5,7 +5,7 @@ chapter: 19
 title: "Storm the Palace"
 permalink: /fiction/violet/chapter-19/
 act: 2
-date: March 15, 2026
+date: November 02, 2025
 ---
 “Do you have stims?” Advika yelled to the nearest security guard over the screams of the Vizier and consort.
 

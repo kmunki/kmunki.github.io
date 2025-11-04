@@ -5,7 +5,7 @@ chapter: 36
 title: "The Coin"
 permalink: /fiction/violet/chapter-36/
 act: 3
-date: July 12, 2026
+date: November 02, 2025
 ---
 The Host of the Zuqqum, flanked by the empty jars, spread her hands wide in invitation.
 

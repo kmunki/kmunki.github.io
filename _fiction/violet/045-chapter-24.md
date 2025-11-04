@@ -5,7 +5,7 @@ chapter: 24
 title: "Bank, Hotel, Tickets"
 permalink: /fiction/violet/chapter-24/
 act: 3
-date: April 19, 2026
+date: November 02, 2025
 ---
 The Ward and Sifu left almost more cash than they could carry, most of it in a discreet case provided gratis by the bank, to be returned at a later date. *Of course*, Hye had lied, *one of my porters shall return it in the morning.*
 

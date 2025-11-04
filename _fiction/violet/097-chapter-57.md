@@ -5,7 +5,7 @@ chapter: 57
 title: "Bardo"
 permalink: /fiction/violet/chapter-57/
 act: 5
-date: December 06, 2026
+date: November 02, 2025
 ---
 Bloodied and bereft, Hye stumbled out into the crowded palace grounds. Above, a great storm cell loomed, a towering cloud, black and furious, lit within by lightning pink and yellow. It was alone, lost, a dark ship among the brilliant cold blue of approaching night. To the western horizon, that sky shifted through lurid purple, pink, and orange to a rage red sun glaring like a wound. Koryo soldiers were everywhere. Royals and visitors poured out of their residences. Eshma and Msizi were weeping in the arms of several members of the Koryo council, their horror no longer contained by their terror.
 

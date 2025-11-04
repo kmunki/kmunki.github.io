@@ -5,7 +5,7 @@ chapter: 56
 title: "Revenants; Segaki"
 permalink: /fiction/violet/chapter-56/
 act: 5
-date: November 29, 2026
+date: November 02, 2025
 ---
 Hye touched a finger to the agar film glossing the triple slash across her face. Gold-leaf thin, the peach-colored membrane of molecules turned long gouges to neat, near-healed slices. What scars there were would be faint as memories rather than ragged white monuments. 
 

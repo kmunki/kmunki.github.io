@@ -5,7 +5,7 @@ chapter: 37
 title: "The Magicians"
 permalink: /fiction/violet/chapter-37/
 act: 4
-date: July 19, 2026
+date: November 02, 2025
 ---
 Uyasimi Kurku sank into her chair, her pale blue robes piling like waves. The Zaqqum’s insectish wooden arms returned the empty jars to the looming tree and retreated into the walls. The lights dimmed. Whatever animus had been, was gone; the Host looked as if waiting for friends to join her hearthside. Even the orange-red agar glow of the head-jars seemed to shift shades from glowering menace to intimate warmth.
 

@@ -5,7 +5,7 @@ chapter: 48
 title: "Naraka"
 permalink: /fiction/violet/chapter-48/
 act: 4
-date: October 04, 2026
+date: November 02, 2025
 ---
 Winji’s cry was fast muffled to a whimper. Half-dried blood clung to her neck—its source—and her side, where she had lain in a congealing crimson pool. Hye had found her, first heard her whispered plea of *help*, more a sharp punctuated breath than any kind of speech. No deliberation was needed, she would come with them to the panic room. In lifting her, the wound was forced to stretch and in pain she found her voice, yelping. Only a half second, but enough. Whatever it was that had chased agent and ambassadors from their rooms would now becoming for them.
 

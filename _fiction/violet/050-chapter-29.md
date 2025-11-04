@@ -5,7 +5,7 @@ chapter: 29
 title: "Treasures of the Sifu"
 permalink: /fiction/violet/chapter-29/
 act: 3
-date: May 24, 2026
+date: November 02, 2025
 ---
 As promised, the gardens were empty of guards. Royals projected power, in part, via fearlessness—the palace was no fortress. A good architect, however, knew how to design for both. Those wide open lawns? Hard to sneak across—just open space, a moat of close-cropped grass, coy ponds, and labyrinthine walk-ways among them. Hosting a grand ball? No better place for overheated guests or budding paramours to stroll in the cool mountain air. Attempting a coup? Well now you had thirty meters of exposure where in your trespass would be made public and nary a bush, tree, nor statue could be found to hide behind.
 

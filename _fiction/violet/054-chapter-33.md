@@ -5,7 +5,7 @@ chapter: 33
 title: "The Blade of Kahina"
 permalink: /fiction/violet/chapter-33/
 act: 3
-date: June 21, 2026
+date: November 02, 2025
 ---
 *Our best lead is the Malian mercenary group Blade of Kahina. We’ve set up a meeting with you to speak with their corporate security representative, Sadiya ibnat Tanaz al-Mzab, under the guise of augmenting Condor Moray’s security. She is smart, knows it, and is proud of it. Arrogant. Preening. Extremely dangerous. The meeting has been arranged in City Lower. No cover identity. Try to avoid trouble. And gambling. Learn whatever you can about Violet. Good luck.*
 

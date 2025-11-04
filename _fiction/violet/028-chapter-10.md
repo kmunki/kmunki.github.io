@@ -5,7 +5,7 @@ chapter: 10
 title: "Fallout at the European Security Agency"
 permalink: /fiction/violet/chapter-10/
 act: 2
-date: January 11, 2026
+date: November 02, 2025
 ---
 Agent Illapa braced herself for her morning sips of coffee. Would this accursed nation ever figure out how to brew it well? Her hope was waining. The Inka were, what was it, twice as far from Ethiopia and yet had mastered the little bean’s cultivation and consumption in half the time? It was little wonder England’s little foray into India backfired badly enough that the whole of the subcontinent was conquered.
 

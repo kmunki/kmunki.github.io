@@ -5,7 +5,7 @@ chapter: 41
 title: "Old Friends"
 permalink: /fiction/violet/chapter-41/
 act: 4
-date: August 16, 2026
+date: November 02, 2025
 ---
 Hye awoke again as they were descending.
 

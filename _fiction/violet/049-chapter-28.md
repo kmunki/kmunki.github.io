@@ -5,7 +5,7 @@ chapter: 28
 title: "Where the War Never Ended"
 permalink: /fiction/violet/chapter-28/
 act: 3
-date: May 17, 2026
+date: November 02, 2025
 ---
 As escapes go, it was not particularly exciting; difficulties arose, there were moments of stress. No one stopped them, however, and no one would. To leave a train in the middle of the Wilds was inconceivable. Clear, well known consequences, underlined and reinforced by the massive gun installments and armored wall encircling what could barely be described as a town, should have been sufficient. No one was supposed to get on or off. It was not a stop. And yet, for Ward and Sifu, it was, had to be, so they did.
 

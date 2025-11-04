@@ -5,7 +5,7 @@ chapter: 52
 title: "Appulse"
 permalink: /fiction/violet/chapter-52/
 act: 5
-date: November 01, 2026
+date: November 02, 2025
 ---
 Illapa awoke out of a fever dream. Cold sweat clung to her face. Her hand still burned, but now only flares of pain shivered through her. Msizi’s caring face appeared, then Eshma’s, creased with discomfort and concern. Hours blended together. Awful sounds from beyond the door. Consciousness did not yet bring lucidity. As her mind crawled out of the grogginess, it stumbled across a handful of facts: she was still alive, but that had been in question; she was damp and cold, they were still in the refrigerator; the can of beans she had wedged into the door handle remained, the Moon—what he had become—was still outside. Bleary eyed, she sat up. A nest of sheets and packing materials surrounded her. The earthy tang of early decay permeated the air. Several large containers had been emptied of condiments for… ah yes, right, they had been in here for days. Clever use of vessels with tight sealing lids.
 

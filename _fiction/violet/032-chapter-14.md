@@ -5,7 +5,7 @@ chapter: 14
 title: "Coin Flip"
 permalink: /fiction/violet/chapter-14/
 act: 2
-date: February 08, 2026
+date: November 02, 2025
 ---
 Hideyo was waiting by the door when Li Xing returned to her office.
 

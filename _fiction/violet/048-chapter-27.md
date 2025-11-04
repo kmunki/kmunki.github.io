@@ -5,7 +5,7 @@ chapter: 27
 title: "Investigating the Aftermath"
 permalink: /fiction/violet/chapter-27/
 act: 3
-date: May 10, 2026
+date: November 02, 2025
 ---
 Flipping through the reports Vidya had sent, Illapa found herself shaking her head, impressed. The two, Vidya and the Olokun, both of the ilk infovore, had bristled at first upon meeting, like two predators discovering shared territory. Hunger for knowledge and fear of Violet, however, created a fast alliance. Little else like a shared enemy for forging peace, eh?
 

@@ -5,7 +5,7 @@ chapter: 9
 title: "The Eye of the Swarm"
 permalink: /fiction/violet/chapter-09/
 act: 1
-date: January 04, 2026
+date: November 02, 2025
 ---
 No one liked the plan. But neither Jee nor Advika felt like facing the Viceroy’s inevitable grilling about why their inspection hadn’t caught a critical gap in resource supply or, if it had, why they did nothing to address it. 
 

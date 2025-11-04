@@ -5,7 +5,7 @@ chapter: 51
 title: "Busaw"
 permalink: /fiction/violet/chapter-51/
 act: 5
-date: October 25, 2026
+date: November 02, 2025
 ---
 Late for kumite again, Hye waddled with urgency through the palace halls. Her bare-footed padding across the tile echoed, making the whole place seem cavernous. Where was everyone? In the next room, a vaulted ballroom with only a desk and chair in the center, was Vizier Daewoo. A large clock on the wall ticked loudly. On the desk was Trine, one of their mice looking at the Vizier, engaged in conversation, while the other two turned to watch Hye approach. They greeted her with little chirrups and bobbing heads.
 

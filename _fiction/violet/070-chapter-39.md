@@ -5,7 +5,7 @@ chapter: 39
 title: "The Chariot"
 permalink: /fiction/violet/chapter-39/
 act: 4
-date: August 02, 2026
+date: November 02, 2025
 ---
 The Siberian sky was a blistering blue. Hye fumbled for her sunglasses, found them in the qaliq pocket with Trine, and extricated them. Buildings, brutalist and squat, sat amidst glaring white snow. On the streets between, clad in anoraks and snow suits, were people. More than she could count at a glance. Snow-motos and polar bears dragged sleds stacked with bags of rice or barrels of vat stock. A mammoth, its tusks clad in crocheted finery, paused to allow shoppers a better look at the wears that hung from the great shelves down its sides. Novy Urengoy: a city in the Wilds.
 

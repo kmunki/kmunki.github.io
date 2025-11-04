@@ -5,7 +5,7 @@ chapter: 50
 title: "Ghul"
 permalink: /fiction/violet/chapter-50/
 act: 5
-date: October 18, 2026
+date: November 02, 2025
 ---
 At thirteen, Msizi had been ordained as an apostle-in-training for the Cult of the Outer World. The name had started out a pejorative, mocking those desperate or deluded enough to even conceive of leaving the walls of the Onzulu. Given the Cult was established while the world-spanning war outside still raged—the nascent Long War not yet having earned the epithet—one could see how the desire to leave the City In the Mountain could seem deranged. On the day of her ordination, an exact round century had passed since the foundation of the ‘Cult.’ In the intervening years, the Cult had earned itself one of the six executive seats of the Onzulu. Only cult members could leave the arcology. Which worked out well, because they were often the only ones who ever *wanted *to.
 

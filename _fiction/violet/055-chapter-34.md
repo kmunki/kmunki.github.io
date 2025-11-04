@@ -5,7 +5,7 @@ chapter: 34
 title: "The Hermit"
 permalink: /fiction/violet/chapter-34/
 act: 3
-date: June 28, 2026
+date: November 02, 2025
 ---
 “We,” said the Host, “are the Zuqqum.”
 

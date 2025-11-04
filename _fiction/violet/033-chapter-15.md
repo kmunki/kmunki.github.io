@@ -5,7 +5,7 @@ chapter: 15
 title: "Hexagrams"
 permalink: /fiction/violet/chapter-15/
 act: 2
-date: February 15, 2026
+date: November 02, 2025
 ---
 Plumes of incense ribboned upwards, filling the temple at the Summer Palace with a thick haze. Yi In-yeong, the Viceroy of Koryo to the Continuum, kneeled before a jade bodhisattva. Dark and quiet, the interior of the temple was lit by rows of candles, their smoke mingling with the unctuous veil. The vapors of a third source, a set of leaves bathed in a shallow bronze basin of water boiling above a small fire, joined them. In-yeong drew a deep breath and held it, feeling herself expand. She was draped in a yellow silk prayer robe, her hair loose, hands on her lap, eyes fixed on the bundle of yarrow sticks, a profound decision before her.
 

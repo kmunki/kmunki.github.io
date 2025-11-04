@@ -5,7 +5,7 @@ chapter: 32
 title: "The High Priestess"
 permalink: /fiction/violet/chapter-32/
 act: 3
-date: June 14, 2026
+date: November 02, 2025
 ---
 Ward and Sifu were, for a moment, blinkered by the startling brightness of the otherwise serene entry-room. Trine began wiggle and jitter within Hye’s pocket, attempting to extricate themselves. With little reason to imprison the treble-mouse, she unlatched her pocket. Offering a mitten as elevator, she lowered them to the warm, polished floor. Instead of scrabbling over to the host, who had herself knelt to offer a hand, Trine skittered at first to the door of the small garage. Finding that now closed, they hurried back across the floor and took up position behind Hye’s feet.
 

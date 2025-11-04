@@ -5,7 +5,7 @@ chapter: 13
 title: "Narobi"
 permalink: /fiction/violet/chapter-13/
 act: 2
-date: February 01, 2026
+date: November 02, 2025
 ---
 Approached from the south, Nairobi’s binary nature is unmistakable. From far across the Serengeti, blurred by heat mirage and umbrella thorn, it sits defiant, neither against nature nor of it. A spire and a sphere, one and zero, shimmering silver and white in the high noon-sky sun. 
 

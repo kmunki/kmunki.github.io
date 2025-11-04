@@ -5,7 +5,7 @@ chapter: 53
 title: "Transit; Occultation"
 permalink: /fiction/violet/chapter-53/
 act: 5
-date: November 08, 2026
+date: November 02, 2025
 ---
 Silent as a grave, the safe room door slid open. Ward and Sifu crept into the darkened hallway. A rhythm had emerged in the creature’s habits, vigilance followed by a duration of quiescence. Twenty minutes, maybe fewer, to cross the palace unnoticed, get up to the second level, enter the armory, gather supplies, and return. The safe room was left open, exposed. Preparation for the actual assault and escape would need more time. If the safe room was compromised, so too were there chances of survival.
 

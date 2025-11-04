@@ -5,7 +5,7 @@ chapter: 18
 title: "The Persian"
 permalink: /fiction/violet/chapter-18/
 act: 2
-date: March 08, 2026
+date: November 02, 2025
 ---
 Abutting the auditorium was a vast balcony. Illapa slipped out of the ceremonies and into a light breeze and bright sun. Sweeping an arc from one side of the egg to the other, it functioned as an external promenade. As within, groups of attendees, presenters, and reporters strolled and clustered along the balcony. The excuse for sunglasses was welcome, making it ever so slightly easier to scan about with discretion. Again Illapa searched, and again found little of note. Famous, perhaps, wealthy, likely, powerful, true, some were, but none on the list—no mutual target. To hunt a predator, one must first hunt their prey.
 

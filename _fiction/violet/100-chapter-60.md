@@ -5,7 +5,7 @@ chapter: 60
 title: "Enthronement"
 permalink: /fiction/violet/chapter-60/
 act: 5
-date: December 27, 2026
+date: November 02, 2025
 ---
 Out at the edge of the Grand Palace were shrines. Most were small, uninteresting affairs. A few had enclosures of old warped wood. Hye walked among them and the surrounding trees and ponds. Within one there were two jade figures, a tiger and a bear, flanking a platter. The tiger was carved pacing, unable to sit still. Its eyes were on the viewer and the exit to the shrine. Conversely, the bear sat, contemplative, observing the center of the offering plate, as peaceful as the buddha. Where there should have been clawed forepaws, the bear had human hands, delicate and thin, as though emerging from a heavy fur jacket.
 

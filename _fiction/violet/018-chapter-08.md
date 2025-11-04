@@ -5,7 +5,7 @@ chapter: 8
 title: "Brave New World"
 permalink: /fiction/violet/chapter-08/
 act: 1
-date: December 28, 2025
+date: November 02, 2025
 ---
 Miriam, luxuriating in the lingering calm and shimmer of the party after her encounter with Brand, was hit with a sudden inspiration. Cells, organelles, and proteins grew and collapsed, folded and unfolded in her mind. The timing and interactions—each somehow resilient enough to keep life going for billions of years and fragile enough that a half-percent perturbation of pH could shut it all down. During the gala watching all those people, those trillions of protein-chains and chemical pathways, she was struck by how all just *worked. *Everyone was *alive.* Not only did it work, but in a chaotic environment, while the gala goers deliberately manipulated the most complex and misunderstood part of themselves, their neural wiring, their *minds* with party drugs and hormones. That’s when it hit her: nature is chaos tolerant; webbed with recoverable pathways. Deep grooves that are hard to leave and easy to find. Almost thwarted by a missing badge, she had set down her drink, come into the quiet lab, thrown on her coat and gotten to work.
 
