@@ -5,7 +5,7 @@ chapter: 1
 title: "The Ward, the Princess, and the Sifu"
 permalink: /fiction/violet/chapter-01/
 act: 1
-date: November 09, 2025
+date: November 02, 2025
 ---
 Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
 
