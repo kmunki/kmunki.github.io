@@ -5,7 +5,7 @@ chapter: 16
 title: "Uplift"
 permalink: /fiction/violet/chapter-16/
 act: 2
-date: March 23, 2026
+date: February 22, 2026
 ---
 Leaning against the back wall, Illapa watched as the attendees poured in for Uplift’s Opening Ceremonies. The music in Tanganyika Auditorium was filled with pounding, up-beat indie synth designed to keep attendees hyped as they found their seats. Badges twisted on lanyards. Journalists set up their cameras on tripods, already documenting the vibe of the crowd as they waited for it all to begin. Panoramic views of the surrounding Kenyan edge-lands were obscured as curtains drew over the glass walls to the left and right. The house lights brightened and then dimmed almost completely. The crowd hushed, save the furious chittering sounds of pens and pencils scribbling. Illapa was already bored.
 

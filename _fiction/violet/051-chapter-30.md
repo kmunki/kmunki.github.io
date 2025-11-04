@@ -5,7 +5,7 @@ chapter: 30
 title: "Free Beasts"
 permalink: /fiction/violet/chapter-30/
 act: 3
-date: June 29, 2026
+date: May 31, 2026
 ---
 Their pace across the ice was hard and monotonous. There had been little to see. The Wilds, populated as they were, could still be empty for vast stretches. No matter the adaptations of the animals and hybrids, Siberian tundra in winter was a harsh, brutal place.
 

@@ -5,7 +5,7 @@ chapter: 11
 title: "War Weaving"
 permalink: /fiction/violet/chapter-11/
 act: 2
-date: February 16, 2026
+date: January 18, 2026
 ---
 Miriam, half-awake, strode through the research building, tea in one hand, a scribbled note from her bedside desk in the other. Seeing her through the glass-walls, scientists and researchers lifted their heads, hoping for eye contact, to nod or wave good morning, ready to explain their progress and ask her guidance on whatever war-relic they were reverse engineering or new efficiency they had found in some biological process. Yet she did not see them. She wove through the honeycomb, her thoughts on what lie ahead. Window-wrapped and sky lit, the labs had views of jungle and sea in almost every direction, morning sun pouring in. 
 

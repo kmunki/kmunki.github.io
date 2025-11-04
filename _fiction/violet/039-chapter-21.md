@@ -5,7 +5,7 @@ chapter: 21
 title: "Join Us"
 permalink: /fiction/violet/chapter-21/
 act: 2
-date: April 27, 2026
+date: March 29, 2026
 ---
 The crowd in Tanganyinka Auditorium had gone silent. All that could be heard were the sounds of expectant people: a chair creaked, a stifled cough, whispered words, the live-venue equivalent of vinyl record pops and hisses. In this world it was ah Baghdadi composer who ‘composed’ the movement of only audience sounds, so a Cage reference won’t work here. 
 

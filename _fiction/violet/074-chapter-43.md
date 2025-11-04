@@ -5,7 +5,7 @@ chapter: 43
 title: "The Chamber of Harmonic Discord"
 permalink: /fiction/violet/chapter-43/
 act: 4
-date: September 28, 2026
+date: August 30, 2026
 ---
 The Grand Royal Palace of the Five Elements of the New Joseon Dynasty was its own majestic microcosm of a city with in the heart of the sprawling, sky-scraping Seoul. Within the palace walls were an auspicious three-hundred and three buildings. Over the centuries, the palace had been palaces, five, as one might guess, each burned, rebuilt, razed, invaded, augmented, converted, evacuated, and restored almost as many times. At one point, it was only a scorched patch of earth, nothing remaining of the palace but the memory.  Yet, ask any resident of Seoul how long the palace had stood—“As long as the Joseons,” they would answer, proudly meaning enough centuries to be within striking distance of a millennia. Owing to its phoenix-like resurrection and expansion to eight square kilometers of gardens, promenades, temples, gates, residences, halls, throne rooms, shrines, offices, bridges, and chambers, it was both a modern marvel and an ancient wonder.
 

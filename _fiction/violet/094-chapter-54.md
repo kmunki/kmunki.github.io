@@ -5,7 +5,7 @@ chapter: 54
 title: "The Cuckoo"
 permalink: /fiction/violet/chapter-54/
 act: 5
-date: December 14, 2026
+date: November 15, 2026
 ---
 Ji-woo shook. Fury and fear fought for control such that the Viceroy-elect stood frozen, staring at Oni. Her face was a moonscape, inscrutable. The all-black eyes gave him nothing, her gaze on the busy courtyard below. All but the residence had been unlocked, but few would notice one building of fifty, hardly thirty of a thousand guests missing amid a small, temporary city of strangers. The asura’s brow was un-furrowed, despite her accusation.
 

@@ -5,7 +5,7 @@ chapter: 25
 title: "Undercurrent"
 permalink: /fiction/violet/chapter-25/
 act: 3
-date: May 25, 2026
+date: April 26, 2026
 ---
 The two tiger sharks circled, rolling to the side, their awful dolls eyes interrogating. A great shadow passed through the water above the dome. Serpent feathers, thought Illapa, what was that? The sharks dipped below the surface and were gone. Deep in the water, far below, a flicker of light. With it, a shadow, darker than the midnight depths surrounding; it rose, growing. Far above, sun and the lights of the city strained and refracted through the water. Under this glamor the shadow thickened and resolved into a huge shape nearly the length of the opening. Spotlights blinded Illapa and Biby, throwing the rest into darkness. A blasting rush of breath and sea water sprayed up into the dome as the surface broke, followed by the great in-rush of air filling cavernous lungs.
 

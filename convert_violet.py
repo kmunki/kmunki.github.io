@@ -17,7 +17,7 @@ SCRIVENER_PROJECT = Path("/Users/kylem/Library/CloudStorage/Dropbox/Apps/Scriven
 SCRIVX_FILE = SCRIVENER_PROJECT / "Violet.scrivx"
 RTF_DATA_DIR = SCRIVENER_PROJECT / "Files" / "Data"
 OUTPUT_DIR = Path("/Users/kylem/Documents/Writing/kmunki.github.io/_fiction/violet")
-START_DATE = datetime(2025, 12, 1)  # Monday, December 1, 2025 - first chapter publication
+START_DATE = datetime(2025, 11, 2)  # Sunday, November 2, 2025 - first chapter publication
 WEEKLY_INTERVAL = timedelta(days=7)
 
 # Chapter manifest from Project Outline

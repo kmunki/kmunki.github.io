@@ -5,7 +5,7 @@ chapter: 46
 title: "Saṃsāra"
 permalink: /fiction/violet/chapter-46/
 act: 4
-date: October 19, 2026
+date: September 20, 2026
 ---
 Advika, a touch light-headed with drink and smoke, took in the remnants of the party. As others had succumb to fatigue to a tipple too many, their little table had held on. It had been decades since she had waded into the political shallows. One’s metaphors for the practice often betrayed one’s methods: a battle of wits; a game of deception; a hunter and quarry. Even within her metaphor of choice, turbulent waters, there was variation: some cast a net, others speared, while still others lure and line. Once, she would have said she fished with her hands, eating only what she caught. Going into the evening, her mission was simple enough: win support for Hye’s claim. Prove to the proxies of power that she and the Ward weren’t monsters from the Wilds; discredit the implications that they were the source of subterfuge; point out how convenient it had all been for Ji-woo. Rulers wield only as much power as others believe they have.
 

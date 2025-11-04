@@ -5,7 +5,7 @@ chapter: 38
 title: "The Quartermaster; The Coffin"
 permalink: /fiction/violet/chapter-38/
 act: 4
-date: August 24, 2026
+date: July 26, 2026
 ---
 Nairobi’s city-lower night life was in full thrum. Hoards of people and hybrids bathed in the spectra of acid neon light. Moto drag races and street brawls broke out a few ape swings from up-and-coming clubs and exclusive lounges. Rain, warm and thin, fell indiscriminately, making mirrors of every surface. Below her feet the city-under could be heard: the chaotic, chromatic cries of hyena and the bat-like chirruping of the painted wild dogs were the altos and sopranos to the lion baritone and elephant bass. Filling out the chorus were the legion voices of smaller, prolific creatures, each attempting to find its place amid that unnatural nature.
 

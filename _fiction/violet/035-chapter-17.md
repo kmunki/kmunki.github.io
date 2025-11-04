@@ -5,7 +5,7 @@ chapter: 17
 title: "A Brewing Storm"
 permalink: /fiction/violet/chapter-17/
 act: 2
-date: March 30, 2026
+date: March 01, 2026
 ---
 The Viceroy’s summons was as sudden as the storm. Leaden rain pummeled the floor-to-ceiling windows of the Viceroy’s retiring room. Acid-white freeze frames of the lawn, gardens, and forests of the palace grounds, blurred and distorted by the inundation, flashed with each lightning strike. Hye and Sun sat on a circular couch sunken into the floor. A suspended hearth floated at its center; the retiring room’s only sustained light the flickering orange of the fire.
 

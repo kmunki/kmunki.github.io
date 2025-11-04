@@ -5,7 +5,7 @@ chapter: 58
 title: "Crane-Dragon Duel"
 permalink: /fiction/violet/chapter-58/
 act: 5
-date: January 11, 2027
+date: December 13, 2026
 ---
 “Crane-Dragon Duel for the Throne of Koryo.” She bowed to the Prince, then the Ward, then the judges. “Are our Judges ready?” The three masters nodded. “Ward?” Hye snapped her arms and fists rigid. “Prince?”
 

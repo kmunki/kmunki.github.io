@@ -5,7 +5,7 @@ chapter: 22
 title: "Graduation and Matriculation"
 permalink: /fiction/violet/chapter-22/
 act: 2
-date: May 04, 2026
+date: April 05, 2026
 ---
 The moto raced through the bitter downpour. Nightfall brought cold. Harsh half-frozen rain slashed and soaked the Sifu and Ward. Alone, each precipitated sliver of almost-ice was cruel, but en masse became a harsh ally—a welcome shroud against pursuit. By the time the ogumo-soldier limped back to whomever owed allegiance and delivered its monstrous report, there would be little beyond the wreckage of the litter to find; by dawn, no trace of their escape. Tracks and tells would be washed away in the night-doubling deluge. Chase was all but impossible. Escape, too, was nearly so; their own moto's headlight strained to reach the road, the beam half reflected back by the wall of lancing droplets. Hands burning with cold, Hye clung to her Sifu; both were bloodied, fighting tremors of cold and fatigue.The vertiginous forest-flanked road wound down and out of the mountains. Progress was marked by the metronome moto, tilting and wending through void. 	After some hours, the night gave way first to the lights of small towns and then the steady glow of Pyongyang. It was not a scintillating city. No flickering and blinking drew them in, nor were there bright skyscrapers found in other cities that bridged the celestial and the terrestrial with their vertical constellations. Pyongyang wore its official austerity like robes. Post-war, save the Central Palace itself and a few half-obliterated neighborhoods, the city was craters and rubble. From the shattered ruins, Pyongyang rose again, a practical phoenix. Radiant, despite the rain, a stubborn ember in the storm.
 

@@ -5,7 +5,7 @@ chapter: 59
 title: "Grave Robbers"
 permalink: /fiction/violet/chapter-59/
 act: 5
-date: January 18, 2027
+date: December 20, 2026
 ---
 How mad have you gone? Illapa asked herself. As soon as she was clear of the crowd, she broke into a sprint. Buy time, buy time. The first half of her plan was working. She daren’t look back, but she didn’t need to. Deep in her primal brain, she felt herself hunted—the asura pursued. As with the Olokun she bet, once again, on the asura and fear. This time, however, it was not the fear she caused but that she held.
 

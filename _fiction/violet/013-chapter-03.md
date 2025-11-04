@@ -5,7 +5,7 @@ chapter: 3
 title: "The Ogre; The Viceroy"
 permalink: /fiction/violet/chapter-03/
 act: 1
-date: December 22, 2025
+date: November 23, 2025
 ---
 The Summer Palace grounds were stepped into the mountainside—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, seat of the Ruby Dragon Throne. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
 

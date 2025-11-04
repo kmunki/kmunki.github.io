@@ -5,7 +5,7 @@ chapter: 49
 title: "The Asura"
 permalink: /fiction/violet/chapter-49/
 act: 5
-date: November 09, 2026
+date: October 11, 2026
 ---
 Soon her old Sensei would be dead. The thought did not lighten Hideyo’s step, it was not a gleeful vengeance. As she walked through the empty expanse of the Grand Royal Palace grounds, the memory of her last attempt surfaced, like a corpse washing ashore. Yet something nagged: it hadn’t been an *attempt*. The fight, the explosion, the fall. Hideyo had been left on the burning pavement, bloodied and bereft of an arm, the white finger of her splintered collar bone sticking out from the blackened raw meat where her shoulder had been. But the Sifu, her Sifu then, had been damaged far worse still, what would have been left of her body fell a distance that was unsurvivable. It had cost her an arm, but Hideyo *had *killed her old Sifu, the violet-eyed asura. Not with all the agar in the world should have been enough to resurrect her. Yet the Zaqqum—no matter how mad they were—did not lie and was not mistaken. Her Sifu had returned, a revenant. An error in the universe she had the rare privilege to set right. A busaw is not an elegant weapon, but it is an annihilating one. 
 

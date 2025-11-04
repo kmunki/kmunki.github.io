@@ -5,7 +5,7 @@ chapter: 2
 title: "Jack Brand, International Man of Mystery"
 permalink: /fiction/violet/chapter-02/
 act: 1
-date: December 15, 2025
+date: November 16, 2025
 ---
 Luck had long been on the European’s side. You know the type. Bullets with Jack Brand’s name went just wide while his hip shots found their mark’s heart. Nefarious elements with the upper hand gloated just long enough for him to escape and die another day. Whatever random gadgets the old codger of a quartermaster gave him seemed to be *just the thing he needed*. Gracefully sidestepping death was his forte whenever it arrived to take him: be it during the Bangladesh extraction, at the fall of London, and on every other mission for Her Majesty’s Secret Service he had survived since he first earned his license to kill. Famously reserved, the Maharani herself had thanked Brand for his work with that little spot of nastiness with the Chinese. The key, he had found, was to live most fully. The icy focus of fear, the engulfing heat of passion, the flex of one’s muscles and the weightlessness of victory. It wasn’t mere chance, Brand knew, that he had such luck.
 

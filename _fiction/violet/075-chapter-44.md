@@ -5,7 +5,7 @@ chapter: 44
 title: "The Residential Pavillion of Global Serenity"
 permalink: /fiction/violet/chapter-44/
 act: 4
-date: October 05, 2026
+date: September 06, 2026
 ---
 The instant the train stopped in the Grand Palace station, a crush of attendants rushed forward, setting up ornate steps and canopies. Litter drivers arrived at the end of each carpet. As Illapa stepped out of the Condor Moray carriage, she saw her bags had already been strapped to the litter roof. While porters and drivers and attendees milled about in the light, mercenaries stood in every shadow. Not only had The Blade not lost their contract, but had somehow fooled the New Joseon into quintupling their order. Well done, Sadiya.
 

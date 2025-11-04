@@ -5,7 +5,7 @@ chapter: 35
 title: "Mercenaries' Mecca"
 permalink: /fiction/violet/chapter-35/
 act: 3
-date: August 03, 2026
+date: July 05, 2026
 ---
 What had seemed like a single office was, in fact, one of perhaps a dozen entry ways into the ten story block of the tower that comprised The Blade’s Nairobi branch. Sidaya, narrating, walked Illapa first past training grounds, where mercenaries went from, as she put it, “slap-dash soldiers of fortune to women of discipline, focus, and efficiency. This is not so much a matter of honor. That’s a vestige of a time where soldiers had to be compelled to fight. I forget, your military is conscript, no?”
 

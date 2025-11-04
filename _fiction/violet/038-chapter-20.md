@@ -5,7 +5,7 @@ chapter: 20
 title: "The Asura"
 permalink: /fiction/violet/chapter-20/
 act: 2
-date: April 20, 2026
+date: March 22, 2026
 ---
 Illapa burst out into the hall, nearly colliding with a woman just outside. 
 

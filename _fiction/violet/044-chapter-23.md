@@ -5,7 +5,7 @@ chapter: 23
 title: "To the Floating City"
 permalink: /fiction/violet/chapter-23/
 act: 3
-date: May 11, 2026
+date: April 12, 2026
 ---
 Hardly an hour from station-to-station, the train to Mombasa offered opportunity to interrogate the lemur. At first, Illapa had been a bit stumped as to how to manipulate the lemur, until Biby took some seeds out of a pocket on her vest and began eating. With some gentle probing and oblique questioning, Illapa managed to get Biby to admit her favorite foods were, unsurprisingly, grapes and bananas. With her limited grammar and syntax she managed to convey that she loved these foods both for their taste but also for the satisfaction of a job well done, though not stated with this degree of explicitness or coherence. It became clear Biby would do nearly anything for a peach.
 

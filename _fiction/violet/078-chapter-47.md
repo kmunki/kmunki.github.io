@@ -5,7 +5,7 @@ chapter: 47
 title: "The Thing on the Doorstep"
 permalink: /fiction/violet/chapter-47/
 act: 4
-date: October 26, 2026
+date: September 27, 2026
 ---
 Moonlight sifted through clouds and gauzy curtains into the darkened room. Scattered and ghostly, it danced across the ceiling and walls. Objects so lit were impressionistic, each a silver-edged shadow. Illapa’s eyes traced the thin, elegant line of Msizi’s neck and shoulder, down the camisoled curve of her side to the rise of her hips. She radiated a sleeper’s heat. Illapa bathed in it. Who had seduced whom, she wondered. The Onzulu Ambassador’s wry wink, behind the mirror flash of those octagonal glasses; the toss of her long plaited hair; her mental fencing, landing strikes of cutting wit upon others while saving those barbed with teasingly lust for only her. Illapa longed for the clouds to pass, to allow enough moon glow to admire Msizi’s smooth dark skin. As if to tease her, a shadow passed over the moon, leaving the room darker still. Scent and touch would have to sate for now.
 

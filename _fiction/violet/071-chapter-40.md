@@ -5,7 +5,7 @@ chapter: 40
 title: "The Gift of Betrayal"
 permalink: /fiction/violet/chapter-40/
 act: 4
-date: September 07, 2026
+date: August 09, 2026
 ---
 Muggy evening breeze floated through Li Xing’s private office, the baffles in the walls and above the windows slowing it such that it only tugged at the corners of the very top sheet of stacked reports. With it traveled hints of sea brine and jungle musk, stirred by the ceiling fans’ slow rotation. Through the window, Miriam could see the occasional bat or moth flicker into pale existence. Reading lamps cast spotlights onto the charts and tables attempting to express Violet’s story in little more than a balance sheet and market share. The number that caught her eye, though, was new residents. Citizenship applications at this pace would fill the new islands within a year.
 

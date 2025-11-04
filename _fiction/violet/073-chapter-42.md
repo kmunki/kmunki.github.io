@@ -5,7 +5,7 @@ chapter: 42
 title: "The Reliquery and the Vial"
 permalink: /fiction/violet/chapter-42/
 act: 4
-date: September 21, 2026
+date: August 23, 2026
 ---
 Excitement, electric in her finger tips, tingled through Hideyo as she entered the codes to unlock the reliquary vault. The heavy door sung open, silent and smooth. At the entrance, she bowed, then stood, luxuriating in the silence and power of her feretory. The walls, floor, and ceiling, were paneled velvety black. Rows of pedestals, each topped with an item encased in a display, appeared spotlights faded on, each recessed, casting the faintest of beams. The effect was of dim pillars, free floating in the void. Her steps, mere whispers even on marble, were obliterated in here. The quiet and dark served a double purpose: protect that which was sensitive, and highlight that which must be revered: war-relics.
 

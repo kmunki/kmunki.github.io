@@ -5,7 +5,7 @@ chapter: 12
 title: "Owl in Daylight"
 permalink: /fiction/violet/chapter-12/
 act: 2
-date: February 23, 2026
+date: January 25, 2026
 ---
 “Agar is at the heart of it,“ said Vizier Daewoo as she and Sifu Advika resumed their stroll through the quiet woods behind the Summer Palace.
 

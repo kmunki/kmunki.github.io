@@ -5,7 +5,7 @@ chapter: 6
 title: "Tree Top Espionage"
 permalink: /fiction/violet/chapter-06/
 act: 1
-date: January 12, 2026
+date: December 14, 2025
 ---
 Brand felt the muted thrum of the party fade as he padded down an open-air corridor, his path lit by moon and stars. The corridor was covered by angled slats of wood to shunt off the daily rains while still letting in sun and breeze. Near-invisible screens stretched across the tops kept smaller, more annoying denizens of the island out. On either side of the bridge-corridor were office spaces suspended among the tree tops. The hall-bridge’s tight woven mat floor quieted his steps. He unfolded a small black flap inside his tuxedo jacket to cover the white shirt and tie, suddenly rendering him a well-dressed shadow.
 

@@ -5,7 +5,7 @@ chapter: 55
 title: "Conjunction"
 permalink: /fiction/violet/chapter-55/
 act: 5
-date: December 21, 2026
+date: November 22, 2026
 ---
 Regret, that emotion of the spineless, had somehow snuck its way into Illapa’s brain. Action requires mistakes, and better to have acted and wished one had not then the other way. Yes, she thought, do not regret acting. 
 

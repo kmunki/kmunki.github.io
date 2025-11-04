@@ -5,7 +5,7 @@ chapter: 4
 title: "Hiding in Plain Sight"
 permalink: /fiction/violet/chapter-04/
 act: 1
-date: December 29, 2025
+date: November 30, 2025
 ---
 Warm jungle air wafted through the night. Here in humanity’s original latitude, the barest of effort was needed for any manner of living thing to thrive. Greens of every shade, thickness, and texture coated the island. Home as this little biological miracle was to an almost uncountable variety of life, it was also home to the mind and heart of one of humanity’s favorite super-organisms: the corporation. This one in particular, Violet, was built by climbing the rungs of DNA. For the right price, Violet’s products put nature in her place for a while. And tonight they were celebrating their independence.
 
