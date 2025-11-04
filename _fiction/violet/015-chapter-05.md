@@ -5,7 +5,7 @@ chapter: 5
 title: "Arcology"
 permalink: /fiction/violet/chapter-05/
 act: 1
-date: December 07, 2025
+date: November 02, 2025
 ---
 Four motos streaked across the Mongolian steppe, dust trails rising behind them. The knobby tires and heavy springs of Hye and Sun’s military-issue motos rumble and creaked as they hammered over the washboard dirt that constituted a road. 
 
