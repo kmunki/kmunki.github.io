@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-05/
 act: 1
 date: November 02, 2025
 ---
-Four motos streaked across the Mongolian steppe, dust trails rising behind them. The knobby tires and heavy springs of Hye and Sun’s military-issue motos rumble and creaked as they hammered over the washboard dirt that constituted a road. 
+Four motos streaked across the Mongolian steppe, dust trails rising behind them. The knobby tires and heavy springs of Hye and Sun's military-issue motos rumbled and creaked as they hammered over the washboard dirt that constituted a road. 
 
 A crackle came over their helmet radios, “We’re well into edge-land now,” said the General, “we’ll be at the arc soon enough. Stay vigilant.”
 
@@ -15,7 +15,7 @@ Between the wilds and proper Koryo were the edge-lands. At the Long Wars apex—
 
 “Edge-lands!” Hye repeated. For the first time in her life she was beyond the border of Koryo proper. 
 
-“Thought you said this was our territory now, General,” said Adivka, “first you come to the Viceroy begging for an old woman to do you job for you, when you can’t get that, you settle for fledglings, now you tell me you can’t even keep us safe?” 
+"Thought you said this was our territory now, General," said Advika, "first you come to the Viceroy begging for an old woman to do you job for you, when you can't get that, you settle for fledglings, now you tell me you can't even keep us safe?" 
 
 The old Sifu had insisted on bringing her own moto. It was a liquid black crystalline thing, two shards of angled chiton-carbon alloy. The seat cantilevered over the huge rear wheel, giving the effect of the rider all-but-floating just above the tires and motor. Rumors among the palace staff said that it was stolen from a spy she had killed; that it had hidden compartments.
 
@@ -25,15 +25,15 @@ The old Sifu had insisted on bringing her own moto. It was a liquid black crysta
 
 “This isn’t just about you, Princess,” said the General. “Koryo needed this. The arc’s not too far. Hard to see but it’s those hills,” the General continued, pointing at a low clutch of mounds indistinguishable from every other on the steppe horizon. 
 
-“The Olgoi-Khorkhoi Arcology is a hard place,” said the Sifu, “The General and Viceroy are too confident. As they tried to order me, they want to order the Olgoi. It is filled with people for whom the Long War’s Shadow was wide and dark. Sun, Jee and the Viceroy *need *you and I to hold the arc for it to be worth anything. It requires diplomacy and toughness, silk draped over steel. You will need to be both.”
+"The Olgoi-Khorkhoi Arcology is a hard place," said the Sifu, "The General and Viceroy are too confident. As they tried to order me, they want to order the Olgoi. It is filled with people for whom the Long War's Shadow was wide and dark. Sun, Jee and the Viceroy *need* you and I to hold the arc for it to be worth anything. It requires diplomacy and toughness, silk draped over steel. You will need to be both."
 
 Jee slowed her moto, hunting for a little marker, a stick with a bit of stained orange rag tied to it. Finding it, she rolled to a stop.
 
 “Princess Seong-ma, Ward Hyeon, Sifu Shidao,” said General Jee with exaggerated formal bow, “welcome to the edge-lands. Though perhaps for you, Sifu, I should say welcome home?”
 
-Advika let out a grumbling mock-laugh as she pulled her helmet off. All were clad in fatigues, now dust covered and sweaty. Removing their helmets had pulled their hair slightly out of the tight, practical braids they wore. For the first time, Hye could see that these were not-quite hills. About a hundred meters away, weathered steel sides were just visible. Near the base of the closest structure, a herd of large brown wooly cows were lowing and grazing. She was about to step past the General to get a closer look, but both Jee and Advika put a hand out to stop her.
+Advika let out a grumbling mock-laugh as she pulled her helmet off. All were clad in fatigues, now dust-covered and sweaty. Removing their helmets had pulled their hair slightly out of the tight, practical braids they wore. For the first time, Hye could see that these were not-quite hills. About a hundred meters away, weathered steel sides were just visible. Near the base of the closest structure, a herd of large brown wooly cows were lowing and grazing. She was about to step past the General to get a closer look, but both Jee and Advika put a hand out to stop her.
 
-“Please Ward Hyeon,” said the Stump, “follow close. The security hybrids aren’t aware of our presence yet. They are not smart things despite the arc’s hybreeders best efforts. We’ll walk the safe path.” She gestured to sticks shoved into the ground in a winding path leading towards the arc and began walking.
+"Please Ward Hyeon," said the Stump, "follow close. The security hybrids aren't aware of our presence yet. They are not smart things despite the arc's hybreeders' best efforts. We'll walk the safe path." She gestured to sticks shoved into the ground in a winding path leading towards the arc and began walking.
 
 “What am I walking into?” Sun asked.
 
@@ -41,11 +41,11 @@ Advika let out a grumbling mock-laugh as she pulled her helmet off. All were cla
 
 “Like you said, not idiots,” Advika agreed.
 
-Hye was awestruck as they approached. From a distance, the arcology had seemed perhaps the size of the palace. Yet as they walked closer it towered—perhaps a hundred meters high and over a kilometer long. This closest building was just one among many comprising the whole. Hye could barely imagine a single arcology of this scale being built, let alone hundreds of them, each with a unique design, in places all around the planet, in just a few decades. The outside was coated with a fur of brown lichen and yellowing grasses. She could see land crabs skittering up and down the sides, their dusty claws and flittering antennae in constant motion, searching for threats to the infrastructure and nibbling on the withered vegetation. Pruning sheers with appetites, Advika had called them once in an effort to dissuade a much younger Hye from attempting to make a pet of one she found on the palace grounds. Both failed in their endeavors.
+Hye was awestruck as they approached. From a distance, the arcology had seemed perhaps the size of the palace. Yet as they walked closer it towered—a hundred meters high, over a kilometer long. This closest building was just one among many comprising the whole. Hye could barely imagine a single arcology of this scale being built, let alone hundreds of them, each with a unique design, scattered across the planet, erected in just a few decades. The outside was coated with a fur of brown lichen and yellowing grasses. Land crabs skittered up and down the sides, their dusty claws and flittering antennae in constant motion, searching for threats to the infrastructure and nibbling on the withered vegetation. Pruning shears with appetites, Advika had called them once in an effort to dissuade a much younger Hye from attempting to make a pet of one she found on the palace grounds. Both failed in their endeavors.
 
-A door opened in the huge facade and a woman walked out, like watching an ant emerge from an aubergine. Even from a distance the woman’s distinctive walk betrayed an almost joyous self confidence. Her shoulders were back, chest out, arms wide and swinging freely, her legs kicking out in front and flopping down. She strode to them directly, ignoring the markings of the safe path. This was her territory. She was draped in a practical cape, under which were patched and stained coveralls.
+A door opened in the huge facade and a woman walked out, like watching an ant emerge from an aubergine. Even from a distance the woman's distinctive walk betrayed an almost joyous self-confidence. Her shoulders were back, chest out, arms wide and swinging freely, her legs kicking out in front and flopping down. She strode toward them directly, ignoring the markings of the safe path. This was her territory. She was draped in a practical cape, under which were patched and stained coveralls.
 
-“Sain baitsgaanoo!” the woman bellowed, her voice high and gravely. In response came a lowing from the wooly oxen grazing near by and perhaps the single largest creature either Hye had encountered in their life came loping over, as though it were a puppy instead of a two ton, meter-horned, shaggy bovine. The woman laughed gregariously and pet them. Together, woman and beast started up the path towards their visitors.
+"Sain baitsgaanoo!" the woman bellowed, her voice high and gravelly. In response came a lowing from the wooly oxen grazing nearby and perhaps the single largest creature Hye had encountered in their life came loping over, as though it were a puppy instead of a two-ton, meter-horned, shaggy bovine. The woman laughed gregariously and petted them. Together, woman and beast started up the path toward their visitors.
 
 “Ah, this is the Arc Chief now, Bolormaa,” General Jee said, then dropped her voice for just the tutor, “and if she has a surname she doesn’t care to share it or use it.”
 
@@ -63,7 +63,7 @@ The Sifu huffed a single laugh, “it’s a saying. Be prepared.”
 
 “Welcome to Mongolia, oh rulers” said Bolormaa with an edge as she and the ox arrived in front of Jee, “you come to inspect your spoils. We of the Olgoi-Khorkhoi are eager to inspect you as well”
 
-“Thank you for your generosity, Survivor Bolormaa,” said Sun, bowing and touching her knees with her finger tips, “for inviting us out of the wilderness and into your refuge.” Hye and Advika followed suit.
+"Thank you for your generosity, Survivor Bolormaa," said Sun, bowing and touching her knees with her fingertips, "for inviting us out of the wilderness and into your refuge." Hye and Advika followed suit.
 
 Bolormaa raised an eyebrow, “Well you are not Rus or Zhong, true! No mistakes though, civvy conquerors with manners are still conquerors. Your pointed guns are your invites, we do not decline because we, yes, are survivors, not fools. Nohoj would crush you to dust and I would laugh, were it not to follow with her death and my own.”
 
@@ -103,6 +103,6 @@ The Arc Chief looked hard at the Ward. “Yes, Ward Hye, beetles and frogs. Few 
 
 “What *are* you teaching them, Sifu?” Asked General Jee.
 
-“To survive, General,” answered Hye, “The environment here is far to dry for scourers, which require a huge amount of foliage to sustain and tend to be a larger threat to tropic and subtropic Wilds, while we’re not far enough inland to prevent the monsoons from getting here, creating deluge conditions necessary for a week or so of cool, humid air and standing water. I think some of the grasses here have the right pH for the burrow toads to maintain their caustic saliva.”
+"To survive, General," answered Hye, "The environment here is far too dry for scourers, which require a huge amount of foliage to sustain and tend to be a larger threat to tropic and subtropic Wilds, while we're not far enough inland to prevent the monsoons from getting here, creating deluge conditions necessary for a week or so of cool, humid air and standing water. I think some of the grasses here have the right pH for the burrow toads to maintain their caustic saliva."
 
-“Ho ho!” Laughed Bolormaa, “more surprises! Outside easier than in. Time for a real test.” They arrived at the looming wall of the arcology. Bolormaa shoed away the wooly ox and they stepped through into the Olgoi.
+"Ho ho!" Laughed Bolormaa, "more surprises! Outside easier than in. Time for a real test." They arrived at the looming wall of the arcology. Bolormaa shooed away the wooly ox and they stepped through into the Olgoi.
