@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - Product Manager, Bioethicist & Technology Writer{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="keywords" content="Kyle Munkittrick, product manager, bioethics, AI healthcare, technology ethics, Amazon One Medical, Apple, product management, philosophy of technology">
+    <meta name="author" content="Kyle Munkittrick">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - Product Manager, Bioethicist & Technology Writer{% endif %}">
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:image" content="{{ site.url }}/kyle_munkittrick.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - Product Manager, Bioethicist & Technology Writer{% endif %}">
+    <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="twitter:image" content="{{ site.url }}/kyle_munkittrick.jpg">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fff;
+            padding: 2rem 1rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px dotted currentColor;
+        }
+
+        a:visited {
+            color: inherit;
+        }
+
+        a:hover {
+            opacity: 0.7;
+        }
+
+        main {
+            margin-bottom: 3rem;
+        }
+
+        nav {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #eee;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 0 1rem;
+            display: inline-block;
+        }
+
+        nav a.active {
+            font-weight: 500;
+            color: #333;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 1rem;
+            }
+
+            nav a {
+                margin: 0 0.5rem;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        {{ content }}
+    </main>
+
+    <nav>
+        <a href="/" {% if page.url == "/" %}class="active"{% endif %}>About</a>
+        <a href="/essays/" {% if page.url == "/essays/" %}class="active"{% elsif page.layout == "post" %}class="active"{% endif %}>Essays</a>
+        <a href="https://calendar.app.google/XXuudRKmRJrDuzoAA" target="_blank">Schedule Time</a>
+        <a href="mailto:kmunkitt@gmail.com">Email</a>
+        <a href="https://linkedin.com/in/kylemunkittrick" target="_blank">LinkedIn</a>
+        <a href="https://3quarksdaily.com/3quarksdaily/author/kmunkittrick" target="_blank">3 Quarks Daily</a>
+    </nav>
+
+    <!-- Littlefoot footnotes -->
+    <script src="https://unpkg.com/littlefoot/dist/littlefoot.js" type="application/javascript"></script>
+    <script type="application/javascript">
+        littlefoot.default()
+    </script>
+</body>
+</html>
