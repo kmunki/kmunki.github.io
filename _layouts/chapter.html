@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 ---
 
 <article class="chapter">
@@ -8,11 +8,8 @@ layout: default
             <a href="/fiction/{{ page.novel | slugify }}/" class="novel-title">{{ page.novel }}</a>
         </div>
         <div class="chapter-info">
-            <div class="chapter-left">
-                <div class="chapter-number">Chapter {{ page.chapter }}</div>
-                <h1 class="chapter-title">{{ page.title }}</h1>
-            </div>
-            <div class="chapter-date">{{ page.date | date: "%B %d, %Y" }}</div>
+            <div class="chapter-number">Chapter {{ page.chapter }}</div>
+            <h1 class="chapter-title">{{ page.title }}</h1>
         </div>
     </header>
     
