@@ -18,18 +18,6 @@ published: true
 
 <div class="front-matter-content" markdown="1">
 
-## Narrator's Note
-
-Authoring a history is dry and tedious work, though not nearly so much as reading one. Thankfully, for both your sake and mine, I am not an author and this is not a history. I am, however, and much to my delight, the narrator of this story.
-
-Scholarship is about understanding, not mere knowing; I found the more I perseverated over the ever increasing facts of these events the less I understood of their meaning. What follows are not perfect reproductions, but models: all speech is summary, so too the imperfect mirror of art.
-
-Where I can, I borrow the conventions of fiction. All fiction, all story, is, in a sense, speculative; each writer finding her balance between what is true history and that which is artfully alternate. The latter clarifies and elevates the former; the former anchors and vivifies the latter.
-
-Thus, the text before you. It is, I believe, an understanding of what happened and, more critically, perhaps, it is my understanding.
-
----
-
 <div class="personages-section" markdown="1">
 
 ## Personages

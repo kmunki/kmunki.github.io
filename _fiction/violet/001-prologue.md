@@ -21,7 +21,7 @@ date: November 02, 2025
 
     <nav class="prologue-navigation">
         <div class="nav-links">
-            <a href="/fiction/violet/chapter-01/" class="nav-next">Chapter 1: The Ward, the Princess, and the Sifu →</a>
+            <a href="/fiction/violet/act-1-ātmanic-exaptations/" class="nav-next">Act 1: Ātmanic Exaptations →</a>
         </div>
     </nav>
 </article>
