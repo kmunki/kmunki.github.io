@@ -1,18 +1,24 @@
 ---
-layout: post
+layout: minimal
 title: "Violet"
 permalink: /fiction/violet/
 collection: fiction
 published: true
 ---
 
-# Violet
+<article class="novel-index">
+    <header class="novel-header">
+        <h1 class="novel-title">Violet</h1>
+        <p class="novel-tagline">An epic science fantasy exploring engineered destiny and authentic agency</p>
+    </header>
 
-**An epic science fantasy exploring engineered destiny and authentic agency**
+<div class="novel-intro" markdown="1">
 
 Set in a post-apocalyptic world where Zheng He's westward expansion prevented European colonization, leading to the catastrophic Long War, *Violet* follows Hye—a supernaturally "Lucky" young woman whose fortune has been engineered by the ancient Society of Opportunists. As she evolves from sheltered Korean royal ward to Shadow operative, she must confront the ultimate question: can enhanced individuals escape the purposes for which they were created?
 
----
+</div>
+
+<section class="story-section" markdown="1">
 
 ## The Story
 
@@ -20,7 +26,9 @@ In an alternate present day, Hye is a royal ward of Koryo, raised alongside her 
 
 When Sun is sent to the edge of the Wilds on a mission for the Koryo crown, Hye joins her. On their journey, Hye accidentally reveals a power sought by Violet, a biotech corporation and nation in one. Ruthless and cunning, Violet brazenly attacks the palace to get what it wants. In the mayhem, Sun is abducted and Violet secretly seizes rule of Koryo. Hye escapes into the only place safe from Violet: the Wilds. Now, with her Sifu's help, Hye must survive monstrous Wilds and find a way to stop Violet. If she can't, Sun, Koryo, and eventually the world will be lost to Violet's shadow empire.
 
----
+</section>
+
+<section class="reading-section" markdown="1">
 
 ## Reading
 
@@ -29,9 +37,7 @@ Characters, Timeline, World Map, and Narrator's Note
 
 **[Prologue →](/fiction/violet/prologue/)**
 
-### Act 1: Ātmanic Exaptations
-
-*The opening act establishes the complex geopolitical foundation of this alternate history while introducing the central characters and their dangerous world through two parallel storylines that will eventually converge.*
+### [Act 1: Ātmanic Exaptations](/fiction/violet/act-1-ātmanic-exaptations/)
 
 1. [The Ward, the Princess, and the Sifu](/fiction/violet/chapter-01/)
 2. [Jack Brand, International Man of Mystery](/fiction/violet/chapter-02/)
@@ -43,9 +49,7 @@ Characters, Timeline, World Map, and Narrator's Note
 8. [Brave New World](/fiction/violet/chapter-08/)
 9. [The Eye of the Swarm](/fiction/violet/chapter-09/)
 
-### Act 2: Stochastic Kaihō
-
-*The second act chronicles the systematic escalation of Violet Corporation's conspiracy as multiple intelligence agencies race to understand their plans, while Korean leadership faces coordinated sabotage leading to devastating tragedy.*
+### [Act 2: Stochastic Kaihō](/fiction/violet/act-2-stochastic-kaihō/)
 
 10. [Fallout at the European Security Agency](/fiction/violet/chapter-10/)
 11. [War Weaving](/fiction/violet/chapter-11/)
@@ -61,9 +65,7 @@ Characters, Timeline, World Map, and Narrator's Note
 21. [Join Us](/fiction/violet/chapter-21/)
 22. [Graduation and Matriculation](/fiction/violet/chapter-22/)
 
-### Act 3: Ecotone Arcana
-
-*The third act follows parallel quests of investigation and revelation as multiple storylines converge toward shocking truths about Hye's identity and the global conspiracy's scope.*
+### [Act 3: Ecotone Arcana](/fiction/violet/act-3-ecotone-arcana/)
 
 23. [To the Floating City](/fiction/violet/chapter-23/)
 24. [Bank, Hotel, Tickets](/fiction/violet/chapter-24/)
@@ -80,9 +82,7 @@ Characters, Timeline, World Map, and Narrator's Note
 35. [Mercenaries' Mecca](/fiction/violet/chapter-35/)
 36. [The Coin](/fiction/violet/chapter-36/)
 
-### Act 4: Revenants' Maya
-
-*The fourth act orchestrates the convergence of all storylines as Hye returns to reclaim her throne while Violet Corporation springs its carefully prepared trap using Prince Ji-woo as bait.*
+### [Act 4: Revenants' Maya](/fiction/violet/act-4-revenants-maya/)
 
 37. [The Magicians](/fiction/violet/chapter-37/)
 38. [The Quartermaster; The Coffin](/fiction/violet/chapter-38/)
@@ -97,9 +97,7 @@ Characters, Timeline, World Map, and Narrator's Note
 47. [The Thing on the Doorstep](/fiction/violet/chapter-47/)
 48. [Naraka](/fiction/violet/chapter-48/)
 
-### Act 5: Aleatory Syzygy
-
-*The final act delivers the climactic convergence as Violet Corporation's trap springs into devastating action, forcing heroes and villains into brutal confrontation that will determine the future of agency in this post-war world.*
+### [Act 5: Aleatory Syzygy](/fiction/violet/act-5-aleatory-syzygy/)
 
 49. [The Asura](/fiction/violet/chapter-49/)
 50. [Ghul](/fiction/violet/chapter-50/)
@@ -116,28 +114,113 @@ Characters, Timeline, World Map, and Narrator's Note
 
 **[Glossary of Terms →](/fiction/violet/glossary/)**
 
----
+</section>
 
-## Publishing Schedule
-
-New chapters published weekly, starting December 1, 2025.
-
----
-
-## About the World
-
-**Violet** is set in an alternate post-apocalyptic Earth featuring:
-
-- **Arcologies**: Isolated technological havens producing the life-extending substance agar
-- **The Wilds**: Hostile territories filled with war-relic bioweapons
-- **Corporate Sovereignty**: Violet Corporation's vision of nation-states built around science rather than tribe
-- **Enhanced Humans**: "Lucky Children" engineered by the Society of Opportunists, "asura" super-soldiers from the Long War
-- **Cultural Multilayering**: Korean, Chinese, Sanskrit, European, and African traditions organically woven
-
-The story tackles timely questions about agency in an age of increasing technological control: Can we remain authentic when our capabilities are enhanced? Should governance evolve beyond tribal identities? How do we balance individual freedom with collective survival?
-
-Comparable works: *The Fifth Season* (N.K. Jemisin), *The Three-Body Problem* (Liu Cixin), *Jade City* (Fonda Lee)
-
----
-
+<footer class="novel-footer" markdown="1">
 *by Kyle Munkittrick*
+</footer>
+
+</article>
+
+<style>
+    .novel-index {
+        max-width: 700px;
+        margin: 0 auto;
+        font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    }
+
+    .novel-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid #eee;
+    }
+
+    .novel-title {
+        font-size: 3rem;
+        font-weight: 300;
+        margin-bottom: 1rem;
+        line-height: 1.2;
+    }
+
+    .novel-tagline {
+        font-size: 1.2rem;
+        color: #666;
+        font-style: italic;
+    }
+
+    .novel-intro {
+        font-size: 1.1rem;
+        line-height: 1.7;
+        margin-bottom: 3rem;
+    }
+
+    .story-section,
+    .reading-section {
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .story-section h2,
+    .reading-section h2 {
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin-bottom: 1.5rem;
+    }
+
+    .story-section p {
+        font-size: 1.05rem;
+        line-height: 1.7;
+        margin-bottom: 1.2rem;
+    }
+
+    .reading-section h3 {
+        font-size: 1.3rem;
+        font-weight: 400;
+        margin: 2rem 0 1rem 0;
+    }
+
+    .reading-section h3 a {
+        border-bottom: 1px solid currentColor;
+    }
+
+    .reading-section ol {
+        list-style-position: outside;
+        margin-left: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .reading-section li {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+    }
+
+    .novel-footer {
+        text-align: center;
+        color: #999;
+        font-style: italic;
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid #eee;
+    }
+
+    @media (max-width: 600px) {
+        .novel-title {
+            font-size: 2.2rem;
+        }
+
+        .novel-tagline {
+            font-size: 1rem;
+        }
+
+        .reading-section h2,
+        .story-section h2 {
+            font-size: 1.5rem;
+        }
+
+        .reading-section ol {
+            margin-left: 1.5rem;
+        }
+    }
+</style>

@@ -1,12 +1,22 @@
 ---
-layout: post
+layout: minimal
 title: "Glossary of Terms"
 permalink: /fiction/violet/glossary/
 collection: fiction
 series: violet
 order: 999
-published: false
+published: true
 ---
+
+<article class="glossary">
+    <header class="glossary-header">
+        <div class="novel-title-container">
+            <a href="/fiction/violet/" class="novel-title">Violet</a>
+        </div>
+        <h1 class="glossary-title">Glossary of Terms</h1>
+    </header>
+
+<div class="glossary-content" markdown="1">
 
 ## Agar
 
@@ -99,3 +109,98 @@ An expression of a specific infection designed to cause horror in enemies. After
 ## Zuqqum
 
 [To be expanded]
+
+</div>
+
+</article>
+
+<style>
+    .glossary {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 0;
+        font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    }
+
+    .glossary-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid #eee;
+    }
+
+    .novel-title-container {
+        margin-bottom: 1.5rem;
+    }
+
+    .novel-title {
+        font-size: 1.1rem;
+        display: inline-block;
+    }
+
+    .glossary-title {
+        font-size: 2.2rem;
+        font-weight: 400;
+        margin: 0;
+        line-height: 1.2;
+    }
+
+    .glossary-content {
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    .glossary-content h2 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin: 2.5rem 0 1rem 0;
+        padding-top: 1.5rem;
+        border-top: 1px solid #f0f0f0;
+        color: #222;
+    }
+
+    .glossary-content h2:first-of-type {
+        border-top: none;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .glossary-content p {
+        margin-bottom: 1.5rem;
+        color: #444;
+    }
+
+    /* Placeholder terms */
+    .glossary-content p:has(> em) {
+        color: #999;
+        font-style: italic;
+    }
+
+    /* Lists within definitions */
+    .glossary-content ul {
+        margin: 1rem 0 1.5rem 2rem;
+    }
+
+    .glossary-content li {
+        margin-bottom: 0.75rem;
+        line-height: 1.6;
+    }
+
+    @media (max-width: 600px) {
+        .glossary {
+            padding: 1rem;
+        }
+
+        .glossary-title {
+            font-size: 1.8rem;
+        }
+
+        .glossary-content h2 {
+            font-size: 1.3rem;
+        }
+
+        .glossary-content ul {
+            margin-left: 1.5rem;
+        }
+    }
+</style>
