@@ -304,5 +304,10 @@ Characters, Timeline, World Map, and Narrator's Note
         margin-right: calc(-50vw + 50%);
     }
 
-    /* Mobile styles removed - layout works well at all sizes */
+    /* Mobile: disable fixed background to prevent pixelation */
+    @media (max-width: 768px) {
+        .novel-index {
+            background-attachment: scroll;
+        }
+    }
 </style>
