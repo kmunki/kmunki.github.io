@@ -7,11 +7,12 @@ published: true
 ---
 
 <article class="novel-index">
-    <header class="novel-header">
-        <div class="wordmark-container">
+    <div class="hero-cover">
+        <img src="/assets/images/violet/violet_cover_background.png" alt="Violet - A novel by Kyle Munkittrick" class="cover-image">
+        <div class="hero-wordmark">
             <img src="/assets/images/violet/violet_wordmark.svg" alt="Violet" class="novel-wordmark">
         </div>
-    </header>
+    </div>
 
 <div class="novel-intro" markdown="1">
 
@@ -42,20 +43,27 @@ Characters, Timeline, World Map, and Narrator's Note
 
 **[Prologue →](/fiction/violet/prologue/)**
 
-### [Act 1: Ātmanic Exaptations](/fiction/violet/act-1-ātmanic-exaptations/)
+<details class="act-details" open>
+<summary class="act-summary">
+<span class="act-title"><a href="/fiction/violet/act-1-ātmanic-exaptations/">Act 1: Ātmanic Exaptations</a></span>
+</summary>
+<ol>
+<li><a href="/fiction/violet/chapter-01/">The Ward, the Princess, and the Sifu</a></li>
+<li><a href="/fiction/violet/chapter-02/">Jack Brand, International Man of Mystery</a></li>
+<li><a href="/fiction/violet/chapter-03/">The Ogre; The Viceroy</a></li>
+<li><a href="/fiction/violet/chapter-04/">Hiding in Plain Sight</a></li>
+<li><a href="/fiction/violet/chapter-05/">Arcology</a></li>
+<li><a href="/fiction/violet/chapter-06/">Tree Top Espionage</a></li>
+<li><a href="/fiction/violet/chapter-07/">The Organs of the Olgoi</a></li>
+<li><a href="/fiction/violet/chapter-08/">Brave New World</a></li>
+<li><a href="/fiction/violet/chapter-09/">The Eye of the Swarm</a></li>
+</ol>
+</details>
 
-1. [The Ward, the Princess, and the Sifu](/fiction/violet/chapter-01/)
-2. [Jack Brand, International Man of Mystery](/fiction/violet/chapter-02/)
-3. [The Ogre; The Viceroy](/fiction/violet/chapter-03/)
-4. [Hiding in Plain Sight](/fiction/violet/chapter-04/)
-5. [Arcology](/fiction/violet/chapter-05/)
-6. [Tree Top Espionage](/fiction/violet/chapter-06/)
-7. [The Organs of the Olgoi](/fiction/violet/chapter-07/)
-8. [Brave New World](/fiction/violet/chapter-08/)
-9. [The Eye of the Swarm](/fiction/violet/chapter-09/)
-
-### [Act 2: Stochastic Kaihō](/fiction/violet/act-2-stochastic-kaihō/)
-
+<details class="act-details">
+<summary class="act-summary">
+<span class="act-title"><a href="/fiction/violet/act-2-stochastic-kaihō/">Act 2: Stochastic Kaihō</a></span>
+</summary>
 <ol start="10">
 <li><a href="/fiction/violet/chapter-10/">Fallout at the European Security Agency</a></li>
 <li><a href="/fiction/violet/chapter-11/">War Weaving</a></li>
@@ -71,9 +79,12 @@ Characters, Timeline, World Map, and Narrator's Note
 <li><a href="/fiction/violet/chapter-21/">Join Us</a></li>
 <li><a href="/fiction/violet/chapter-22/">Graduation and Matriculation</a></li>
 </ol>
+</details>
 
-### [Act 3: Ecotone Arcana](/fiction/violet/act-3-ecotone-arcana/)
-
+<details class="act-details">
+<summary class="act-summary">
+<span class="act-title"><a href="/fiction/violet/act-3-ecotone-arcana/">Act 3: Ecotone Arcana</a></span>
+</summary>
 <ol start="23">
 <li><a href="/fiction/violet/chapter-23/">To the Floating City</a></li>
 <li><a href="/fiction/violet/chapter-24/">Bank, Hotel, Tickets</a></li>
@@ -90,9 +101,12 @@ Characters, Timeline, World Map, and Narrator's Note
 <li><a href="/fiction/violet/chapter-35/">Mercenaries' Mecca</a></li>
 <li><a href="/fiction/violet/chapter-36/">The Coin</a></li>
 </ol>
+</details>
 
-### [Act 4: Revenants' Maya](/fiction/violet/act-4-revenants-maya/)
-
+<details class="act-details">
+<summary class="act-summary">
+<span class="act-title"><a href="/fiction/violet/act-4-revenants-maya/">Act 4: Revenants' Maya</a></span>
+</summary>
 <ol start="37">
 <li><a href="/fiction/violet/chapter-37/">The Magicians</a></li>
 <li><a href="/fiction/violet/chapter-38/">The Quartermaster; The Coffin</a></li>
@@ -107,9 +121,12 @@ Characters, Timeline, World Map, and Narrator's Note
 <li><a href="/fiction/violet/chapter-47/">The Thing on the Doorstep</a></li>
 <li><a href="/fiction/violet/chapter-48/">Naraka</a></li>
 </ol>
+</details>
 
-### [Act 5: Aleatory Syzygy](/fiction/violet/act-5-aleatory-syzygy/)
-
+<details class="act-details">
+<summary class="act-summary">
+<span class="act-title"><a href="/fiction/violet/act-5-aleatory-syzygy/">Act 5: Aleatory Syzygy</a></span>
+</summary>
 <ol start="49">
 <li><a href="/fiction/violet/chapter-49/">The Asura</a></li>
 <li><a href="/fiction/violet/chapter-50/">Ghul</a></li>
@@ -124,6 +141,7 @@ Characters, Timeline, World Map, and Narrator's Note
 <li><a href="/fiction/violet/chapter-59/">Grave Robbers</a></li>
 <li><a href="/fiction/violet/chapter-60/">Enthronement</a></li>
 </ol>
+</details>
 
 **[Glossary of Terms →](/fiction/violet/glossary/)**
 
@@ -136,18 +154,15 @@ Characters, Timeline, World Map, and Narrator's Note
 </article>
 
 <style>
-    /* Override minimal layout constraints for full-bleed parallax */
+    /* Override minimal layout constraints */
     body {
         max-width: none !important;
         padding: 0 !important;
         margin: 0 !important;
-        background-color: transparent !important;
-        background: transparent !important;
     }
 
     main {
         margin: 0 !important;
-        background: transparent !important;
     }
 
     html, body {
@@ -157,127 +172,166 @@ Characters, Timeline, World Map, and Narrator's Note
     .novel-index {
         margin: 0;
         padding: 0;
-        font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-        background-image: url('/assets/images/violet/violet_cover_background.png');
-        background-size: cover;
-        background-position: center center;
-        background-attachment: fixed;
+        font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Roboto Mono', 'Courier New', monospace;
+        background: #0a0514;
+        color: #e8d5f0;
     }
 
-    .novel-header {
-        text-align: center;
-        margin-bottom: 3rem;
-        padding: 12rem 2rem;
+    /* Hero cover section */
+    .hero-cover {
         position: relative;
-        border-bottom: none;
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
+        width: 100%;
+        height: 70vh;
+        min-height: 500px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
-    .wordmark-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 0 auto;
+    .cover-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+    }
+
+    .hero-wordmark {
         position: relative;
         z-index: 2;
+        padding: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .novel-wordmark {
-        max-width: 400px;
-        width: 100%;
+        max-width: 500px;
+        width: 90%;
         height: auto;
-        filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.15));
+        filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.3));
+    }
+
+    /* Content container */
+    .novel-intro,
+    .story-section,
+    .reading-section,
+    .begin-reading-cta {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 2rem;
     }
 
     .novel-intro {
         font-size: 1.1rem;
-        line-height: 1.7;
+        line-height: 1.8;
+        margin-top: 3rem;
         margin-bottom: 3rem;
-        background: rgba(255, 255, 255, 0.7);
-        padding: 2rem;
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
-        padding-left: calc(50vw - 350px);
-        padding-right: calc(50vw - 350px);
+        text-align: center;
+        font-weight: 400;
+        color: #d5b8e0;
     }
 
     .story-section {
         margin-bottom: 3rem;
-        padding: 2rem;
-        background: rgba(255, 255, 255, 0.7);
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
-        padding-left: calc(50vw - 350px);
-        padding-right: calc(50vw - 350px);
     }
 
     .reading-section {
         margin-bottom: 3rem;
-        padding: 2rem;
-        background: rgba(255, 255, 255, 0.7);
-        border-bottom: 1px solid rgba(240, 240, 240, 0.5);
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
-        padding-left: calc(50vw - 350px);
-        padding-right: calc(50vw - 350px);
+        padding-top: 3rem;
+        border-top: 1px solid #2d1a3d;
     }
 
     .begin-reading-cta {
         text-align: center;
-        margin: 3rem 0;
-        padding: 2rem 0;
-        background: rgba(255, 255, 255, 0.7);
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
+        margin: 3rem auto;
     }
 
     .begin-reading-button {
         display: inline-block;
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         font-weight: 500;
         padding: 1rem 2.5rem;
-        border: 2px solid #333;
+        border: 2px solid #b47cc7;
         border-radius: 4px;
         transition: all 0.3s ease;
         text-decoration: none;
-        color: #333;
+        color: #d5b8e0;
         background: transparent;
+        position: relative;
+        animation: subtle-pulse 3s ease-in-out infinite;
+    }
+
+    @keyframes subtle-pulse {
+        0%, 100% {
+            box-shadow: 0 0 0 0 rgba(180, 124, 199, 0);
+        }
+        50% {
+            box-shadow: 0 0 0 4px rgba(180, 124, 199, 0.2);
+        }
     }
 
     .begin-reading-button:hover {
-        background: #333;
-        color: #fff;
+        background: #b47cc7;
+        color: #0a0514;
         transform: translateY(-2px);
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 4px 12px rgba(180, 124, 199, 0.3);
+        animation: none;
     }
 
     .story-section h2,
     .reading-section h2 {
-        font-size: 1.8rem;
-        font-weight: 400;
+        font-size: 1.5rem;
+        font-weight: 600;
         margin-bottom: 1.5rem;
+        color: #b47cc7;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
     }
 
     .story-section p {
-        font-size: 1.05rem;
-        line-height: 1.7;
+        font-size: 0.95rem;
+        line-height: 1.8;
         margin-bottom: 1.2rem;
     }
 
     .reading-section h3 {
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         font-weight: 400;
         margin: 2rem 0 1rem 0;
     }
 
     .reading-section h3 a {
-        border-bottom: 1px solid currentColor;
+        border-bottom: 1px solid #b47cc7;
+        color: #d5b8e0;
+        text-decoration: none;
+    }
+
+    .reading-section h3 a:hover {
+        color: #b47cc7;
+    }
+
+    .reading-section > p {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+    }
+
+    .reading-section > p:last-of-type {
+        margin-bottom: 1.5rem;
+    }
+
+    .reading-section > p strong a {
+        color: #d5b8e0;
+        text-decoration: none;
+        border-bottom: 1px solid #b47cc7;
+    }
+
+    .reading-section > p strong a:hover {
+        color: #b47cc7;
     }
 
     .reading-section ol {
@@ -291,24 +345,128 @@ Characters, Timeline, World Map, and Narrator's Note
         line-height: 1.6;
     }
 
-    .novel-footer {
-        text-align: center;
-        color: #999;
-        font-style: italic;
-        margin-top: 3rem;
-        padding: 2rem;
-        background: rgba(255, 255, 255, 0.7);
-        border-top: 1px solid rgba(238, 238, 238, 0.5);
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        margin-right: calc(-50vw + 50%);
+    .reading-section li a {
+        color: #c49fd1;
+        text-decoration: none;
+        border-bottom: 1px dotted #6b4d7a;
     }
 
-    /* Mobile: use optimized image and disable parallax */
+    .reading-section li a:hover {
+        color: #b47cc7;
+        border-bottom-style: solid;
+    }
+
+    .novel-footer {
+        text-align: center;
+        color: #6b4d7a;
+        font-style: italic;
+        margin-top: 3rem;
+        padding: 3rem 2rem;
+        border-top: 1px solid #2d1a3d;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Collapsible acts styling */
+    .act-details {
+        margin-bottom: 0.75rem;
+        border: none;
+        border-radius: 4px;
+        background: transparent;
+        transition: all 0.3s ease;
+    }
+
+    .act-details:hover {
+        background: #1a0f24;
+    }
+
+    .act-summary {
+        cursor: pointer;
+        padding: 0.5rem 0.5rem;
+        list-style: none;
+        user-select: none;
+        transition: all 0.2s ease;
+    }
+
+    .act-summary::-webkit-details-marker {
+        display: none;
+    }
+
+    .act-summary::marker {
+        display: none;
+    }
+
+    .act-title {
+        display: inline;
+        margin: 0;
+        font-size: 1rem;
+        font-weight: 400;
+    }
+
+    .act-title a {
+        text-decoration: none;
+        color: #c49fd1;
+        border-bottom: none;
+    }
+
+    .act-title a:hover {
+        color: #b47cc7;
+    }
+
+    .act-summary::before {
+        content: "▸ ";
+        display: inline-block;
+        margin-right: 0.5rem;
+        transition: transform 0.2s ease;
+        color: #8566a0;
+    }
+
+    .act-details[open] > .act-summary::before {
+        transform: rotate(90deg);
+    }
+
+    .act-details[open] {
+        background: #140c1d;
+    }
+
+    .act-details ol {
+        padding: 0 1rem 1rem 3rem;
+        margin: 0.5rem 0 0 0;
+    }
+
+    .act-details li {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+    }
+
+    /* Mobile styles */
     @media (max-width: 768px) {
-        .novel-index {
-            background-image: url('/assets/images/violet/violet_cover_background_m.png');
-            background-attachment: scroll;
+        .hero-cover {
+            height: 100vh;
+            min-height: 100vh;
+        }
+
+        .cover-image {
+            object-position: center center;
+        }
+
+        .novel-wordmark {
+            max-width: 400px;
+        }
+
+        .novel-intro,
+        .story-section,
+        .reading-section,
+        .begin-reading-cta,
+        .novel-footer {
+            padding: 1.5rem;
+        }
+
+        .novel-intro {
+            font-size: 1.1rem;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
         }
     }
 </style>
