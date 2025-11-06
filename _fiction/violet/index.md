@@ -304,9 +304,10 @@ Characters, Timeline, World Map, and Narrator's Note
         margin-right: calc(-50vw + 50%);
     }
 
-    /* Mobile: disable fixed background to prevent pixelation */
+    /* Mobile: use optimized image and disable parallax */
     @media (max-width: 768px) {
         .novel-index {
+            background-image: url('/assets/images/violet/violet_cover_background_m.png');
             background-attachment: scroll;
         }
     }
