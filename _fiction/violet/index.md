@@ -169,11 +169,6 @@ Characters, Timeline, World Map, and Narrator's Note
         margin-bottom: 3rem;
         padding: 12rem 2rem;
         position: relative;
-        overflow: hidden;
-        background-image: url('/assets/images/violet/violet_cover_background.png');
-        background-size: cover;
-        background-position: center center;
-        background-attachment: fixed;
         border-bottom: none;
         width: 100vw;
         margin-left: calc(-50vw + 50%);
@@ -309,42 +304,5 @@ Characters, Timeline, World Map, and Narrator's Note
         margin-right: calc(-50vw + 50%);
     }
 
-    @media (max-width: 600px) {
-        .novel-header {
-            padding: 9rem 1rem;
-            background-attachment: scroll;
-        }
-
-        .novel-wordmark {
-            max-width: 280px;
-        }
-
-        .novel-intro,
-        .story-section,
-        .reading-section {
-            padding: 1.5rem;
-        }
-
-        .begin-reading-cta {
-            padding: 1.5rem 0;
-        }
-
-        .novel-footer {
-            padding: 1.5rem;
-        }
-
-        .reading-section h2,
-        .story-section h2 {
-            font-size: 1.5rem;
-        }
-
-        .reading-section ol {
-            margin-left: 1.5rem;
-        }
-
-        .begin-reading-button {
-            font-size: 1.1rem;
-            padding: 0.9rem 2rem;
-        }
-    }
+    /* Mobile styles removed - layout works well at all sizes */
 </style>
