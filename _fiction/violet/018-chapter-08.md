@@ -7,15 +7,21 @@ permalink: /fiction/violet/chapter-08/
 act: 1
 date: November 02, 2025
 ---
-Miriam, luxuriating in the lingering calm and shimmer of the party after her encounter with Brand, was hit with a sudden inspiration. Cells, organelles, and proteins grew and collapsed, folded and unfolded in her mind. The timing and interactions—each somehow resilient enough to keep life going for billions of years and fragile enough that a half-percent perturbation of pH could shut it all down. During the gala watching all those people, those trillions of protein-chains and chemical pathways, she was struck by how all just *worked. *Everyone was *alive.* Not only did it work, but in a chaotic environment, while the gala goers deliberately manipulated the most complex and misunderstood part of themselves, their neural wiring, their *minds* with party drugs and hormones. That’s when it hit her: nature is chaos tolerant; webbed with recoverable pathways. Deep grooves that are hard to leave and easy to find. Almost thwarted by a missing badge, she had set down her drink, come into the quiet lab, thrown on her coat and gotten to work.
+Miriam luxuriated in the lingering calm after her encounter with Brand. Then inspiration struck. Cells, organelles, proteins—growing and collapsing, folding and unfolding in her mind. The timing and interactions, resilient enough to sustain life for billions of years yet fragile enough that a half-percent pH shift could shut it all down.
+
+During the gala, watching those people—trillions of protein-chains and chemical pathways—she'd been struck by how it all just *worked.* Everyone *alive* despite the chaos. More than that: minds manipulated by party drugs and hormones, the most complex and misunderstood systems, and still functioning.
+
+That's when it hit her: nature is chaos-tolerant, webbed with recoverable pathways. Deep grooves hard to leave and easy to find.
+
+Almost thwarted by a missing badge, she set down her drink and came into the quiet lab. She threw on her coat and got to work.
 
 Time blurred. Other scientists and lab technicians trickled in, she hardly noticed. 
 
 She was on the verge of a breakthrough. Then, just as components of the new prototype were starting to grow nicely, the lab lights flickered, flared, and went dark. 
 
-She winced, sucking in air through her teeth as if she had pricked her finger mid-surgery. Hushed, startled murmurs from the hallway, the sounds of panic from late-night scientists replaced the hum of equipment and fully broke the spell of her focus. Something was very wrong. There was no glow from the screens. She froze her hands on the controls. The prototype had about seventy-five, maybe ninety seconds without power before it settled and was ruined. Months of work and billions of dollars waited for the back up power to switch on. And lives, thought Miriam, all those lives waiting.
+She winced, sucking in air through her teeth as if she had pricked her finger mid-surgery. Hushed, startled murmurs from the hallway, startled voices and hurried footsteps from late-night scientists replaced the equipment hum and fully broke the spell of her focus. Something was very wrong. There was no glow from the screens. She froze her hands on the controls. The prototype had about seventy-five, maybe ninety seconds without power before it settled and was ruined. Months of work and billions of dollars waited for the back up power to switch on. And lives—all those lives waiting.
 
-*Don’t move. The APS will be up in a moment. Be ready*, she told herself. The lab was quiet. Breath held, uneven footing of an oddly frozen position, a hand scrabbling for stability. A quiet where you hear your own bones creek trying just to stay still. Her heart pounded in her ears.
+*Don't move. The APS will be up in a moment. Be ready.* The lab was quiet. Breath held, footing uneven in her frozen position, one hand scrabbling for stability—the kind of quiet where you hear your bones creak just trying to stay still. Her heart pounded in her ears.
 
 Beeps and electric chirps preceded the emergency lights in the corners blinking on and filling the room with a half-glow. Then the specimen lights on her bioprocessor unit flickered on, Miriam's code blinked onto her screen. Her failsafes were well tested, but worst case scenarios had a way of being unpredictable. Things looked to be resuming as expected, she let a sigh of relief escape. *Let’s see how this resilience worked.* She strained into the still dark eyepieces.
 
@@ -23,7 +29,7 @@ The eyepieces rebooted, flickered, and, gods, there it was. A growth had venture
 
 She leaned back from the eyepieces and exhaled, flipping toggles to freeze the build and letting her hands drop to her sides.
 
-The two huge steel doors of the lab burst open with a crash and a hiss of air. Li Xing rolled tinto the room, her eyes finding Miriam's. Of course Li Xing had guessed she would be here.
+The two huge steel doors of the lab burst open with a crash and a hiss of air. Li Xing rolled into the room, her eyes finding Miriam's. Of course Li Xing had guessed she would be here.
 
 "Is it ok? Are you ok?" There was no fear in the urgent voice.
 
@@ -33,7 +39,7 @@ Li Xing's eyes blazed, “show me.” She had seen past Miriam’s surface anger
 
 As she explained the party-inspired improvements, Miriam felt herself transported to when they were shoulder-to-shoulder, creating the first product to put Violet on the map. Seeing Li Xing catch her excitement was intoxicating. How she had missed this these last few years. Frustrating as it was to admit, Li Xing had been right. Miriam had needed to look away from the problem for just a moment. The distraction of the gala, all that mingling and schmoozing, had let her mind relax long enough to see what all her late nights and mental straining had kept hidden. How fecund that a lack* *of focus can be.
 
-Once more, the lab doors opened. A small, strong woman in black para-military garb with a white prosthetic arm and ink-black eyes strode into the middle of the lab—Hideyo, Violet’s Chief of Security. Seeing Li Xing and Miriam at one of the stations, she paused and relaxed an angstrom. Seconds later two guards followed behind her, each holding the arm of a restrained man in a dirtied, torn tuxedo. He was smiling as the guards half-shoved, half-dragged him into the center of the room.
+Once more, the lab doors opened. A small, strong woman in black para-military garb with a white prosthetic arm and ink-black eyes strode to the lab's center—Hideyo, Violet's Chief of Security. Seeing Li Xing and Miriam at one of the stations, she paused and relaxed an angstrom. Seconds later two guards followed behind her, each holding the arm of a restrained man in a rumpled, torn tuxedo. He was smiling as the guards half-shoved, half-dragged him into the center of the room.
 
 "Not bad. Quite a laboratory," he said letting his Scottish accent, so often sublimated under British, shine through. “It's amazing what they've got in these all-inclusive island resorts now." The man from the party! Brand! He made eye contact with Miriam and, a bit breathless added, "just everything!" He winked at her and gave a conspiratorial smile.
 
@@ -51,7 +57,7 @@ The man gave a *you caught me* shrug in response.
 
 She rolled her chair toward the man. The guards tightened their grip as she examined him up close. 
 
-"You are a spy." she said. Brand nodded with pride as if it had been a question. Gods, thought Miriam! The European hadn’t been lying. He *was* a shade. Her badge, the little hug—of course.
+"You are a spy." she said. Brand nodded with pride as if it had been a question. Gods! The European hadn't been lying. He *was* a shade. Her badge, the little hug—of course.
 
 Li Xing rolled back and said, “Get the transponder, Hideyo.” 
 
@@ -63,9 +69,9 @@ Li Xing rolled closer to Brand, the front wheels of her chair bumping his shin.�
 
 “His gun?”
 
-One of the guards placed his Walther PPK into her hand. She granted it momentary study, then flipped the safety and shot him in the thigh. He screamed and wilted, knees buckling to the floor, the guards keeping him upright. Miriam felt a gasp of terror escape her lungs. 
+One of the guards placed his Walther PPK into her hand. She granted it momentary study, then flipped the safety and shot him in the thigh. He screamed and wilted, knees buckling to the floor, the guards keeping him upright. Miriam gasped, terror escaping her lungs. 
 
-Outside the lab doors, other scientists and staff drawn by the commotion could be seen gathering and peering through the windows, afraid to watch yet unable to look away. At Hideyo’s gesture, Miriam walked over and opened the door and made an inviting gesture. Sheepishly, they came into lab, gathering near the walls or stations, away from the center. Some scientists were grim, braced, but calm. It was easy to spot who had seen remnants of the war, or had its long and dark specter cast over some part of their life. Others were awash with fear. For them the Shadow of the Long War had for them been a mere metaphor, ominous background noise you could almost block out, in an instant becoming real and immediate.
+Outside the lab doors, other scientists and staff gathered at the windows, drawn by the commotion, peering through—afraid to watch yet unable to look away. At Hideyo’s gesture, Miriam walked over and opened the door and made an inviting gesture. Sheepishly, they came into lab, gathering near the walls or stations, away from the center. Some scientists were grim, braced, but calm. It was easy to spot who had seen remnants of the war, or had its long and dark specter cast over some part of their life. Others were awash with fear. For them the Shadow of the Long War had for them been a mere metaphor, ominous background noise you could almost block out, in an instant becoming real and immediate.
 
 "Let him go," Li Xing ordered. 
 
@@ -75,7 +81,7 @@ The guards released his arms and he collapsed with a moan, clutching his leg and
 
 Li Xing took two deep, slowing breaths. She set the gun in her lap and pulled the tooth out of her pocket, holding it up to Hideyo. "Activation instructions are in the rest of the file. It's a 3rd or 4th generation, brand new."
 
-"How..." He was pale. Brand's pant leg had soaked through, sitting in an expanding pool of his own blood. Every eye in the lab was on them. Miriam felt herself shaking. Someone wretched. More than a few engineers and scientists, shock wearing off, were fighting tears. Hideyo and both guards had guns drawn and aimed at Brand.
+"How..." He was pale. Brand's pant leg had soaked through, sitting in an expanding pool of his own blood. Every eye in the lab was on them. Miriam shook. Someone wretched. More than a few engineers and scientists, shock wearing off, were fighting tears. Hideyo and both guards had guns drawn and aimed at Brand.
 
 "You're in violation of multiple treaties, Mr. Brand, regardless of what your agency suspects. Which is what, exactly?" Li Xing let a wry tone creep into her voice.
 
@@ -95,7 +101,7 @@ He shouted a stammering, "Yes" broken by sobs. He was curled in on himself, shak
 
 Hideyo nodded, said "President Wen” in acknowledgement and left. The guards hefted the corpse of Jack Brand by his ankles and shoulders, leaving a widening pool of smeared blood on the lab’s entryway floor.
 
-Li Xing turned to Miriam and her team. Various degrees of horror registered on every face, even Miriam's. Damnit, thought Li Xing.  Expenditure of authority, of power and force, always had a cost.
+Li Xing turned to Miriam and her team. Various degrees of horror registered on every face, even Miriam's. Damnit.  Expenditure of authority, of power and force, always had a cost.
 
 "I'm sorry you had to witness that," she let her eyes move across the faces the scientists and engineers, her voice soft, vulnerable. "That man," she gestured with a partial head turn, holding her face just to the side, "That man and the people he represents wanted to hurt you." Her voice quavered, unsteady, "To hurt you, my people. You, my team. He wanted to put your lives in danger because he did not understand what you were building. He represents those who seek to guard their pocketbooks and pensions under the guise of public safety and the common good." She spat the words. She lifted her chin and looking at each of them as she spoke, her tone elevated and clear. "You know what we are building here is a better world. You knew we would be misunderstood. I am sorry that I let him get this far. My job, my *only* job here is to get problems out of your way, so you can create tomorrow."
 
