@@ -16,7 +16,7 @@ published: true
 
 <div class="novel-intro" markdown="1">
 
-Hye's supernatural luck has kept her alive in the palace intrigues of post-apocalyptic Korea—but when the biotech nation Violet attacks, she discovers her fortune itself has been engineered.
+Hye's supernatural luck was never hers—it was installed by Violet, a biotech empire that treats people like products. Now Violet has invaded, abducted her sister, and seized control of her nation. The only escape is into the monster-haunted Wilds, where she'll learn exactly what she was designed to survive.
 
 </div>
 
