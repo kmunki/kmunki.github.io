@@ -16,7 +16,7 @@ published: true
 
 <div class="novel-intro" markdown="1">
 
-Hye's supernatural luck was never hers—it was installed by Violet, a biotech empire that treats people like products. Now Violet has invaded, abducted her sister, and seized control of her nation. The only escape is into the monster-haunted Wilds, where she'll learn exactly what she was designed to survive.
+Hye's supernatural luck was never hers—it was crafted a century before her birth by Violet, a biotech empire that treats people like products. Now Violet has invaded her palace home, abducted her royal sister, and secretly seized control of her nation. The only escape is into the monster-haunted Wilds, where she'll learn exactly what she was designed to survive.
 
 </div>
 
