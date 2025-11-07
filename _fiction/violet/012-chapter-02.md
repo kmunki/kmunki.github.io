@@ -11,7 +11,7 @@ Luck had long been on the European’s side. You know the type. Bullets with Jac
 
 He was headed east on the egg-white ship *Hanuman*, a fast and huge catamaran, across the Great Ocean. With less than a week before Uplift, that absurd corporate celebration epitomizing Nubian fetishism of ‘innovation’ and the garish new wealth of the Rift Valley types, the Keralan Central Intelligence had gotten a lead. A thin one, but enough to send him along. He was to investigate Violet, a massive corporation, and the woman who ran the thing, Xuefang ‘Li Xing’ Xiao. She was an unassailable genius, but her relentless assault on geopolitical norms was exhausting, like fencing with tank.
 
-He sat poised, dice in hand, in the ship’s elegant casino. Dice was an old game, or had started as such, mutating so chances and probabilities were tuned. The game was Chaupur. Only the name remained, with the pieces, rules, and players all unrecognizable from the Game of Dice that took Arjuna’s brother and his whole family into ruin, exile, and epic war. Fooled by rolling literal bones, friendly spirits bumping chaos aside just enough to make a mirage of hope. No bloody skeletons for Brand to whittle into winning tosses. It’s hard to people a mausoleum to pilfer with no family to fill it. Orphaned to the state, Brand’s purpose, his very self, was to serve to the crown, whether the head was British as before, or Brahman, as now. He served Her Majesty and that was why he was who he was. The game changed, but he didn’t and neither did the singular nature of gods of chance: Uncaring, unknowing, omnipotent.
+He sat poised, dice in hand, in the ship’s elegant casino. Dice was an old game, or had started as such, mutating so chances and probabilities were tuned. The game was Chaupur. Only the name remained, with the pieces, rules, and players all unrecognizable from the Game of Dice that took Arjuna’s brother and his whole family into ruin, exile, and epic war. Fooled by rolling literal bones, friendly spirits bumping chaos aside just enough to make a mirage of hope. No bloody skeletons for Brand to whittle into winning tosses. It's hard to people a mausoleum to pilfer with no family to fill it. Brand's purpose—whether under a British monarch or Brahman Maharani—was service to the crown. That was who he was. The game changed, but he didn't and neither did the singular nature of gods of chance: Uncaring, unknowing, omnipotent.
 
 “Enough! Roll!” the old Shah, his eyes bugged and white beard jittered with his tense frustration. Brand had caught the plump Persian on a hot streak, bound to cool. Or so Brand thought. They traded wins, the stakes and the stress of riskier and riskier rolls driving fellow gamblers to appreciate their smaller losses. Now it was just the two of them. Under the low light of the ship parlor the jewels of the Shah’s cap danced and flickered like candlelight. He leaned forward. “Your stalling can’t save you, Mr. Brand. I look forward to wearing your watch and spending your purse in celebration at the gala.”
 
@@ -23,9 +23,9 @@ He raised an eyebrow and stilled his dice hand.
 
 “What now?” the Shah was exasperated, nervously smoothing his moustaches and beard into place. Victory was so near.
 
-“These dice feel cold,” said Brand, “Croupier, anyone can roll for any player, true?”
+"These dice feel cold," Brand studied the heiress—the Shah's grip on her arm betraying ownership, not romance. "Croupier, a third party may roll?"
 
-“Yes, Mr. Brand. A player may request a roll from anyone but myself or another player.”
+"Yes, Mr. Brand. Anyone but the croupier or seated players."
 
 “Marvelous,” said Brand. He caught the gaze of the heiress.
 
@@ -67,13 +67,13 @@ Brand turned under the luxurious silk sheets of the heiress’ bed as she dozed 
 
 Brand pretended to roll over onto his stomach and grip the pillow, listening with every fibre for the sound of a hammer being pulled back. Another near silent click—*there*. Brand whipped around, hurling the pillow at his assailant as he sprung out of the bed onto the floor, rolling and driving a kick into where he thought a leg might be. Right on both counts. The pillow took a round through center mass with a *poof *sound before colliding with the gun itself. In the same instant, Brand’s heel connected with the attacker’s shin, a meaty crack buckling the knee. Brand, naked, was quite literally exposed save for the near pitch-black room. With dark and surprise to his advantage, he rolled again, past and behind the attacker, and there putting him in a chokehold. Both had heard the gun clatter to the floor and, even silenced, the gunshot plus the commotion was enough to wake the heiress.
 
-“Brand! What’s happening?” Her voice real fear.
+"Brand! What's happening?" Her voice real fear.
 
-“Assassin!” Hissed Brand.
+"Assassin!" Hissed Brand.
 
-The heiress switched on the light in time to see the assassin straining against Brand’s grip, fingers stretched towards the gun on the floor. She jumped up and kicked it across the floor. Brand redoubled his headlock and moments later, the assassin passed out. Brand dragged the attacker onto perhaps the greatest extravagance of her luxurious state room, the balcony, where the whipping sound of the wind modulated by feathered edges on the leading barrier. A probing hand could feel the swirl of air just at the edge, and then an almost hard wall of rushing wind. Incredible, but no time to marvel at it now. No monster, he put a life vest on the attacker and strapped a self-inflating raft to him, then tossed him overboard. Poor bastard was just a pawn in the Old Shah’s jealous attempts to recoup his honor after being done in by his own dice. No reason for any man to die. True, hitting first the air then the water at that speed would not be fun. Unlikely, though, to be fatal and would give the Shah and his remaining toughs second thoughts.
+The heiress switched on the light in time to see the assassin straining against Brand's grip, fingers stretched towards the gun on the floor. She jumped up and kicked it across the floor. Brand redoubled his headlock and moments later, the assassin passed out. Brand dragged the attacker onto perhaps the greatest extravagance of her luxurious state room, the balcony. The foiling catamaran wouldn't slow for a stowaway. At five hundred kilometers per hour, even the life vest wouldn't save him from impact—but Brand had seen worse odds. He fit the vest and strapped a self-inflating raft to the unconscious assassin, then tossed him overboard. The Shah would think twice before sending another.
 
-Brand leaned against the balcony rail for a moment, watching the moon dance off the waves. He felt the heiresses warm hands on his shoulders.
+Brand leaned against the balcony rail, wind roaring past the aerodynamic foil-edges. The heiress's warm hands found his shoulders.
 
 “Are we safe?” She asked, her voice trembling.
 
