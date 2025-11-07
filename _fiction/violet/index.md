@@ -14,15 +14,7 @@ published: true
         </div>
     </div>
 
-<div class="novel-intro" markdown="1">
-
-Hye's supernatural luck was never hers—it was crafted a century before her birth by Violet, a biotech empire that treats people like products. Now Violet has invaded her palace home, abducted her royal sister, and secretly seized control of her nation. The only escape is into the monster-haunted Wilds, where she'll learn exactly what she was designed to survive.
-
-</div>
-
 <section class="story-section" markdown="1">
-
-## The Story
 
 Beyond the palace walls where Hye was raised lie the Wilds: weaponized ecosystems left over from the Long War that reshaped the world. When her ambitious sister Sun is sent on a mission to the edge of these hostile lands, Hye's desire for adventure finally wins out. But their journey goes catastrophically wrong. Hye accidentally reveals an impossible ability that Violet—a ruthless corporation that has become its own nation—will stop at nothing to possess.
 
@@ -35,8 +27,6 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
 </div>
 
 <section class="reading-section" markdown="1">
-
-## Reading
 
 **[Front Matter →](/fiction/violet/front-matter/)**
 Characters, Timeline, World Map, and Narrator's Note
