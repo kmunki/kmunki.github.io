@@ -23,15 +23,12 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
 </section>
 
 <div class="begin-reading-cta">
-    <a href="/fiction/violet/prologue/" class="begin-reading-button">Begin Reading →</a>
+    <a href="/fiction/violet/timeline/" class="begin-reading-button">Begin Reading →</a>
 </div>
 
 <section class="reading-section" markdown="1">
 
-**[Front Matter →](/fiction/violet/front-matter/)**
-Characters, Timeline, World Map, and Narrator's Note
-
-**[Prologue →](/fiction/violet/prologue/)**
+**[Timeline →](/fiction/violet/timeline/)** | **[World Map →](/fiction/violet/world-map/)** | **[Personages →](/fiction/violet/personages/)** | **[Prologue →](/fiction/violet/prologue/)**
 
 <details class="act-details" open>
 <summary class="act-summary">
