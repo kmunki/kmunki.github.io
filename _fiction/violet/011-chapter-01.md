@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: November 02, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Hye had never quite understood her luck. Chosen from her rainy fishing village at four—whether by chance or fate, they were forever arguing which—she was put with the same Royal Rearer as Sun. The princess was only five, royal-born and curious, sitting next to a scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
 
 With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
 
@@ -117,9 +117,7 @@ Sun groaned.
 
 “Then it’s decided,” said Advika, then turning, “Ah, Vizier Daewoo, your timing is impeccable.”
 
-Nearly floating down the mountain path from the palace was Vizier Daewoo Eun, chief advisor to the Viceroy. Her thick-layered robes were embroidered with jewels and charms, heavy with wealth and responsibility. Her clasped hands were tucked into long, overlapping sleeves and her tall, trapezoidal hat jangled with formal ornamentation.
-
-“I do not have time for your games, Sifu Advika,” said the Vizier.
+Vizier Daewoo Eun floated down the mountain path, her layered robes embroidered with jewels and charms, her tall hat jangling with formality. "I do not have time for your games, Sifu Advika," she said, the opulence making her objection sharper—here was authority interrupted.
 
 “Crane-Dragon Duel is hardly a game, your honor! Sifu has bet us a boon!”
 
@@ -197,11 +195,11 @@ Hye, about to shout her readiness, found herself under a barrage of blows that w
 
 “Response!” Hye said bouncing and juking at Advika’s renewed attempts to wrestle her student.
 
-“Hye second response!” Shouted Sun.
+"Hye second response!" Shouted Sun.
 
-“From the elements, the light of the sun, breath of the wind, and heat of the earth, my meals are found. It’s true! Bah!” Hye leaped over a sweep, “But waste is not allowed. My mighty stomachs, dread digesters, turn even deadly tanks of war into the elements I need to survive. Elements I eat and, thus, elements I make! And from the elements: agar, that most miraculous improver of life’s own methods and means!”
+"From the elements I eat—sun, wind, earth—my meals are found. My stomachs transform war-debris into the elements I need. Elements I eat, elements I make: agar flows forth." Hye leaped over a sweep, breathless but triumphant.
 
-Daewoo clapped, “Full marks, for Ward Hyeon,” she shouted, in delight. What fun this was!
+Daewoo clapped, "Full marks, for Ward Hyeon," she shouted, in delight. What fun this was!
 
 “Yes!” Shouted Sun, beaming, “I mean… Fight!”
 
@@ -253,18 +251,4 @@ The Vizier interrupted Advika as she tried to walk past, “Ah, Sifu? The Vicero
 
 “Yes yes,” she picked up her staff and adjusted her robes.
 
-Hye looked at Sun, downcast and ashamed. Her sister stared into nothing, as if watching her future warp and bend out of her control. Hye sat, head in hands. How was she going to fix this? The Selection could begin any week now.
-
-“Wait! Vizier Daewoo,” Hye said, “we are coming.”
-
-“This is business of the crown, war spoils. Your attendance is not required or requested.”
-
-“For our edification?”
-
-“Right,” said Sun, brightening as she caught on, “hasn’t the Viceroy always mentioned Wards don’t *really* understand. How else can Hyeon learn? I will tutor her as we watch the Sifu.”
-
-The Sifu let slip a sly grin.
-
-“It’s not campaigning Sifu,” said Hye, impassive, serious.
-
-“We Wards are not so ignorant, else the Viceroy wouldn’t have me as Vizier. But well enough, then. We are late and I don’t feel like arguing, come come.”
+"It's not campaigning Sifu," said Hye, impassive, serious. Hye looked at Sun—downcast, ashamed. Her sister stared into nothing, as if watching her future warp out of control. A week without campaigning. With Selection possibly starting any day. The Vizier's smile suggested she understood exactly what she'd just cost them.
