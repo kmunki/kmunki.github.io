@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-10/
 act: 2
 date: November 02, 2025
 ---
-Agent Illapa braced herself for her morning sips of coffee. Would this accursed nation ever figure out how to brew it well? Her hope was waining. The Inka were, what was it, twice as far from Ethiopia and yet had mastered the little bean’s cultivation and consumption in half the time? It was little wonder England’s little foray into India backfired badly enough that the whole of the subcontinent was conquered.
+Agent Illapa braced herself and took her morning sip of coffee. Would this accursed nation ever figure out how to brew it well? Her hope was waining. The Inka were, what was it, twice as far from Ethiopia and yet had mastered the little bean’s cultivation and consumption in half the time? It was little wonder England’s little foray into India backfired badly enough that the whole of the subcontinent was conquered.
 
 A small light on her desk began to blink, accompanied by a gentle chime. Well then, it seemed the excitement would start early today. Unwilling to surrender to the tepid bilge in her mug, she carried it through the hall, up the elevator to the top floor, and stood outside the Office of the Director of Intelligence for the European Security Agency. The building was steeped in old world charm, wood paneling, oil paintings of serious individuals in absurd garments, and fine glass work. It would all have been rather lovely were it not coated by a veneer of desperate nostalgia, clinging to every surface like soot. Shame, that. 
 
@@ -15,13 +15,13 @@ She depressed the button outside the Director’s double door. A pause, then a t
 
 “Bad morning, Director?” Illapa asked as she took her seat. There was the slightest *thip* sound as the door closed itself and sealed. What had been an office was now an isolated box in which nothing left unless the occupants decided it should.
 
-Ursine Müller, a great bear of a woman, crushed her cigar into a near-empty water glass where it hissed along side its fallen brethren. She sized up the Inkan, another unwanted guest in her office. Illapa was slender but not slight. Wiry. Ursine knew she had stims and acid for blood, having grown up in Cuzco, and had earned more medals than most juntas can even invent. She ran field ops like a kind of beloved philosopher-despot. Her teams would follow her anywhere and had the passport stamps from Hell to prove it.
+Ursine Müller, a great bear of a woman, crushed her cigar into a near-empty water glass where it hissed along side its fallen brethren. She sized up the Inkan, another unwanted guest in her office. Illapa was lean, wiry muscle beneath field-ready posture. Ursine knew she had stims and acid for blood, having grown up in Cuzco, and had earned more medals than most juntas can even invent. She ran field ops like a kind of beloved philosopher-despot. Her teams would follow her anywhere and had the passport stamps from Hell to prove it.
 
 "Fuck!" she yelled, then incredulous, to Illapa added, “Even English profanity isn't helping.” She put a cigarette to her lips and lit it.
 
 Already in the room, lurking like a swarthy ghost, was Vidya Garuda, Chief of Staff. Thiruvananthapuram-born, Oxbridge educated, barely out of basic in the Royal Navy before assigned to the ESA, Vidya should have been more of a pain than an asset. Greener than the Kingdoms’ flag, but she could draw it from memory and translate it into seven other languages. The bastard child of anthropology, behavioral economics, historians, and military tacticians, she not only usually guessed which revolutions, secessions, and unions would succeed, but what their flags, mottos, and political parties would be. An odd choice for the UKK to send to their little territory. Then again, she, Illapa, was here.
 
-“The report is bad, “ said Ursine, punctuating with her cigarette, “Brand is dead. Executed and then dumped. We dredged up in the middle of the ocean.”
+"Brand is dead," said Ursine, punctuating with her cigarette. "Executed, then dumped. We dredged him up mid-ocean."
 
 “Spying is dangerous,” said Illapa, “getting caught is often fatal.”
 
@@ -41,13 +41,13 @@ Ursine squinted at her, inhaling slowly and then blasting it out her nostrils as
 
 Vidya angled her head, looking up and to the right, as if the thought were in the corner of the ceiling, “I’ve always a clue. But not quite enough, yet. Corporate sovereignty is complex. The rules are new. It's reminding everyone that..." she paused, searching.
 
-Like most true intelligence spooks, Vidya was creepy and charismatic, a near vampire. Illapa swore she floated when no one was watching. She could probably send his shadow out for tea. Her eyes and ears were everywhere and were loyal because he kept them hidden and alive. Also, possibly, under a thrall. 
+Like most true intelligence spooks, Vidya was creepy and charismatic, a near vampire. Illapa swore she floated when no one was watching. She could probably send her shadow out for tea. Her eyes and ears were everywhere and were loyal because she kept them hidden and alive. Also, possibly, under a thrall. 
 
 "Anarchy," said Illapa, finishing the sentence. "Violet's new Sovereignty is reminding everyone that there is no law among nations. Treaties and alliances, sure, but no law. Nation-states exist in anarchy relative to each other. A corporation is just a form of economic organization and management. We're just not used to seeing them overlap with a national system of governance."
 
 "Post-communist China was," Vidya frowned and corrected, "is still run like—”
 
-"Yes, *like*,” Illapa added, anticipating his point, “Zhongguo is *like—*.
+"Yes, *like*," Illapa added, anticipating her point, "Zhongguo is *like—*.
 
 "Like a corporation," Vidya said, soldiering on, "but not *as* one. This is, as you put it, new." 
 
@@ -55,7 +55,7 @@ Like most true intelligence spooks, Vidya was creepy and charismatic, a near vam
 
 She looked at them expectant.
 
-“Brand was one of the best, but he was also a bit out of date. That's my fault," said Garuda, her gaze drifting up as she inhaled through her nose sharply, "his death is on me. He was the wrong agent and it was wrong to send him in alone. But! My information pointed to Brand as the best option. Let us be blunt: the Keralans sent* *in a European for a reason. A diabolical one—Europeans don’t matter. This is old history but it warrants repeating. Brand was our best and in your newly conquered* *position, you were the last player without your hands tied. Failure was all too likely an option and since we’re not all signing up for fatigues and a rehash of basic tells me it was the right call. The man was a blunt instrument, but he needed to be!" Garuda gestured with clenched fists, implying profanity. "It's all circumstantial, but the indicators of a power play are there. Li Xing is doing *something *she shouldn’t.” She sat back, deflated with preaching to the choir, "I'd stake my career on it," he added, half to himself.
+“Brand was one of the best, but he was also a bit out of date. That's my fault," said Garuda, her gaze drifting up as she inhaled through her nose sharply, "his death is on me. He was the wrong agent and it was wrong to send him in alone. But! My information pointed to Brand as the best option. Let us be blunt: the Keralans sent* *in a European for a reason. A diabolical one—Europeans don’t matter. This is old history but it warrants repeating. Brand was our best and in your newly conquered* *position, you were the last player without your hands tied. Failure was all too likely an option and since we’re not all signing up for fatigues and a rehash of basic tells me it was the right call. The man was a blunt instrument, but he needed to be!" Garuda gestured with clenched fists, implying profanity. "It's all circumstantial, but the indicators of a power play are there. Li Xing is doing *something *she shouldn't." She sat back, deflated with preaching to the choir, "I'd stake my career on it," she added, half to herself.
 
 "You always say that," said Illapa.
 
