@@ -7,15 +7,17 @@ permalink: /fiction/violet/chapter-09/
 act: 1
 date: November 02, 2025
 ---
-No one liked the plan. But neither Jee nor Advika felt like facing the Viceroy’s inevitable grilling about why their inspection hadn’t caught a critical gap in resource supply or, if it had, why they did nothing to address it. 
+No one liked the plan to rescue the transport ahead of the swarm. But neither Jee nor Advika felt like facing the Viceroy's inevitable grilling about why their inspection hadn't caught a critical gap in resource supply or, if it had, why they did nothing to address it. 
 
 The military-issue motos roared across the steppe. A herd of wild ponies, scarred and beautiful, galloped away, aware of what was coming. They had adapted to edge-land harshness—no species could survive out here otherwise. A phalanx of buggies, some of the few vehicles the Olgoi kept as its own, bounced and rumbled behind the motos. Advika had gone out ahead, her moto now a black dot obscured in dust. 
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-“This is sabotage,” she said as they removed their helmets, “Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here,” the old woman bent low and tapped the split axel, “should be rent, all torn up. That’s a clean cut. Pre-weakened.”
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-“Load up the barrels,” Bolormaa bellowed, “we save what we can.”
+Someone had *wanted* them stranded out here. Hye's stomach tightened.
+
+"Load up the barrels," Bolormaa bellowed, "we save what we can."
 
 They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
 
@@ -31,13 +33,13 @@ Advika and the General set a dangerous, essential pace. The line stretched out, 
 
 Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
 
-She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
+She flipped up her face shield, "Come on! Get on!" She screamed over the monstrous din. More explosions pounded above them. The driver's eyes were locked on the barrels. She pointed at the swarm. The boy—barely a boy—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
 She steadied the moto as it rumbled over the open grass, turned back onto the road and pushed the throttles to maximum. The moto’s engines strained as it built speed across the steppe, the boy clinging to her in terror. A blinding red beam swept above them, a defense laser raking across the swarm, the whine of chain guns and the thunder of the last rockets booming in sync with their explosions. 
 
 The swarm was here. They weren’t going to make it.
 
-The barrels! She reached back to flip the latch to unclasp the barrels. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
+The barrels! She reached back to flip the latch to unclasp the barrels. *Mission or survival. Survival wins.* The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
 “No!” The boy shouted, “Please!” His voice was desperate. He knew who would lose between the incubators and Koryo quotas.
 
@@ -97,9 +99,9 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
 
-“You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”
+"You do not need to watch over me," Advika said, her eyes half-lidded with sedative, "though appreciated, I won't heal any faster with you here."
 
-“You will,” said Hye, “because as soon as I leave you will grab your staff and begin hobbling about, stretching the bandages and burning up the calories the infusions need to accelerate your healing. Then you’ll faint—“
+"You will," said Hye, "because as soon as I leave you will grab your staff and begin hobbling about, stretching the bandages and burning up the calories the infusions need to accelerate your healing. You're stubborn as a river stone. This time, though..." Hye trailed off. "This time, it matters."
 
 “I would not faint!” Advika protested.
 
