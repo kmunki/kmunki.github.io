@@ -15,7 +15,7 @@ When they arrived, her expression was dour. The transport was not late, it was s
 
 "This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-Someone had *wanted* them stranded out here. Hye's stomach tightened.
+Someone had *wanted* them stranded out here. But who? And for what purpose? Hye's stomach tightened. This wasn't mere accident or mechanical failure. Someone had planned this—which meant, somewhere, someone wanted the Olgoi to fail, or the shipment to be lost. The thought twisted with the swarm on the horizon: which threat mattered more right now? The question would have to wait.
 
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
@@ -25,7 +25,7 @@ They worked fast, strapping barrels onto every available surface of the buggies.
 
 The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
 
-The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
+The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world—mandibles like a wasp's, wings that shimmered with iridescent toxins, abdomens thick as a fist and barbed for egg-laying. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
 
 Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
 
@@ -41,7 +41,7 @@ The swarm was here. They weren’t going to make it.
 
 The barrels! She reached back to flip the latch to unclasp the barrels. *Mission or survival. Survival wins.* The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-“No!” The boy shouted, “Please!” His voice was desperate. He knew who would lose between the incubators and Koryo quotas.
+"No!" The boy shouted, "Please!" His voice was desperate. Not the barrels. Not the agar. If the shipment failed, if *he* failed, Bolormaa would—no. He couldn't face her disappointment. Couldn't face what it would mean for the Olgoi. The quotas, the births, the people depending on what he'd sworn to protect.
 
 “We are going to die!”
 
@@ -93,11 +93,13 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 “What is she saying,” the General asked, noting Bolormaa’s extreme reaction.
 
-“My boy my boy,” Advika said, “thank you my boy you saved my boy.”
+"My boy my boy," Advika said, "thank you my boy you saved my boy."
+
+Sun lingered as Hye continued with Advika into the medical section. With the great doors shut and commotion of treating the injured attended to, Bolormaa found the General and Sun in the corridor outside the infirmary. The Arc Chief's hands still shook, but duty called. "The tour," she said quietly. "Show you now?" The General nodded, and Sun moved to follow, glancing back toward the infirmary door before turning toward the arcology's interior passages.
 
 ---
 
-With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
+With the great doors shut and the commotion of treating the injured attended to, the Olgoi could almost be mistaken for peaceful. Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
 
 "You do not need to watch over me," Advika said, her eyes half-lidded with sedative, "though appreciated, I won't heal any faster with you here."
 
@@ -125,7 +127,7 @@ He get older, late teens, comfortable outside. Good outside. Good outside! Ha!�
 
 The Arc Chief nodded, the worry that had been gnawing at her flashing across her face. 
 
-“Yes, I knew. I worry. When the swarm close and he not through doors, worry is now fear.” She presses the palm of her fist against her chest,”Arc Chiefs, though, must mother all, not just some. Worry. Fear. Not for just boy. For all Olgoi. Can not risk swarm getting inside. 
+“Yes, I knew. I worry. When the swarm close and he not through doors, worry is now fear.” She pressed the palm of her fist against her chest,"Arc Chiefs, though, must mother all, not just some. Worry. Fear. Not for just boy. For all Olgoi. Can not risk swarm getting inside. 
 
 Closing the doors,” she said as tears welled again in her eyes, “require strength,” she looks up at them, eyes reddened. “Was like he already dead, closing doors like putting his body in digester.”
 
