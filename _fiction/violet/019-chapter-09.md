@@ -11,11 +11,15 @@ No one liked the plan. But neither Jee nor Advika felt like facing the Viceroy�
 
 The military-issue motos roared across the steppe. A herd of wild ponies, scarred and beautiful, galloped away, aware of what was coming. They had adapted to edge-land harshness—no species could survive out here otherwise. A phalanx of buggies, some of the few vehicles the Olgoi kept as its own, bounced and rumbled behind the motos. Advika had gone out ahead, her moto now a black dot obscured in dust. 
 
-When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
+When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort. One of them—a boy in his late teens, fidgeting with nervous energy—was already being shepherded toward the buggies by Bolormaa herself, which Hye noted was unusual for the Arc Chief.
 
-“This is sabotage,” she said as they removed their helmets, “Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here,” the old woman bent low and tapped the split axel, “should be rent, all torn up. That’s a clean cut. Pre-weakened.”
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-“Load up the barrels,” Bolormaa bellowed, “we save what we can.”
+Bolormaa's face went very still. "Who?"
+
+Advika didn't answer. There was no answer to give.
+
+"Load up the barrels," Bolormaa bellowed, "we save what we can." But her eyes remained on the cut axle, the implications settling over her like ash.
 
 They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
 
@@ -37,9 +41,9 @@ She steadied the moto as it rumbled over the open grass, turned back onto the ro
 
 The swarm was here. They weren’t going to make it.
 
-The barrels! She reached back to flip the latch to unclasp the barrels. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
+The barrels. Weight. Momentum. Swarm. The math was brutally simple—they would die carrying cargo. She reached back to flip the latch to unclasp the barrels, the calculation already made before she moved. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-“No!” The boy shouted, “Please!” His voice was desperate. He knew who would lose between the incubators and Koryo quotas.
+"No!" The boy shouted, "Please!" His voice was desperate. He knew what the reactant meant—what the boy meant. He knew who would lose between the incubators and Koryo quotas.
 
 “We are going to die!”
 
@@ -53,9 +57,9 @@ Somehow Sifu Advika Shidao was there on her jet black moto. She pulled along sid
 
 “Jump!” Hye commanded.
 
-He did, clumsy with fear. But he was too high, grabbing Advika’s shoulders instead of her waist, his momentum too much even for the seasoned old Sifu.
+He did, clumsy with fear. But he was too high, grabbing Advika's shoulders instead of her waist, his momentum too much even for the seasoned old Sifu. The moto lurched sideways with the boy's weight, and Advika's left leg took the full force as a scorwev's mandible snapped across her shin—the bite meant for the bike, connecting with flesh. She screamed, a sound Hye had never heard from her, and wrenched the handlebars hard to pull clear.
 
-“Go!” Advika demanded as the bike tilted and fell. Hye looked back to see as the shadow passed over them.
+"Go!" Advika demanded, her voice rough with pain as the bike tilted and fell. Hye looked back to see as the shadow passed over them.
 
 Hye screamed in horror as she rocketed away. 
 
@@ -81,9 +85,11 @@ It was enough. 
 
 The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
-As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
+As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy's shoulder, now weeping yet still speaking the repeating words.
 
-“That was a terrible idea,” said the Sifu to her students, “Hye you made me scratch my moto.”
+Advika's breath came in controlled gasps, jaw tight with the cost of staying conscious.
+
+"That was a terrible idea," said the Sifu to her students, her voice steady despite the pain evident in every line of her body, "Hye you made me scratch my moto."
 
 “We lost several barrels,” said the General, “and nearly the whole arc itself in the process. The Viceroy will not be pleased.”
 
@@ -95,7 +101,7 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 ---
 
-With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
+Hye found Advika in the infirmary, leg already wrapped in a chrys-cast, scale-skin bandages covering her arms and right side. The old Sifu lay still, sedative heavy in her eyes, age showing through the cracks of competence for perhaps the first time Hye had ever seen.
 
 “You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”
 
