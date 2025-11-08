@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: November 02, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Hye, royal Ward of the New Joseon Dynasty, had been chosen from her rainy fishing village at four years old—a stroke of fortune she'd never quite understood. Whether by chance or fate, she and Sun had argued about it for years. Put with the same Royal Rearer, the scared newcomer clung to the five-year-old Princess, and in many ways never let go. Sixteen years and a battalion of tutors, courses, and ceremonies later, they were still a pair.
 
-With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
+With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Hye's favorite settee—the one she and Sun had claimed sixteen years ago, sneaking here to hide from tutors—sat beneath the old pine that still bore the scar from their first climbing attempt. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up exactly there, elbows on knees, nose in book. 
 
 “Fantasizing again, Hye?” Sun asked, teasing, “One of your wuxia novels? *Condor Heroes?*”
 
@@ -41,7 +41,7 @@ Both fell back into the chair laughing.
 
 “Imagining a different history, a different world—where would you even start? So much would have changed,” said Sun, half to herself, under her breath.
 
-“A hundred year delay. The—” Hye flipped through some pages, “The Europeans didn’t come looking for gold until later. Maybe,” she lit up, “maybe there wouldn’t have been a Long War. No Ananda to release the plagues that started it all. Or…maybe—”
+"A hundred year delay. The—" Hye flipped through some pages, "The Europeans didn't come looking for gold until later. Maybe different first contact, different power balances... maybe," she lit up, "maybe there wouldn't have been a Long War. No Ananda to unite the Continuum powers against the Europeans, no plagues when that war turned desperate. Or…maybe—"
 
 “And maybe the Far Siders made it to the dark side of the moon. A whole city up there, forgotten by all of us! Oh, Hye,” said Sun, leaning her head back onto her sister’s shoulder, “I suspect something like the Long War would have happened no matter what. Asura Ananda, the plagues weren’t special. Some other monster would have come along with some other cause.”
 
@@ -53,9 +53,9 @@ Hye swatted her, “I have been! All about arcologies,” she said, “I will vi
 
 “And I will rule Koryo—perhaps all the Continuum one day,” she replied, attempting to tease, but unable to be anything but earnest in that desire.
 
-“That will be wonderful. I’ll be your ambassador and you’ll send me all over the world.”
+"That will be wonderful. I'll be your ambassador and you'll send me all over the world." It was easier to imagine herself in motion—traveling, exploring—than sitting on a throne making the kind of decisions Sun relished. Not that anyone would offer a Ward the throne anyway.
 
-She sighed, “Sweet sister, always looking at the sky.”
+She sighed, "Sweet sister, always looking at the sky."
 
 “I am not! I *was *…” she leaned over, picking up another book from the ground, “I was, ah, *visualizing. *What it must have been like to live in an arcology during the war, watching the world turn to Wilds around you.”
 
@@ -63,9 +63,9 @@ She sighed, “Sweet sister, always looking at the sky.”
 
 “I had been testing my knowledge of *this,*” said Hye, waving a copy of Xu’s *Arcologies: A Definitive History* at her sister. “Zheng He was… a break.”
 
-“You took a break from studying to study? Hye! All this studying and nothing on *our* strategy of selection campaign? We need more than history trivia to win. Want to be an ambassador, see the world? Get me the dirt on how the last few were selected.”
+"You took a break from studying to study? Hye! All this studying and nothing on *our* strategy of selection campaign? We need more than history trivia to win Selection—to convince the Progeny to vote for me as next Viceroy. Want to be an ambassador, see the world? Get me the dirt on how the last few were selected."
 
-“Well, to start, you need a boon from a Viceroy”
+"Well, to start, you need a boon from a Viceroy—formal sponsorship to even enter the competition."
 
 “I know that! How is your reading about any of this ancient history useful for that?”
 
@@ -85,9 +85,11 @@ Sifu Advika Shidao set her staff aside and adjusted her robes.
 
 “We shall see how ready you are. Crane-Dragon Duel? Or are your bruises from the last time still healing?”
 
-“If we win, a boon?” Sun asked.
+"If we win, a boon?" Sun asked. A formal favor from someone with the power to grant it—like sponsorship for Selection.
 
-“I will fight for that!” Hye bounced on the balls of her feet, removing a warming shawl revealing a more practical training gui beneath. So she *had *been practicing, Advika thought.
+"I will fight for that!" Hye bounced on the balls of her feet, removing a warming shawl revealing a more practical training gui beneath.
+
+Advika's eyes flickered with something like approval. So the girl had been practicing after all.
 
 “I can’t grant that,” the Sifu said.
 
@@ -105,7 +107,7 @@ The old woman was impassive.
 
 “Sun,” said Hye, “I can win this.”
 
-“But the abdication,” said Sun, “Selection! We don’t know how much time.”
+"But the Viceroy's abdication," said Sun, "she could announce Selection any day now. We don't know how much time we have."
 
 “*You* are the one who said for a boon!”
 
@@ -153,7 +155,7 @@ Advika’s age evaporated into decades of muscle memory. Hye bounced and bobbed,
 
 “First question in Crane-Dragon Duel Arcology,” Sun shouted, breaking the silence, “How many, then, now and ever?”
 
-Advika advanced as a blur, her strike the final whip crack of a full body snap. Hye expected it and was still startled, barely batting the hand away and bouncing back to give herself room as she shouted, “Hai!”
+Advika advanced as a blur, her strike the final whip crack of a full body snap. Hye's hand moved before her mind caught up—somehow batting the strike away despite being caught flat-footed. Lucky. She bounced back to give herself room as she shouted, "Hai!"
 
 “Hye, first response!”
 
