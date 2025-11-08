@@ -28,7 +28,12 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
 
 <section class="reading-section" markdown="1">
 
-**[Timeline →](/fiction/violet/timeline/)** | **[World Map →](/fiction/violet/world-map/)** | **[Personages →](/fiction/violet/personages/)** | **[Prologue →](/fiction/violet/prologue/)**
+<div class="front-matter-links">
+<p><strong><a href="/fiction/violet/timeline/">Timeline →</a></strong></p>
+<p><strong><a href="/fiction/violet/world-map/">World Map →</a></strong></p>
+<p><strong><a href="/fiction/violet/personages/">Personages →</a></strong></p>
+<p><strong><a href="/fiction/violet/prologue/">Prologue →</a></strong></p>
+</div>
 
 <details class="act-details" open>
 <summary class="act-summary">
@@ -233,6 +238,38 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
         border-top: 1px solid #2d1a3d;
     }
 
+    .front-matter-links {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-bottom: 3rem;
+        padding: 1.5rem;
+        background: #0f0a1a;
+        border-radius: 8px;
+        border: 1px solid #2d1a3d;
+    }
+
+    .front-matter-links p {
+        margin: 0;
+        text-align: center;
+    }
+
+    .front-matter-links a {
+        display: block;
+        padding: 1rem;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+        background: #140c1d;
+        border: 1px solid #2d1a3d;
+    }
+
+    .front-matter-links a:hover {
+        background: #1a0f24;
+        border-color: #b47cc7;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(180, 124, 199, 0.2);
+    }
+
     .begin-reading-cta {
         text-align: center;
         margin: 3rem auto;
@@ -389,12 +426,16 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
         margin: 0;
         font-size: 1rem;
         font-weight: 400;
+        text-transform: none;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .act-title a {
         text-decoration: none;
         color: #c49fd1;
         border-bottom: none;
+        text-transform: none;
     }
 
     .act-title a:hover {
@@ -454,6 +495,24 @@ In the chaos of Violet's assault on the palace, Sun is abducted and Violet secre
             font-size: 1.1rem;
             margin-top: 2rem;
             margin-bottom: 2rem;
+        }
+
+        .front-matter-links {
+            grid-template-columns: 1fr;
+            padding: 1rem;
+            gap: 0.75rem;
+        }
+
+        .front-matter-links a {
+            padding: 0.75rem;
+        }
+
+        .act-summary {
+            padding: 0.5rem 0.25rem;
+        }
+
+        .act-title {
+            font-size: 0.95rem;
         }
     }
 </style>

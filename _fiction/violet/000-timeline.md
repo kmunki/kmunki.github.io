@@ -231,11 +231,12 @@ published: true
     /* Mobile styles */
     @media (max-width: 768px) {
         .violet-page {
-            padding: 2rem 1rem;
+            padding: 2rem 0.5rem;
         }
 
         .page-header {
             margin-bottom: 3rem;
+            padding: 0 1rem;
         }
 
         .page-title {
@@ -248,17 +249,37 @@ published: true
             margin-bottom: 1.5rem;
         }
 
+        .page-content {
+            padding: 0;
+        }
+
         .page-content table {
             font-size: 0.8rem;
+            display: block;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .page-content table tbody {
+            display: table;
+            width: 100%;
         }
 
         .page-content table th,
         .page-content table td {
-            padding: 0.5rem 0.4rem;
+            padding: 0.5rem 0.6rem;
         }
 
         .page-content table th {
             font-size: 0.75rem;
+        }
+
+        .page-content table td:last-child {
+            padding-right: 1rem;
+        }
+
+        .page-navigation {
+            padding: 3rem 1rem 0 1rem;
         }
 
         .nav-links {
