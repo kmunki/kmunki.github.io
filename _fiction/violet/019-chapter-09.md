@@ -13,7 +13,7 @@ The military-issue motos roared across the steppe. A herd of wild ponies, scarre
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-“This is sabotage,” she said as they removed their helmets, “Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here,” the old woman bent low and tapped the split axel, “should be rent, all torn up. That’s a clean cut. Pre-weakened.”
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened. Same hand as the poison and the spider, maybe."
 
 “Load up the barrels,” Bolormaa bellowed, “we save what we can.”
 
@@ -25,7 +25,7 @@ The buggies lurched forward, their knobby springs and frames complaining of thei
 
 The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
 
-Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
+Gods, the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
@@ -47,15 +47,15 @@ The barrels! She reached back to flip the latch to unclasp the barrels. The boy 
 
 Among the overwhelming noise of crackling of carapaces and detonations a new sound—another engine.
 
-Somehow Sifu Advika Shidao was there on her jet black moto. She pulled along side, the two motos all but touching.
+Somehow—impossibly—Sifu Advika Shidao was there on her jet black moto, as though she'd appeared rather than ridden. She pulled along side, the two motos all but touching.
 
 “You aren’t going to make it! Jump! Jump!” She screamed at the boy.
 
 “Jump!” Hye commanded.
 
-He did, clumsy with fear. But he was too high, grabbing Advika’s shoulders instead of her waist, his momentum too much even for the seasoned old Sifu.
+He did, clumsy with fear. But he was too high, grabbing Advika's shoulders instead of her waist, his momentum enough to send a normal rider sprawling. Instead, she locked down, absorbing the impact with inhuman stillness.
 
-“Go!” Advika demanded as the bike tilted and fell. Hye looked back to see as the shadow passed over them.
+"Go!" Advika commanded as the bike tilted and fell. Hye looked back to see as the scorwev shadow swept over them.
 
 Hye screamed in horror as she rocketed away. 
 
