@@ -13,7 +13,7 @@ The military-issue motos roared across the steppe. A herd of wild ponies, scarre
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened. Same hand as the poison and the spider, maybe."
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here." The old woman bent low and tapped the split axel. "Should be rent, all torn up. That's a clean cut. Pre-weakened. Same hand as the poison and the spider, maybe."
 
 “Load up the barrels,” Bolormaa bellowed, “we save what we can.”
 
@@ -27,23 +27,23 @@ The Olgoi once again rose from the steppe ahead of them, the swarm now nearly fi
 
 Gods, the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
 
-Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
+Advika and the General set a dangerous, essential pace. "I haven't seen them coordinate like this," Advika said to Jee as they accelerated. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
-Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
+Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She raced back to the buggy and pulled alongside.
 
-She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
+She flipped up her face shield. "Come on! Get on!" she shouted over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
 She steadied the moto as it rumbled over the open grass, turned back onto the road and pushed the throttles to maximum. The moto’s engines strained as it built speed across the steppe, the boy clinging to her in terror. A blinding red beam swept above them, a defense laser raking across the swarm, the whine of chain guns and the thunder of the last rockets booming in sync with their explosions. 
 
 The swarm was here. They weren’t going to make it.
 
-The barrels! She reached back to flip the latch to unclasp the barrels. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
+The barrels! She reached back to unclasp them. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-“No!” The boy shouted, “Please!” His voice was desperate. He knew who would lose between the incubators and Koryo quotas.
+"No!" The boy shouted, "Please!" His voice was desperate. "I can't face them—not without it!" He knew who would lose between the incubators and Koryo quotas, and it wasn't just numbers on a ledger.
 
-“We are going to die!”
+"We are going to die!"
 
-“I can’t face them!”
+"I know! But she—"
 
 Among the overwhelming noise of crackling of carapaces and detonations a new sound—another engine.
 
@@ -65,9 +65,11 @@ She could see the loading bay door. It was closing. She had to make it. She woul
 
 Crack! Something hit her helmet hard from behind, nearly sending her over the handle bars. She unclasped the chin strap and threw the helmet loose. She did not look back. Small arms fire all around, picking off the swarm’s first wave as it began to land, latching onto the thick hide of the Olgoi. 
 
-She roared through the slow closing doors and skidded to a halt.
+She roared through the slow closing doors and skidded to a halt, immediately gripping the handlebars to steady herself—her left side was screaming.
 
-“Where is Sifu!?” Sun wailed over the cacophony, helping her sister off the moto.
+"Where is Sifu!?" Sun wailed over the cacophony, helping her sister off the moto.
+
+Advika's breath was coming hard, her jaw clenched against pain she was clearly compartmentalizing. She moved toward the observation window with the careful precision of someone whose body was running on adrenaline and will.
 
 They turned and saw a far off speck through the narrowing gap in the doors.
 
@@ -79,11 +81,15 @@ Hye and Sun ran over and fought Bolormaa, yanking the lever to neutral. The huge
 
 It was enough. 
 
-The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
+The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets.
+
+As Sun and Hye rushed to help Advika dismount, Hye saw the mangled leg, the hanging arm, the divot of flesh missing from her right side. *This* was what the impossible cost her. Her chest tightened.
+
+Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
 As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
 
-“That was a terrible idea,” said the Sifu to her students, “Hye you made me scratch my moto.”
+"That was a terrible idea," said the Sifu to her students. "Hye, you made me scratch my moto."
 
 “We lost several barrels,” said the General, “and nearly the whole arc itself in the process. The Viceroy will not be pleased.”
 
