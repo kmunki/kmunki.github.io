@@ -7,25 +7,27 @@ permalink: /fiction/violet/chapter-09/
 act: 1
 date: November 02, 2025
 ---
-No one liked the plan. But neither Jee nor Advika felt like facing the Viceroy’s inevitable grilling about why their inspection hadn’t caught a critical gap in resource supply or, if it had, why they did nothing to address it. 
+No one liked the plan. But neither Jee nor Advika wanted to face the Viceroy. She would grill them: why hadn't their inspection caught the supply gap? And if they had caught it, why did nothing to fix it? 
 
 The military-issue motos roared across the steppe. A herd of wild ponies, scarred and beautiful, galloped away, aware of what was coming. They had adapted to edge-land harshness—no species could survive out here otherwise. A phalanx of buggies, some of the few vehicles the Olgoi kept as its own, bounced and rumbled behind the motos. Advika had gone out ahead, her moto now a black dot obscured in dust. 
 
-When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
+When they arrived, her expression was dour. The transport wasn't late. It was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-“This is sabotage,” she said as they removed their helmets, “Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here,” the old woman bent low and tapped the split axel, “should be rent, all torn up. That’s a clean cut. Pre-weakened.”
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-“Load up the barrels,” Bolormaa bellowed, “we save what we can.”
+Hye exchanged a look with Sun. Another one.
 
-They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
+"Load up the barrels," Bolormaa bellowed, "we save what we can."
+
+They worked fast, strapped barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
 
 “That’s it!” Shouted the General, “it’s visible, we have to go *now*.”
 
 The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
 
-The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
+The Olgoi once again rose from the steppe ahead of them. The swarm now filled nearly a third of the sky—a black, shimmering cloud. Scorwevs, as Hye had guessed. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
 
-Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
+Gods, the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
@@ -43,11 +45,13 @@ The barrels! She reached back to flip the latch to unclasp the barrels. The boy 
 
 “We are going to die!”
 
-“I can’t face them!”
+"I can't face them!"
 
-Among the overwhelming noise of crackling of carapaces and detonations a new sound—another engine.
+Hye's mind raced. The barrels were symmetrical—she could drop one. She reached for the left clasp, felt the balance shift as it fell. The moto surged forward, still heavy but gaining speed. Not enough. The doors were closing. She calculated: thirty seconds to the gap, maybe forty with the weight. The doors would be shut in twenty.
 
-Somehow Sifu Advika Shidao was there on her jet black moto. She pulled along side, the two motos all but touching.
+Among the overwhelming noise of crackling carapaces and detonations, a new sound—another engine.
+
+Sifu Advika Shidao was there on her jet black moto, impossibly fast, engine screaming. She pulled along side, the two motos all but touching.
 
 “You aren’t going to make it! Jump! Jump!” She screamed at the boy.
 
@@ -79,7 +83,7 @@ Hye and Sun ran over and fought Bolormaa, yanking the lever to neutral. The huge
 
 It was enough. 
 
-The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
+The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorwevs crushed between them. In an instant the roar of the swarm outside became muffled, distant. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
 As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
 
@@ -107,7 +111,7 @@ With the great doors shut and the commotion of treating the injured attended too
 
 The Arc Chief looked depleted. She came into the room and sat in a chair facing both Hye and Advika. 
 
-“Children at Olgoi,” she began, “are raised in clutches. Most arcs are same. Raised together—by older clutches and a few rearers who raise many, many clutches their whole life .”
+“Children at Olgoi,” she began, “are raised in clutches. Most arcs are the same. Raised together—by older clutches and a few rearers who tend many, many children their whole lives.”
 
 “We have rearers in the Joseon Koryo as well, Arc Chief,” said Hye, “all of the Continuum, really. Sun and I have Sifu, a gift from our Generation Mother, Viceroy Jeoson Mi-Yong, who the Sifu—“
 
