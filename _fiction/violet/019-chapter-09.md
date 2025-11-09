@@ -15,7 +15,7 @@ When they arrived, her expression was dour. The transport wasn't late. It was st
 
 "This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-Hye exchanged a look with Sun. Another one.
+Hye exchanged a look with Sun. Another one. The transport hadn't failed—it had been failed. Someone had done this on purpose. The weight of that realization sat heavy in her chest: if this could happen here, what else could be compromised? Who else?
 
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
@@ -23,7 +23,7 @@ They worked fast, strapped barrels onto every available surface of the buggies. 
 
 “That’s it!” Shouted the General, “it’s visible, we have to go *now*.”
 
-The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
+The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun's motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. Sun turned her head, caught Hye's eye across the chaos, and nodded—not reassurance, but recognition. This, the look said. This is what we trained for. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
 
 The Olgoi once again rose from the steppe ahead of them. The swarm now filled nearly a third of the sky—a black, shimmering cloud. Scorwevs, as Hye had guessed. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
 
@@ -41,7 +41,7 @@ The swarm was here. They weren’t going to make it.
 
 The barrels! She reached back to flip the latch to unclasp the barrels. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-“No!” The boy shouted, “Please!” His voice was desperate. He knew who would lose between the incubators and Koryo quotas.
+"No!" The boy shouted, "Please!" His voice was desperate, broken. She could feel him shaking against her back. "If those barrels fall, we starve. The incubators starve. They'll cut the clutches—" He didn't finish, but Hye understood: his next generation didn't exist yet. They were in vats, depending on those reactants. Lose the barrels, lose the clutches. Lose the clutches, lose the future. Lose the future, there was nothing left but punishment.
 
 “We are going to die!”
 
@@ -49,15 +49,15 @@ The barrels! She reached back to flip the latch to unclasp the barrels. The boy 
 
 Hye's mind raced. The barrels were symmetrical—she could drop one. She reached for the left clasp, felt the balance shift as it fell. The moto surged forward, still heavy but gaining speed. Not enough. The doors were closing. She calculated: thirty seconds to the gap, maybe forty with the weight. The doors would be shut in twenty.
 
-Among the overwhelming noise of crackling carapaces and detonations, a new sound—another engine.
+Among the overwhelming noise of crackling carapaces and detonations, a new sound—another engine, closer than should have been possible.
 
-Sifu Advika Shidao was there on her jet black moto, impossibly fast, engine screaming. She pulled along side, the two motos all but touching.
+Sifu Advika Shidao burst from behind the Olgoi's wall on her jet black moto, already at a speed that should have taken longer to achieve. Engine screaming, she pulled alongside, the two motos all but touching—she must have been waiting at the interior door, calculating the precise moment to punch through before the swarm descended completely.
 
-“You aren’t going to make it! Jump! Jump!” She screamed at the boy.
+"Jump! Jump!" She screamed at the boy.
 
-“Jump!” Hye commanded.
+"Jump!" Hye commanded.
 
-He did, clumsy with fear. But he was too high, grabbing Advika’s shoulders instead of her waist, his momentum too much even for the seasoned old Sifu.
+He did, clumsy with fear. But he was too high, grabbing Advika's shoulders instead of her waist, his momentum too much even for the seasoned old Sifu.
 
 “Go!” Advika demanded as the bike tilted and fell. Hye looked back to see as the shadow passed over them.
 
@@ -75,7 +75,7 @@ She roared through the slow closing doors and skidded to a halt.
 
 They turned and saw a far off speck through the narrowing gap in the doors.
 
-“The walls must hold,” Bolormaa was sobbing, both hands holding down a lever, “The Olgoi had not fallen in eighty three years it will not fall today.” She was talking to herself.
+"The walls must hold," Bolormaa was sobbing, both hands gripping the lever as if it were burning her palms, "The Olgoi had not fallen in eighty three years it will not fall today." She was talking to herself, but her voice broke on the Mongolian words she kept repeating—a prayer or a curse for the boy she had chosen to save by closing him out.
 
 “No!” Yelled Hye, “they can make it!”
 
@@ -85,7 +85,7 @@ It was enough. 
 
 The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorwevs crushed between them. In an instant the roar of the swarm outside became muffled, distant. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
-As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
+As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite—the wound's edges already darkening, beginning to knit in ways that seemed too fast, too purposeful. Bolormaa looked up at the battered old woman with awe then buried her face in the boy's shoulder, now weeping yet still speaking the repeating words.
 
 “That was a terrible idea,” said the Sifu to her students, “Hye you made me scratch my moto.”
 
