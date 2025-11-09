@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: November 02, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she arrived to find another small girl already waiting. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four—by chance, the officials said, though her grandmother whispered about fate—she arrived to find another small girl already waiting. Of all the children tested, of all the villages visited, somehow it was Hye who was selected. Whether by chance or fate, she and Sun were forever arguing which it was. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
 
 With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
 
@@ -73,7 +73,7 @@ She sighed, “Sweet sister, always looking at the sky.”
 
 “Prove it,” said a stern, yet playful voice.
 
-Both girls startled. Standing behind them was an old woman wrapped in simple gray silk robes and leaning on a polished staff. Her long gray hair was up with a few twists, held in place by a jade skewer. Her eyes, as always, were that unsettling age-faded icy purple—Hye had never seen that color in anyone else. 
+Both girls startled. Standing behind them was an old woman wrapped in simple gray silk robes and leaning on a polished staff. Her long gray hair was up with a few twists, held in place by a jade skewer. Her eyes caught Hye's attention, as they always did—that unsettling icy purple, color faded with age to something neither natural nor kind. Hye had never seen that color in anyone else. 
 
 “Is that a formal challenge, Sifu?” Asked Hye, “I am ready!” She leaped to her feet.
 
@@ -101,7 +101,7 @@ The old woman was impassive.
 
 “Sun,” said Hye, “I can win this.”
 
-“But the abdication,” said Sun, “Selection! We don’t know how much time.”
+"But the Viceroy's seventh year approaches," said Sun, "Selection could be called any week! We don't know how much time."
 
 “*You* are the one who said for a boon!”
 
@@ -113,13 +113,13 @@ Sun groaned.
 
 “Then it’s decided,” said Advika, then turning, “Ah, Vizier Daewoo, your timing is impeccable.”
 
-Nearly floating down the mountain path from the palace was Vizier Daewoo Eun, chief advisor to the Viceroy. Her thick-layered robes were embroidered with jewels and charms, heavy with wealth and responsibility. Her clasped hands were tucked into long, overlapping sleeves and her tall, trapezoidal hat jangled with formal ornamentation.
+Down the mountain path from the palace came Vizier Daewoo Eun, moving with the stately grace her thick-layered robes demanded. Chief advisor to the Viceroy, she wore her authority in jewels and embroidered charms—each one heavy with wealth, heavier with responsibility. Her clasped hands were tucked into long, overlapping sleeves and her tall, trapezoidal hat jangled with formal ornamentation.
 
 “I do not have time for your games, Sifu Advika,” said the Vizier.
 
-“Crane-Dragon Duel is hardly a game, your honor! Sifu has bet us a boon!”
+"Crane-Dragon Duel is hardly a game, your honor! Sifu has bet us a boon!"
 
-“Those aren’t yours to grant, Sifu Advika. Girls, you’ll need to wait, there is a more pressing matter for the Sifu,” said the Vizier, an edge in her voice.
+"Those aren't yours to grant, Sifu Advika. Besides, girls, Prince Ji-woo's camp has already started early campaigning—you'll need more than old ritual tricks to compete with that aggression. But wait, there is a more pressing matter for the Sifu," said the Vizier, an edge in her voice.
 
 “Oh Daewoo,” she said, “you would not have sauntered down here yourself to grace us with your presence were the matter pressing. Come now we need your expertise as well. I could not have asked for a better, more worthy judge.”
 
@@ -145,7 +145,7 @@ All three bowed, a hand-capped fist held to their chests. “Thank you, your hon
 
 “Fight!” Shouted Sun.
 
-Advika’s age evaporated into decades of muscle memory. Hye bounced and bobbed, a bundle of excited energy contrasting her teacher’s near stillness. They circled. A breeze rustled the trees.  
+The old woman's age evaporated. What remained: decades of muscle memory, coiled and ready. Hye bounced and bobbed—excited energy against her teacher's stillness. They circled. A breeze rustled the trees.  
 
 “First question in Crane-Dragon Duel Arcology,” Sun shouted, breaking the silence, “How many, then, now and ever?”
 
@@ -195,7 +195,7 @@ Hye, about to shout her readiness, found herself under a barrage of blows that w
 
 “Hye second response!” Shouted Sun.
 
-"From the elements, the light of the sun, breath of the wind, and heat of the earth, my meals are found. It's true! Bah!" Hye leaped over a sweep, "But waste is not allowed. My mighty stomachs, dread digesters, turn even deadly tanks of war into the elements I need to survive. Elements I eat and, thus, elements I make! And from the elements: agar—that substrate that lets us reshape life itself, grow what we need, heal what we can't!"
+"From the elements, the light of the sun, breath of the wind, and heat of the earth, my meals are found. It's true! Bah!" Hye leaped over a sweep, "But waste is not allowed. My mighty stomachs, dread digesters, turn even deadly tanks of war into the elements I need to survive. Elements I eat and, thus, elements I make! And from the elements: agar—that precious substrate that lets us reshape life itself. Without it, no medicine. No engineered crops. No future." She landed, rolled. "Agar is survival!"
 
 Daewoo clapped, “Full marks, for Ward Hyeon,” she shouted, in delight. What fun this was!
 
@@ -233,9 +233,9 @@ Hye’s were arms barred, twisted and levered to the edge of tolerance. No no no
 
 “Submit submit submit,” Hye shouted, gasping with pain.
 
-“Hyeon submits,” shouted Sun, despondent, “Judgement?”
+"Hyeon submits," shouted Sun, despondent, "Judgement?"
 
-Daewoo was stunned. The battle before had paled, a mundane sparring compared to this last barrage. There had been rumors that Advika had seen real battle in her youth, remnants of the Long War. Perhaps rumors no more.
+Daewoo was stunned. The battle before had paled, a mundane sparring compared to this last barrage. Hye had been so close—one more question and her luck might have held. There had been rumors that Advika had seen real battle in her youth, remnants of the Long War. Perhaps rumors no more.
 
 “I, uh,” the Vizier stammered, “the Sifu is substantially more correct. And… I am moved.” The Vizier struggled to look at Advika in the eyes.
 
@@ -251,7 +251,9 @@ The Vizier interrupted Advika as she tried to walk past, “Ah, Sifu? The Vicero
 
 Hye looked at Sun, downcast and ashamed. Her sister stared into nothing, as if watching her future warp and bend out of her control. Hye sat, head in hands. How was she going to fix this? The Selection could begin any week now.
 
-"Wait! Vizier Daewoo," Hye said, "we are coming."
+Then—a thought. Crown business. War relics. If it was important enough for the Viceroy to summon Advika personally...
+
+"Wait! Vizier Daewoo," Hye said, straightening, "we are coming."
 
 "This is business of the crown—something newly discovered from the war. Your attendance is not required or requested."
 
