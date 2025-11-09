@@ -15,7 +15,7 @@ When they arrived, her expression was dour. The transport wasn't late. It was st
 
 "This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-Hye exchanged a look with Sun. Another one. The transport hadn't failed—it had been failed. Someone had done this on purpose. The weight of that realization sat heavy in her chest: if this could happen here, what else could be compromised? Who else?
+Hye exchanged a look with Sun. Another one. The transport hadn't failed—it had been failed. Someone had done this on purpose. The weight of that realization sat heavy in her chest: if this could happen here, in the Olgoi's own logistics, what else could be compromised? Who else? And why—to stop this supply run, or to stop something else entirely?
 
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
@@ -39,15 +39,15 @@ She steadied the moto as it rumbled over the open grass, turned back onto the ro
 
 The swarm was here. They weren’t going to make it.
 
-The barrels! She reached back to flip the latch to unclasp the barrels. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
+The barrels! She reached back to flip the latch to unclasp the heavier barrel. The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-"No!" The boy shouted, "Please!" His voice was desperate, broken. She could feel him shaking against her back. "If those barrels fall, we starve. The incubators starve. They'll cut the clutches—" He didn't finish, but Hye understood: his next generation didn't exist yet. They were in vats, depending on those reactants. Lose the barrels, lose the clutches. Lose the clutches, lose the future. Lose the future, there was nothing left but punishment.
+"No!" The boy shouted, "Please!" His voice was desperate, broken. She could feel him shaking against her back. "If those barrels fall, we starve. The incubators starve. If the clutches fail, our generation is culled—the Viceroy's orders. Korea needs these barrels, and we—" He didn't finish, but Hye understood: his next generation didn't exist yet. They were in vats, depending on those reactants. Lose the barrels, lose the clutches. Lose the clutches, lose Korea's standing, lose the future. Lose the future, there was nothing left but punishment.
 
 “We are going to die!”
 
 "I can't face them!"
 
-Hye's mind raced. The barrels were symmetrical—she could drop one. She reached for the left clasp, felt the balance shift as it fell. The moto surged forward, still heavy but gaining speed. Not enough. The doors were closing. She calculated: thirty seconds to the gap, maybe forty with the weight. The doors would be shut in twenty.
+Hye's mind raced. The barrels were symmetrical—she could drop one. She yanked the left clasp hard, felt the balance shift as the first barrel tumbled away. The moto surged forward, still heavy but gaining speed. Not enough. The doors were closing. She calculated: thirty seconds to the gap, maybe forty with the weight. The doors would be shut in twenty.
 
 Among the overwhelming noise of crackling carapaces and detonations, a new sound—another engine, closer than should have been possible.
 
@@ -65,7 +65,7 @@ Hye screamed in horror as she rocketed away. 
 
 Sifu. No. 
 
-She could see the loading bay door. It was closing. She had to make it. She would make it. She would not fail Sifu, her sacrifice would not be wasted. She reached back and flipped the clasp, the barrels rending and tumbling. Unburdened, the moto launched forward. From inside the loading bay Hye could see belches of flame from the internal defenses.
+She could see the loading bay door. It was closing. She had to make it. She would make it. She would not fail Sifu, her sacrifice would not be wasted. She reached back and flipped the final clasp. The second barrel wrenched free and fell. Unburdened, the moto launched forward. From inside the loading bay Hye could see belches of flame from the internal defenses.
 
 Crack! Something hit her helmet hard from behind, nearly sending her over the handle bars. She unclasped the chin strap and threw the helmet loose. She did not look back. Small arms fire all around, picking off the swarm’s first wave as it began to land, latching onto the thick hide of the Olgoi. 
 
@@ -75,7 +75,7 @@ She roared through the slow closing doors and skidded to a halt.
 
 They turned and saw a far off speck through the narrowing gap in the doors.
 
-"The walls must hold," Bolormaa was sobbing, both hands gripping the lever as if it were burning her palms, "The Olgoi had not fallen in eighty three years it will not fall today." She was talking to herself, but her voice broke on the Mongolian words she kept repeating—a prayer or a curse for the boy she had chosen to save by closing him out.
+"The walls must hold," Bolormaa was sobbing, both hands gripping the lever as if it were burning her palms, "The Olgoi had not fallen in eighty three years it will not fall today." She was talking to herself, but her voice broke on the Mongolian words she kept repeating—a prayer or a curse for the boy she had chosen to save by closing him out. Hye could not understand the words, but she understood the weight they carried.
 
 “No!” Yelled Hye, “they can make it!”
 
@@ -83,7 +83,7 @@ Hye and Sun ran over and fought Bolormaa, yanking the lever to neutral. The huge
 
 It was enough. 
 
-The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorwevs crushed between them. In an instant the roar of the swarm outside became muffled, distant. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
+The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorwevs crushed between them. In an instant the roar of the swarm outside became muffled, distant. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs—a language of grief that needed no translation.
 
 As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite—the wound's edges already darkening, beginning to knit in ways that seemed too fast, too purposeful. Bolormaa looked up at the battered old woman with awe then buried her face in the boy's shoulder, now weeping yet still speaking the repeating words.
 
@@ -95,7 +95,9 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 “What is she saying,” the General asked, noting Bolormaa’s extreme reaction.
 
-“My boy my boy,” Advika said, “thank you my boy you saved my boy.”
+"My boy my boy," Advika said, "thank you my boy you saved my boy."
+
+The adrenaline that had sustained them through the swarm's attack now drained away, leaving only the bone-deep exhaustion of survival. The loading bay doors, sealed tight, transformed instantly from salvation to prison—the swarm's muffled roar beyond them a constant reminder of what they'd escaped rather than relief of escape itself. There was no triumph in this chamber, only the arithmetic of loss: barrels gone, Advika's body written in wounds, Bolormaa's face aged by the choice she'd nearly made. The immediate danger was past. Everything else—the questions about sabotage, the Viceroy's judgment, the political consequences—remained.
 
 ---
 
