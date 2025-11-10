@@ -7,11 +7,11 @@ permalink: /fiction/violet/chapter-21/
 act: 2
 date: November 02, 2025
 ---
-The crowd in Tanganyinka Auditorium had gone silent. All that could be heard were the sounds of expectant people: a chair creaked, a stifled cough, whispered words, the live-venue equivalent of vinyl record pops and hisses. In this world it was ah Baghdadi composer who ‘composed’ the movement of only audience sounds, so a Cage reference won’t work here. 
+The crowd in Tanganyinka Auditorium had gone silent. All that could be heard were the sounds of expectant people: a chair creaked, a stifled cough, whispered words, the live-venue equivalent of vinyl record pops and hisses. 
 
 Music rose. The lights on the stage increased and Li Xing rolled out to the roars of the audience; the sound was intoxicating, vivifying. 
 
-Out of the corner of her eye she could see herself, a story and a half tall on the enormous screen. The outfit, the chair, her hair, her makeup. It was all intentionally designed to look smashing, effortless, and a bit avant guard. As if even she wasn't aware of just how ahead of everyone else she was. As if it all was by accident. She just did her best, didn't worry too much about appearances, but her taste was so unbelievably refined and her mindset so impossibly forward that of course she couldn't help but be fashion forward.
+Out of the corner of her eye she could see herself, a story and a half tall on the enormous screen. The outfit, the chair, her hair, her makeup—all intentionally designed to look smashing, effortless, and a bit avant-garde. As if even she wasn't aware of just how ahead of everyone else she was. As if it all was by accident. She just did her best, didn't worry too much about appearances, but her taste was so unbelievably refined and her mindset so impossibly forward that of course she couldn't help but be fashion forward.
 
 She wore a cape-shoulder jacket over a suit that impressed at any distance, becoming more astonishing the closer one got. Her wheelchair seat was almost invisible. Grown to fit her precisely, it was a bio-plastic skeleton woven through with semi-stretchy filaments. At her ankles and hips, small nodules curved out, holding her slightly. As she rolled onto the stage, the chair, in one smooth motion, first reclined, stretching her feet out in front of her and her torso back, elongating her entire body before the entire unit rotated forward, putting her in a standing position. She appeared to hover across the stage, like some divine force here for salvation or reckoning.
 
@@ -27,7 +27,7 @@ Miriam, in one of her signature bright dresses, walked onto the stage. Li Xing w
 
 Miriam and Li Xing held hands and raised them. Li Xing knew Miriam hated such heaping of accolades, her embarrassment real, making her all the more admirable and lovable. Li Xing was proud, of course, and also knew it gave them both incredible leeway to be less-than-humble on stage.
 
-“Hello Uplift!” Miriam said, her voice booming through the speakers, “we’re so excited to share our newest revolution at Violet with you today! We think its our biggest yet.”
+"Hello Uplift!" Miriam said, her voice booming through the speakers, "we're so excited to share our newest revolution at Violet with you today! We think it's our biggest yet."
 
 People went nuts. Li Xing smiled inwardly. She and Miriam had chosen the words precisely. Uplift is usually a parade of promises of what they’re working on, rarely does something new that *works *get revealed. For Violet to claim anything is their biggest yet is exceptional. We are not prone to hyperbole or overstatement, thought Li Xing, and they *know it*.
 
@@ -35,9 +35,9 @@ Miriam continued, “We have dozens of new ways we think we can help make the wo
 
 “We know we can’t do this alone,” said Li Xing, the music again rising, “And now our challenge is not just to build the next great biome boost or genetic balm. No, we’re building a nation. A new one. A country for those who wish to help make the world a better place with their heart, mind, and soul.”
 
-Li Xing paused to look out at the the confusion in the audience, relishing it. Everyone here wants her to promise them a dream. A product that will change their life, again. But it’s never the thing, it’s always the idea. Once I have this in my life, then I’ll be happy. I’ll be content. She was bursting with delight.
+Li Xing paused to look out at the confusion in the audience, relishing it. Everyone here wants her to promise them a dream. A product that will change their life, again. But it's never the thing, it's always the idea. Once I have this in my life, then I'll be happy. I'll be content. She was bursting with delight.
 
-“Which is why we are excited,” Li Xing continued, “to announce the opening of Violet Citizenship.”
+"Which is why we are excited," Li Xing continued, "to announce the opening of Violet Citizenship applications."
 
 Gasps, whoops, shrieks, and claps ripple through the audience.
 
