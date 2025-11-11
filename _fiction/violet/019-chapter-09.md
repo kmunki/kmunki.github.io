@@ -13,11 +13,11 @@ The military-issue motos roared across the steppe. A herd of wild ponies, scarre
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened. Someone *knew* this transport would pass here today."
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, her fingers tracing the clean edge. "Should be rent, all torn up. This isn't damage—someone *did* this. Deliberately. Someone *knew* this transport would pass here today."
 
-General Jee's jaw tightened. She met Advika's eyes for a moment—the recognition of a trap, deliberate and targeted—then turned away.
+General Jee's jaw tightened. She met Advika's eyes for a long moment—the recognition of a trap, deliberate and targeted—then turned away. The silence between them held weight: this wasn't chance or negligence.
 
-Hye understood what that exchange meant: this wasn't accident or negligence. Someone had *planned* this. But there was no time to think about who or why.
+Hye understood what that exchange meant: this was sabotage. Someone with intelligence and access had planned this. But there was no time to think about who or why. *Just yet*, a voice in her head warned, *someone will answer for this.*
 
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
@@ -27,15 +27,15 @@ They worked fast, strapping barrels onto every available surface of the buggies.
 
 The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
 
-The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
+The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud—thousands of individual creatures moving in coordinated hunger. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second's delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it—bodies, individual creatures—falling from the sky, each shredded by its brethren even before impact.
 
-Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
+Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced toward safety.
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
 Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shattered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
 
-She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
+She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her, trembling. *Sun had never trembled like this*, she thought as she cranked the accelerator. They rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
 She steadied the moto as it rumbled over the open grass, turned back onto the road and pushed the throttles to maximum. The moto’s engines strained as it built speed across the steppe, the boy clinging to her in terror. A blinding red beam swept above them, a defense laser raking across the swarm, the whine of chain guns and the thunder of the last rockets booming in sync with their explosions. 
 
@@ -45,7 +45,7 @@ The barrels. *Gone.* Hye made a choice the boy couldn't—she twisted, reached b
 
 The boy grabbed her hand. Hye, startled, jerking the handle bars and nearly dumped them over, but whipped her hand back into place just in time. 
 
-"No!" The boy shouted, "Please! No, no—" His voice was desperate, and Hye understood in that panic: he wasn't afraid of death. He was afraid of *failure*. He knew who would lose between the incubators and Koryo quotas. Orphans born into arc supply chains. Children. The breeding program's numbers.
+"No!" The boy shouted, "Please! No, no—" His voice was desperate, and Hye understood in that panic: he wasn't afraid of death. He was afraid of *failure*. He knew who would lose between the incubators and Koryo quotas. *Like Sun knew*. Orphans born into arc supply chains. Children. The breeding program's numbers.
 
 “We are going to die!”
 
