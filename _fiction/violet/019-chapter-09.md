@@ -13,9 +13,11 @@ The military-issue motos roared across the steppe. A herd of wild ponies, scarre
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-“This is sabotage,” she said as they removed their helmets, “Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here,” the old woman bent low and tapped the split axel, “should be rent, all torn up. That’s a clean cut. Pre-weakened.”
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, "should be rent, all torn up. That's a clean cut. Pre-weakened."
 
-“Load up the barrels,” Bolormaa bellowed, “we save what we can.”
+General Jee's jaw tightened. She met Advika's eyes for a moment—recognition passing between them—then turned away.
+
+"Load up the barrels," Bolormaa bellowed, "we save what we can."
 
 They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
 
@@ -101,9 +103,13 @@ With the great doors shut and the commotion of treating the injured attended too
 
 “You will,” said Hye, “because as soon as I leave you will grab your staff and begin hobbling about, stretching the bandages and burning up the calories the infusions need to accelerate your healing. Then you’ll faint—“
 
-“I would not faint!” Advika protested.
+"I would not faint!" Advika protested.
 
-“It is good,” said Bolormaa, who neither had noticed was standing at the doorway, “to be weak at times.”
+"The chrys-cast will hold the leg," came a new voice from the doorway. One of the arc's medical technicians, a woman with grey-streaked hair and competent bearing, stepped into the room. "Four weeks, maybe five, and the Sifu will be mobile. The elbow and side damage—the bite especially—that will take longer. Eight weeks before she's fully healed." She looked at Advika. "And you will fight me every day on the restrictions."
+
+Advika smiled thinly. "Eight weeks is acceptable."
+
+"It is good," said Bolormaa, who neither had noticed was standing at the doorway, "to be weak at times."
 
 The Arc Chief looked depleted. She came into the room and sat in a chair facing both Hye and Advika. 
 
@@ -129,6 +135,6 @@ Closing the doors,” she said as tears welled again in her eyes, “require str
 
 She took a large, shuddering breath.
 
-“When the Sifu brought him back, it was not from the outside in,” the Arc Chief looked Advika in the eyes, “but from death to life. And you,” Bolormaa turned to look at Hye, putting hand on hers, “he tell me you get him out of buggy, out of frozen fear. That is why I say ‘thank you for my boy.’ Not my boy, but my boy. You return him to me. Need more than thank you, so I tell story, so you understand thank you.”
+"When the Sifu brought him back, it was not from the outside in," the Arc Chief looked Advika in the eyes, "she brought him from death itself—from the jaws of that swarm, from my failure in closing those doors, from the grip of frozen fear—into life. And you," Bolormaa turned to look at Hye, putting hand on hers, "he tell me you get him out of buggy first, out of that frozen fear that nearly killed him. That is why I say 'thank you for my boy.' Not my boy, but my boy. You return him to me. Need more than thank you, so I tell story, so you understand thank you."
 
 She looked them each in the eye and said, “Thank you. Thank you for my boy.”
