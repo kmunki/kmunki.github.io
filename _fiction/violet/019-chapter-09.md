@@ -17,6 +17,8 @@ When they arrived, her expression was dour. The transport was not late, it was s
 
 General Jee's jaw tightened. She met Advika's eyes for a moment—the recognition of a trap, deliberate and targeted—then turned away.
 
+Hye understood what that exchange meant: this wasn't accident or negligence. Someone had *planned* this. But there was no time to think about who or why.
+
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
 They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. A product of the war—designed to consume, replicate, preserve itself, destroy anything else. Each swarm was unique, but all driven by the same ancient urge: satiate the hunger bred into them a century ago. Though generations of individuals had come and gone, the swarm remained, self-sustaining, self-replicating. Unstoppable.
@@ -31,7 +33,7 @@ Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
-Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
+Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shattered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
 
 She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
@@ -99,7 +101,7 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 ---
 
-With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu’s age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side—she looked almost fragile.
+With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu's age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side, her breathing shallow and deliberate—she looked almost fragile.
 
 “You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”
 
@@ -117,7 +119,7 @@ The Arc Chief looked depleted. She came into the room and sat in a chair facing 
 
 “Children at Olgoi,” she began, “are raised in clutches. Most arcs are same. Raised together—by older clutches and a few rearers who raise many, many clutches their whole life .”
 
-“We have rearers in the Joseon Koryo as well, Arc Chief,” said Hye, “all of the Continuum, really. Sun and I have Sifu, a gift from our Generation Mother, Viceroy Jeoson Mi-Yong, who the Sifu—“
+"We have rearers in the Joseon Koryo as well, Arc Chief," said Hye, "all of the Continuum, really. Sun and I have Sifu, a gift from our Generation Mother, Viceroy Yi In-yeong, who the Sifu—"
 
 “Owed a favor. Why she spent it on asking a war-relic to tutor a Princess and Ward, she never explained.” Advika paused, catching her breath, “but I don’t think you came in here to discuss the nuances of reproductive strategy?”
 
