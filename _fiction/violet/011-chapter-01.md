@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-01/
 act: 1
 date: November 02, 2025
 ---
-Hye, royal Ward of the New Joseon Dynasty, had never quite understood her luck. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
+Hye had never quite understood her luck—not the engineered fortune of a royal Ward, nor the cosmic joke that made her one. Chosen from her rainy fishing village at four, whether by chance or fate—they were forever arguing which it was—she was put with the same Royal Rearer as Sun. Only five herself, the royal-born Princess sat next to the scared, sad newcomer. Hye clung to her and, in many ways, never quite let go. Sixteen intervening years and a battalion of tutors, courses, and ceremonies later they were still a pair.
 
-With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace almost glowed as golden-hour light spilled across the mountainside. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
+With its black-in-the-shade-green-in-the-sun tiles and conifer gardens, the Summer Palace caught fire each evening—golden-hour light igniting the mountainside in amber and jade. Enjoying the deliciously cool autumn afternoon, Princess Sun grinned as she came around the curving stone path to find her sister balled up on a settee, elbows on knees, nose in book. 
 
 “Fantasizing again, Hye?” Sun asked, teasing, “One of your wuxia novels? *Condor Heroes?*”
 
@@ -229,9 +229,9 @@ Daewoo pondered, “Hye has the core of it, yes. Some lovely phrasing. To the po
 
 “Fight!” Sun yelled.
 
-Hye resumed her strikes. The old Sifu caught Hye’s hand and yanked her off balance, hurtling her across the ring and hard onto her back. 
+Hye resumed her strikes. The old Sifu caught Hye's hand, yanked—sent her hurtling across the ring, hard onto her back. 
 
-“A haven, ha!” Advika advanced and stomped, a heal smash barely missing Hye as she rolled away. “Earth is *life*, the source, the home!” Advika hissed, “Arcologies are desperate life rafts, capsules against our self-made armageddon.” Advika moved at a speed the Vizier could barely perceive, flickering from strike to strike. Hye’s blocks were late, misplaced, or simply not strong enough. Neck, chest, knee, kidney, face all absorbed Advika’s rage. “Billions born only to die—not a haven for life, but factory for death. War-relics all, towering tombstones, crumbling and haunted, like the memories of the belligerence that begat them.” Hye had thrown a strike at a mirage only to find Advika behind her. “From them flows agar, like the Vaitarani, a river of sweet nectar, giving us new life for the price of forgetting our past.”  
+"A haven, ha!" Advika advanced. Stomped. Her heel-smash barely missed Hye's rolling form. "Earth is *life*, the source, the home!" Advika hissed. "Arcologies are desperate life rafts, capsules against our self-made armageddon." She moved faster than the Vizier could perceive—flickering from strike to strike. Neck. Chest. Knee. Kidney. Face. Hye's blocks came late, misplaced, insufficient. “Billions born only to die—not a haven for life, but factory for death. War-relics all, towering tombstones, crumbling and haunted, like the memories of the belligerence that begat them.” Hye had thrown a strike at a mirage only to find Advika behind her. “From them flows agar, like the Vaitarani, a river of sweet nectar, giving us new life for the price of forgetting our past.”  
 
 Hye’s were arms barred, twisted and levered to the edge of tolerance. No no no, what had happened. She had *had* her.
 
