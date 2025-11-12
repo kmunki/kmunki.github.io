@@ -13,15 +13,15 @@ The military-issue motos roared across the steppe. A herd of wild ponies, scarre
 
 When they arrived, her expression was dour. The transport was not late, it was stuck. Barrels of reactant had come loose and lay strewn about next to the big rig itself, which was half tilted over, an axel shattered and two rear wheels blown out. The crew, just three arcies, were covered in grease and filth, their hands bloody with effort.
 
-"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, her fingers tracing the clean edge. "Should be rent, all torn up. This isn't damage—someone *did* this. Deliberately. Someone *knew* this transport would pass here today."
+"This is sabotage," she said as they removed their helmets, "Rigs like this are built to handle open terrain, no road, not even this pockmarked suggestion of a goat trail could have done that. And look here," the old woman bent low and tapped the split axel, her fingers tracing the clean edge. "Should be rent, all torn up. This isn't damage—someone *did* this. Deliberately. Someone *knew* this transport would pass here today. Knew the timing. Knew the route. Knew when the swarm would be moving."
 
-General Jee's jaw tightened. She met Advika's eyes for a long moment—the recognition of a trap, deliberate and targeted—then turned away. The silence between them held weight: this wasn't chance or negligence.
+General Jee's jaw tightened. She met Advika's eyes for a long moment—the recognition of a trap, deliberate and targeted, the work of someone with intelligence networks and precision—then turned away. The silence between them held weight: this wasn't chance or negligence. This was strategy.
 
 Hye understood what that exchange meant: this was sabotage. Someone with intelligence and access had planned this. But there was no time to think about who or why. *Just yet*, a voice in her head warned, *someone will answer for this.*
 
 "Load up the barrels," Bolormaa bellowed, "we save what we can."
 
-They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. A product of the war—designed to consume, replicate, preserve itself, destroy anything else. Each swarm was unique, but all driven by the same ancient urge: satiate the hunger bred into them a century ago. Though generations of individuals had come and gone, the swarm remained, self-sustaining, self-replicating. Unstoppable.
+They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. And there it was, visible now, rising like a dark god: a cloud of all-consuming fury. A product of the war—designed to consume, replicate, preserve itself, destroy anything else. Each swarm was unique, but all driven by the same ancient urge: satiate the hunger bred into them a century ago. Though generations of individuals had come and gone, the swarm remained, self-sustaining, self-replicating. Unstoppable.
 
 “That’s it!” Shouted the General, “it’s visible, we have to go *now*.”
 
@@ -33,7 +33,7 @@ Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
-Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shattered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
+Hye could feel the moto struggling, the shocks groaning with every boulder, her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shattered hard and became a cloud of dust in an instant. Hye shot past it. The front tire had blown, now dragging just rim on stone. Hye looked at the swarm. Then at the buggy. She waved Sun on and slammed on the brakes, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
 
 She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her, trembling. *Sun had never trembled like this*, she thought as she cranked the accelerator. They rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
@@ -59,7 +59,7 @@ Somehow Sifu Advika Shidao was there on her jet black moto. She pulled along sid
 
 “Jump!” Hye commanded.
 
-He did, clumsy with fear. But he was too high, grabbing Advika’s shoulders instead of her waist, his momentum too much even for the seasoned old Sifu.
+He did, clumsy with fear. But he was too high, grabbing Advika's shoulders instead of her waist, his momentum too much—and yet the Sifu's arm locked. In that fraction of a second, Hye saw something that shouldn't have been possible: Advika bracing herself with strength that held. For a moment. Just a moment.
 
 “Go!” Advika demanded as the bike tilted and fell. Hye looked back to see as the shadow passed over them.
 
@@ -85,7 +85,11 @@ Hye and Sun ran over and fought Bolormaa, yanking the lever to neutral. The huge
 
 It was enough. 
 
-The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
+The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible.
+
+General Jee appeared beside Advika as she dismounted, gripping her shoulder for a moment—no words, just the pressure of recognition between soldiers who had just moved together as one organism. The look they exchanged said what decades of shared danger can: *you came back. You always do*.
+
+The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
 As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
 
@@ -103,9 +107,9 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 With the great doors shut and the commotion of treating the injured attended too, the Olgoi could almost be mistaken for peaceful. Sun and the General resumed the tour while Hye sat with Advika in the infirmary. The old Sifu's age was apparent and, in this state—her leg wrapped in a chrys-cast and scale-skin bandages plastered on her arms and side, her breathing shallow and deliberate—she looked almost fragile.
 
-“You do not need to watch over me,” Advika said, her eyes half-lidded with sedative “though appreciated, I won’t heal any faster with you here.”
+"You do not need to watch over me," Advika said, her eyes half-lidded with sedative "though appreciated, I won't heal any faster with you here."
 
-“You will,” said Hye, “because as soon as I leave you will grab your staff and begin hobbling about, stretching the bandages and burning up the calories the infusions need to accelerate your healing. Then you’ll faint—“
+"You will," said Hye simply. "Because you need someone to keep you from your staff."
 
 "I would not faint!" Advika protested.
 
@@ -117,13 +121,13 @@ Advika smiled thinly. "Eight weeks is acceptable."
 
 The Arc Chief looked depleted. She came into the room and sat in a chair facing both Hye and Advika. 
 
-“Children at Olgoi,” she began, “are raised in clutches. Most arcs are same. Raised together—by older clutches and a few rearers who raise many, many clutches their whole life .”
+"Children at the Olgoi," she began, "are raised in clutches. Most arcs are the same. Raised together—by older clutches and a few rearers who raise many clutches their whole life."
 
 "We have rearers in the Joseon Koryo as well, Arc Chief," said Hye, "all of the Continuum, really. Sun and I have Sifu, a gift from our Generation Mother, Viceroy Yi In-yeong, who the Sifu—"
 
 “Owed a favor. Why she spent it on asking a war-relic to tutor a Princess and Ward, she never explained.” Advika paused, catching her breath, “but I don’t think you came in here to discuss the nuances of reproductive strategy?”
 
-“No, no,” Bolormaa said, with a sad smile, “I have point, promise. Olgoi are like most born post-war. No *parents*. Boy was one day wandering around arc. We encourage this, to learn arc ways and workings. I turned a corner and boom! He bumped into the Arc Chief!” She slapped her thighs in emphasis. “Not watching where he was going. I almost scold him, but then instead, say, ‘Follow me.’ 
+"No, no," Bolormaa said, with a sad smile, "I have a point, I promise. Olgoi are like most born post-war. No *parents*. The boy was one day wandering the arc. We encourage this, to learn arc ways and workings. I turned a corner and boom! He bumped into the Arc Chief!” She slapped her thighs in emphasis. “Not watching where he was going. I almost scold him, but then instead, say, ‘Follow me.’ 
 
 Then I ignore him. Whole day, he follow, quiet as a scut. Next morning, he at my door. Again he watch and follow. This all years ago. We become,” she became quiet, thoughtful. “Bond,” she said, “we bond.
 
@@ -133,7 +137,7 @@ He get older, late teens, comfortable outside. Good outside. Good outside! Ha!�
 
 The Arc Chief nodded, the worry that had been gnawing at her flashing across her face. 
 
-“Yes, I knew. I worry. When the swarm close and he not through doors, worry is now fear.” She presses the palm of her fist against her chest,”Arc Chiefs, though, must mother all, not just some. Worry. Fear. Not for just boy. For all Olgoi. Can not risk swarm getting inside. 
+"Yes, I knew. I worry. When the swarm came close and he was not through the doors, worry became fear." She pressed the palm of her fist against her chest. "Arc Chiefs, though, must mother all, not just some. Worry. Fear. Not for just the boy. For all the Olgoi. I cannot risk the swarm getting inside. 
 
 Closing the doors,” she said as tears welled again in her eyes, “require strength,” she looks up at them, eyes reddened. “Was like he already dead, closing doors like putting his body in digester.”
 
