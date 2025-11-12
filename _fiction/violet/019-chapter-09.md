@@ -17,19 +17,19 @@ When they arrived, her expression was dour. The transport was not late, it was s
 
 “Load up the barrels,” Bolormaa bellowed, “we save what we can.”
 
-They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. Oh gods, thought Hye, there it was: a cloud of all-consuming fury. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else.
+They worked fast, strapping barrels onto every available surface of the buggies. The sky darkened on the horizon. There it was: a cloud of all-consuming fury. *Oh gods*, thought Hye. Each swarm was unique, she knew, a product of the war, roaming the wilds attempting to satiate urges bred into them almost a century ago. Though generations of individuals had come and gone, the swarm remained, designed to self-sustain, replace, and to adapt. Only a few instincts drove them—consume, replicate, preserve the swarm, kill and destroy anything else. *And yet*, even as she watched the cloud move with terrible coordination, she couldn't shake the sense that somewhere, someone had *guided* it here.
 
 “That’s it!” Shouted the General, “it’s visible, we have to go *now*.”
 
-The buggies lurched forward, their knobby springs and frames complaining of their extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. Wobbly at the start, once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
+The buggies lurched forward, their knobby springs and frames straining under the extra baggage and passengers. Hye steadied her moto, two barrels draped like saddle bags over the back. At first, the moto was wobbly, but once under way she was able to hold it steady. Advika, the General, and Sun’s motos were alongside. Speed was a problem, they simply could not go as fast without risking dislodging the cargo. They abandoned the transport with the futile hope some of it might go unmolested, knowing there would be little left to find.
 
-The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second’s delay, *boom, boom, boom, *light and sound out of sync. The angry, beetling cloud tightened and condensed, chunks of it falling from the sky, bodies never having a chance to hit the ground as their brethren shredded and consumed the charred dead mid-flight.
+The Olgoi once again rose from the steppe ahead of them, the swarm now nearly filling a third of the sky, a black, shimmering cloud. Scorwevs, as Hye had guessed. The word had been translated so many times it was hard to know what it meant, if anything. Insect in body plan, they borrowed features from a healthy swath of the exoskeletal world. Burrow, sting, tear, stun, inject, replicate. Anything organic became food. Everything else was shredded. Scorwevs were an army ready-made for scorched-earth warfare, now loose after their creators were too weakened to issue anything resembling a stand down order. The surface of the Olgoi moved; something was opening beneath the sod. From the arcology, streaks of rocket fire blazed across the sky towards the cloud. The blasts lit up her vision off to the right. After a few second's delay—*boom, boom, boom*—light and sound hit out of sync. The angry, beetling cloud tightened and condensed. Chunks fell from the sky, scorwev bodies burning mid-air, shredded by their own brethren before they could hit the ground.
 
 Gods the sound. The demonic drone of fifty-thousand wings—louder than the wind roar and tire rumble as they raced for the safety.
 
 Advika and the General set a dangerous, essential pace. The line stretched out, with two of the buggies able to keep up with the lead and one, falling back, flanked by the less confident Hye and Sun. 
 
-Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She waved Sun on and slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
+Hye could feel the moto struggling, the shocks groaned with every boulder and her own arms burning with the effort to keep it steady. In front of her, the laggard buggy shuttered hard and was, in an instant, a cloud of dust. Hye shot past. The front tire had blown, now just dragging a rim. Hye looked at the swarm, then to the buggy. She thought of the boy's face—the frozen terror—and waved Sun on. She slammed on the breaks, nearly rolling the moto in the effort to turn around. She roared back to the buggy and pulled along side.
 
 She flipped up her face shield, “Come on! Get on!” She screamed over the monstrous din. More explosions pounded above them. The buggy driver had eyes only for the barrels. She pointed at the swarm. The boy—he was only a boy, she saw now—froze, his eyes wide. She clambered off her bike and dragged him out of the buggy. Get on, she bellowed as she strained to right the moto. Get on! He swung a leg over and held onto her. Hye cranked the accelerator and they rolled forward with horrible slowness. Too much weight, too much momentum, they would die on the steppe together, grub food.
 
@@ -47,7 +47,7 @@ The barrels! She reached back to flip the latch to unclasp the barrels. The boy 
 
 Among the overwhelming noise of crackling of carapaces and detonations a new sound—another engine.
 
-Somehow Sifu Advika Shidao was there on her jet black moto. She pulled along side, the two motos all but touching.
+Somehow Sifu Advika Shidao was there on her jet black moto, her hands steady on the grips despite the swarm's terrible noise, her moto positioned with the precision of someone who had executed this maneuver a thousand times in training. She pulled along side, the two motos all but touching.
 
 “You aren’t going to make it! Jump! Jump!” She screamed at the boy.
 
@@ -81,7 +81,7 @@ It was enough. 
 
 The jet black bike flew through the gap, just nicking each side. Advika sent the bike into a slide to keep from pancaking them on the far side of the wall. The doors closed with a boom, dozens of scorewevs crushed between them. In an instant the roar of the swarm outside was all but inaudible. The few that made their way inside were easy targets. Wails of anguish and relief came from Bolormaa. She half stumbled half ran, pulling the boy off the moto, ignoring his groans of agony and embracing him. Hye could hear her uttering something through her sobs in Mongolian, the same phrases repeated over and over.
 
-As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A divot the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
+As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled and left elbow broken. A chunk the size of a lemon had been taken out of her right side, scorwev bite. Bolormaa looked up at the battered old woman with awe then buried her face in the boy’s shoulder, now weeping yet still speaking the repeating words.
 
 “That was a terrible idea,” said the Sifu to her students, “Hye you made me scratch my moto.”
 
@@ -91,7 +91,7 @@ As Bolormaa held the boy Sun and Hye helped Advika up. Her left leg was mangled 
 
 “What is she saying,” the General asked, noting Bolormaa’s extreme reaction.
 
-“My boy my boy,” Advika said, “thank you my boy you saved my boy.”
+Bolormaa half-stumbled to the moto, pulling the boy into her arms. She was sobbing, repeating words in Mongolian that Advika softly translated: *"My boy, my boy. Thank you for my boy."*
 
 ---
 
