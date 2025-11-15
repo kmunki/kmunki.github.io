@@ -7,9 +7,9 @@ permalink: /fiction/violet/chapter-03/
 act: 1
 date: November 02, 2025
 ---
-The Summer Palace grounds were stepped into the mountainside—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, seat of the Ruby Dragon Throne. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
+The Summer Palace grounds stepped into the mountainside itself—a more vertical affair than its southern city siblings. Mid-way up stood the vast, ornate, double-eaved Hall of Celestial Balance, where the Ruby Dragon Throne awaited investiture. Beautiful, stunning, and almost always empty—the hall was where power was invested with due ceremony. Not where it resided. Not where it was exercised. 
 
-Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though small in relative grandeur, the Viceroy and her council's offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through glass walls in wooden frames. No need for secrecy among royals.
+Daily life and business of the Viceroy were conducted in the Palace of Civic Contemplation. Nestled near the top of the grounds, though modest compared to the ceremonial halls below, the Viceroy and her council's offices held stunning views of the Koryo mountains. A deliberate fusion of ancient style and modern materials, the Palace of Civic Contemplation was built around a central lush garden and walking path. The surrounding walkways, topiaries, and lawns of the upper palace were visible through glass walls in wooden frames. No need for secrecy among royals.
 
 As they entered the long hall to the Receiving Room in the Viceroy’s Council Chambers, they were met with laughing and shouting. A boisterous group of royals were approaching.
 
@@ -39,7 +39,9 @@ Ji-woo lunged, nose-to-nose with Sun. She neither flinched, nor blinked.
 
 He started laughing again and pushed past Hye and Sun.
 
-“You think it’s about earning it, or deserving it. Respect! Ha!” His posse followed. “That is your mistake, Seong-ma. Selection is about power. Power you don’t have and have no idea how to get. Those who are Selected *already have it*. And this time, the person who has it, *is me*.”
+"You think it's about earning it, or deserving it. Respect! Ha!" His posse followed. "That is your mistake, Seong-ma. Selection is about power. Power you don't have and have no idea how to get."
+
+He paused at the threshold, voice dropping to certainty. "Those who are Selected already have it. And this time, the person who has it is me."
 
 ---
 
