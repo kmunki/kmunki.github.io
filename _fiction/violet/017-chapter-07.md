@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-07/
 act: 1
 date: November 02, 2025
 ---
-The narrow interior hallway of the Olgoi felt like being in a capillary. It had no grand entryway. The Olgoi was both space ship and hazmat suit for a city; able to keep generations safe if need be. Form did not merely follow function, it genuflected. Hye could almost feel her breath being pulled and her skin drying as those minor wastes were drawn away. The Stump scratched at herself and a small cluster of what looked like puffball mushrooms growing on the wall began flicking out feather-like appendages. Jee recoiled.
+The narrow interior hallway of the Olgoi was a capillary—tight, warm, alive. It had no grand entryway. The Olgoi was both space ship and hazmat suit for a city; able to keep generations safe if need be. Form did not merely follow function, it genuflected. Hye could almost feel her breath being pulled and her skin drying as those minor wastes were drawn away. The Stump scratched at herself and a small cluster of what looked like puffball mushrooms growing on the wall began flicking out feather-like appendages. Jee recoiled.
 
 “Harmless! We call them bairnicles. You’re giving them a treat,” Bolormaa leaned over and scratched her head with gusto. More fronds emerged, flickering at the air, “Skin flakes! Yum yum yum!” She laughed with delight at Sun’s barely suppressed look of disgust. “Not to your liking Princess?”
 
@@ -27,19 +27,19 @@ The arcology was as packed with people, each moving with comfortable purpose. Cr
 
 “You let the plants flower? Isn’t that wasteful energy expenditure?” Sun asked.
 
-“Beauty is a resource, Princess,” said Bolormaa, solemn, “a flower that brings joy or soothes is not a waste.” She heel turned and continued, “Also scuts eat that too! Ha! Beauty and food. Most efficient!”
+"Beauty is a resource, Princess," said Bolormaa, solemn, "a flower that brings joy or soothes is not a waste." She pivoted and continued, "Also scuts eat that too! Ha! Beauty and food. Most efficient!"
 
 “Impressive,” said Sun, “I imagine the agar facilities are all the more so.”
 
 An unending stream of Arc-dwellers, dressed in a minimum of clothing adapted to the warm ambient air, would greet the Chief, ask her questions, bring reports, and generally conduct business without breaking stride. Though the Arc Chief kept her buoyant demeanor, her fellow dwellers did not. Side ways glances were cast at the visitors. Stressed voices with whispered emphasis brought the Arc Chief news and asked for guidance. It was difficult to parse—Hye’s Mongolian was no where near strong enough, but tensed shoulders and averted gazes needed no translation. Just the stress of daily maintenance of a seventy year old bio-mechanical titan? Despite the steel walls, rivets and bulkheads, Hye still felt like she was inside a living thing, moving through its blood stream and nervous system. She could almost hear it breathing.
 
-“Where are the lungs,” she blurted, startling everyone including herself.
+"Where are the lungs?" she blurted.
 
 “Ward please,” said the General, “it doesn’t have—“
 
 Bolormaa held up a finger to silence them and tapped her ear.
 
-Hye *could* hear it; like resting on the chest of a whale might sound as drew in barns-full of air and blew it out again. Only this was deeper still; a bass note felt only rumbling through the feet into the bones, a bow string drawn slow across a locomotive-size cello. 	Bolormaa grinned. They arrived in a towering room with house-sized engines. Hye had to tilt her head back to see to the tops of the deafening respirators which rose and fell like billows for the furnace of the gods. One *set* of lungs, Hye realized, just one set among *many*. Wrapped around each was access scaffolding, upon which were arcology technicians inspecting, tinkering, and adjusting.
+Hye *could* hear it; like resting on the chest of a whale as it drew in barns-full of air and blew them out again. Only deeper still—a bass note rumbling through her feet and into her bones, a bow drawn slow across a locomotive-sized cello. 	Bolormaa grinned. They arrived in a towering room with house-sized engines. Hye had to tilt her head back to see to the tops of the deafening respirators which rose and fell like billows for the furnace of the gods. One *set* of lungs, Hye realized, just one set among *many*. Wrapped around each was access scaffolding, upon which were arcology technicians inspecting, tinkering, and adjusting.
 
 “Lungs!” She repeated, trundling along back to the corridors, “three of many. Hearts, livers, stomachs. Many many!”
 
@@ -47,7 +47,7 @@ They had passed into a glass corridor within a huge room—a greenhouse. Brillia
 
 “Power?” Asked Advika.
 
-“LEDs don’t take much,” said Bolormaa, “geo and phovovines are main. Can go biomass, but lots of waste. Can’t get back what burns. Means shrinking.”
+"LEDs don't take much," said Bolormaa, "geo and photovines are main. Can go biomass, but lots of waste. Can't get back what burns. Means shrinking."
 
 “Shrinking?” Hye asked.
 
@@ -55,7 +55,7 @@ They had passed into a glass corridor within a huge room—a greenhouse. Brillia
 
 Hye nodded, quiet now. Decisions, the Viceroy had once lectured the Wards, were royal responsibility and burden. They meant carrying the survivors’ guilt of the whole community. The gift a leader gives is not guidance, but grace. Everyone wanted to make decisions, few wanted to own the consequences. Sun wanted both.
 
-“Ah, yes, the ectogens,” said Bolorma cryptically, as if the grim conversation had jogged her memory.
+"Ah, yes, the ectogens," said Bolormaa cryptically, her tone shifting.
 
 One by one, they followed her up an enclosed ladder. At the top was a single long corridor. Each side was covered by neat rows and columns of large square panels, most encrusted with vegetation, fungi, and sessile animals. Small creatures moved about cleaning and eating. Indicator lights of various colors glowed next to each panel.
 
@@ -79,7 +79,7 @@ Even the General seemed startled, plunging her ear canal with a pinky. Sun had p
 
 The room was unlike any previous: low-ceilinged, yet so wide and deep the effect was dizzying, like looking down the illusory tunnel created when standing between mirrors. Simultaneously infinite and claustrophobic, it was as if the thin space between the huge upper and lower halves of the Olgoi might be pinched out of existence at any moment. Vats, tubes, centrifuges, and stills were filled with a variety of substances being cooled, boiled, separated, and mixed. A cacophony of gurgling, grinding, and hissing was accompanied by waves of scents, first acrid, now sweet, now unctuous.
 
-From across the huge room there was a rising clank of foot steps—running, but the rhythm was off. There it was, a macaque, its redish face and gray fur giving it a worried old-man appearance.  Unable to whisper, he pulled the Arc Chief to the side. Bolormaa did not look relieved, nor did the monkey look happy as they conversed. It croaked and chirped in broken Mongolian, along with several emphatic hand movements, which it repeated with vigor while watching the Arc Chief for comprehension. What sounded like a curse hissed out of Bolormaa and she turned to the General, who raised an eyebrow.
+From across the huge room came a rising clank of footsteps—running, but the rhythm was off. A macaque approached, its reddish face and gray fur giving it a worried old-man appearance.  Unable to whisper, he pulled the Arc Chief to the side. Bolormaa did not look relieved, nor did the monkey look happy as they conversed. It croaked and chirped in broken Mongolian, along with several emphatic hand movements, which it repeated with vigor while watching the Arc Chief for comprehension. What sounded like a curse hissed out of Bolormaa and she turned to the General, who raised an eyebrow.
 
 “Issue, Arc Chief?” Jee asked, resting a hand on the pistol holstered on her chest.
 
@@ -117,7 +117,7 @@ Bolormaa stiffened at Hye’s question, then attempted to wave it off, walking f
 
 “No time! Swarm close!”
 
-“Stop!” The Stump rooted herself, “What’s. in. these.”
+"Stop!" The General planted her feet. "What's. in. these."
 
 “Reactant,” said Bolormaa, desperate to get moving, “From Nahua. Expensive. Hard to get, harder to make.” Bolormaa was cagey. 
 
@@ -125,7 +125,7 @@ Why? What was so awful about telling them about… of course: a key ingredient i
 
 “You need reactant to make enough agar to export,” said Hye. “Without it…”
 
-A pittance of agar—and a failed first shipment to a new overlord would look like disrespect or worse. The lights in the incubation room…they were low themselves, none to spare. The Viceroy had felt the need to flex the Continuum’s muscles as of late. Losing face to a bunch of edge-landers or sending a division to conquer a useless agar factory would not be well handled. There would be consequences. Agar must flow. There would be culling out of punishment or necessity. Trust on both sides would be ruined, they would lose the arc and its agar as haplessly as they had acquired it.
+A pittance of agar—and a failed first shipment to new overlords would look like disrespect or worse. The lights in the incubation room had been low, none to spare. The Viceroy had felt the need to flex the Continuum's muscles lately. Losing face to edge-landers would not be well handled. Agar must flow. Without it: culling, from punishment or necessity. Trust on both sides ruined. The arc and its agar lost as haplessly as acquired.
 
 “Are our motos stored?” Hye asked.
 
