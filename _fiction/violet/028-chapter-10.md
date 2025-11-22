@@ -7,11 +7,11 @@ permalink: /fiction/violet/chapter-10/
 act: 2
 date: November 02, 2025
 ---
-Agent Illapa braced herself and took her morning sip of coffee. Would this accursed nation ever figure out how to brew it well? Her hope was waining. The Inka were, what was it, twice as far from Ethiopia and yet had mastered the little bean’s cultivation and consumption in half the time? It was little wonder England’s little foray into India backfired badly enough that the whole of the subcontinent was conquered.
+Agent Illapa braced herself and took her morning sip of coffee. Would this accursed nation ever figure out how to brew it well? Her hope was waning. The Inka were—what was it—twice as far from Ethiopia, and yet had mastered the little bean's cultivation and consumption in half the time? It was little wonder England’s little foray into India backfired badly enough that the whole of the subcontinent was conquered.
 
 A small light on her desk began to blink, accompanied by a gentle chime. Well then, it seemed the excitement would start early today. Unwilling to surrender to the tepid bilge in her mug, she carried it through the hall, up the elevator to the top floor, and stood outside the Office of the Director of Intelligence for the European Security Agency. The building was steeped in old world charm, wood paneling, oil paintings of serious individuals in absurd garments, and fine glass work. It would all have been rather lovely were it not coated by a veneer of desperate nostalgia, clinging to every surface like soot. Shame, that. 
 
-She depressed the button outside the Director’s double door. A pause, then a tone and a click. The outer-door swung open, revealing a second door, wrapped in tufted maroon leather. She opened it. A crystal glass half full of whiskey shattered on the wall to her left as she did.
+She depressed the button outside the Director's double door. A pause, then a tone and a click. The outer door swung open, revealing a second door wrapped in tufted maroon leather. She opened it—a crystal glass half full of whiskey shattered on the wall to her left.
 
 “Bad morning, Director?” Illapa asked as she took her seat. There was the slightest *thip* sound as the door closed itself and sealed. What had been an office was now an isolated box in which nothing left unless the occupants decided it should.
 
@@ -31,7 +31,7 @@ Already in the room, lurking like a swarthy ghost, was Vidya Garuda, Chief of St
 
 "Those are bad for you, mum." Vidya's was the classic blended Indian-English accent of the Keralan upper-crust.
 
-"Ah, *quatsch*, Garuda,” her own French-Swiss gave the Austrian profanity a dismissal flair. She been smoking long before everyone was realizing you probably shouldn't. Even now, behind a desk for a decade, it was funny how mere memories of being shot at tended to cause warnings about cancer and emphysema to fade into the background. Everything was a risk-reward calculation. Everything. Running a secret agency for the last-place runner-up in the world superpower game and having flicked a few too many dangerous people in the metaphorical nose over the years had lead her to believe that it would not be natural causes for her. She was well past the half-century mark. Everything after that was bonus time.
+"Ah, *quatsch*, Garuda." Her own French-Swiss gave the Austrian profanity dismissive flair. She'd been smoking long before everyone realized you probably shouldn't. Even now, behind a desk for a decade, it was funny how mere memories of being shot at tended to cause warnings about cancer and emphysema to fade into the background. Everything was a risk-reward calculation. Everything. Running a secret agency for the last-place runner-up in the world superpower game and having flicked a few too many dangerous people in the metaphorical nose over the years had led her to believe that it would not be natural causes for her. She was well past the half-century mark. Everything after that was bonus time.
 
 She poured herself a drink for the hell of it.
 
@@ -55,7 +55,7 @@ Like most true intelligence spooks, Vidya was creepy and charismatic, a near vam
 
 She looked at them expectant.
 
-“Brand was one of the best, but he was also a bit out of date. That's my fault," said Garuda, her gaze drifting up as she inhaled through her nose sharply, "his death is on me. He was the wrong agent and it was wrong to send him in alone. But! My information pointed to Brand as the best option. Let us be blunt: the Keralans sent* *in a European for a reason. A diabolical one—Europeans don’t matter. This is old history but it warrants repeating. Brand was our best and in your newly conquered* *position, you were the last player without your hands tied. Failure was all too likely an option and since we’re not all signing up for fatigues and a rehash of basic tells me it was the right call. The man was a blunt instrument, but he needed to be!" Garuda gestured with clenched fists, implying profanity. "It's all circumstantial, but the indicators of a power play are there. Li Xing is doing *something *she shouldn't." She sat back, deflated with preaching to the choir, "I'd stake my career on it," she added, half to herself.
+“Brand was one of the best, but he was also a bit out of date. That's my fault," said Garuda, her gaze drifting up as she inhaled through her nose sharply, "his death is on me. He was the wrong agent and it was wrong to send him in alone. But! My information pointed to Brand as the best option. Let us be blunt: the Keralans sent *in* a European for a reason. A diabolical one—Europeans don't matter. This is old history but it warrants repeating. Brand was our best and in your newly conquered *position*, you were the last player without your hands tied. Failure was all too likely an option and since we’re not all signing up for fatigues and a rehash of basic tells me it was the right call. The man was a blunt instrument, but he needed to be!" Garuda gestured with clenched fists, implying profanity. "It's all circumstantial, but the indicators of a power play are there. Li Xing is doing *something* she shouldn't." She sat back, deflated with preaching to the choir, "I'd stake my career on it," she added, half to herself.
 
 "You always say that," said Illapa.
 
@@ -67,7 +67,7 @@ The Inkan ceded the point with a nod.
 
 "And the tech community love her for it," added Vidya. "She's not entirely wrong."
 
-"Terrible people rarely are," added Illapa. "It's always about the means. You can end world hunger by killing all the starving people, Vidya. Zero-sum is easy." Ursine chuckled and raised her eyebrows at Vidya, Illapa had her there. "Anyway," Illapa continued, "Brand is gone. Did we *get *anything?”
+"Terrible people rarely are," added Illapa. "It's always about the means. You can end world hunger by killing all the starving people, Vidya. Zero-sum is easy." Ursine chuckled and raised her eyebrows at Vidya, Illapa had her there. "Anyway," Illapa continued, "Brand is gone. Did we *get* anything?"
 
 Ursine brightened. “Yes.”
 
@@ -95,7 +95,7 @@ On the screen was a diskette and a paper with a list. A list of names. Grainy, d
 
 “Who are the names?” Illapa asked.
 
-“Soon to be very important people,” said Vidya, “Of those I can read, more than a few are up-and-coming in their fields. A couple are overrated—what gets mistaken for art is a tragedy—some are genuine geniuses in obscure, odd areas. And, *hmmmm” s*he scratched her chin and leaned in, “yes a few of these are scions or royals. Young. Names haven’t been made yet but are getting attention.”
+"Soon to be very important people," said Vidya, "Of those I can read, more than a few are up-and-coming in their fields. A couple are overrated—what gets mistaken for art is a tragedy—some are genuine geniuses in obscure, odd areas. And, *hmmmm*" she scratched her chin and leaned in, "yes a few of these are scions or royals. Young. Names haven't been made yet but are getting attention."
 
 Illapa stood to leave, “Capture and interrogate? We can have the first few in custody before end of day.”
 
@@ -105,7 +105,7 @@ Illapa stood to leave, “Capture and interrogate? We can have the first few in 
 
 “Yes that too,” acknowledged Ursine, frowning.
 
-“Who then?” asked Illapa, “We’re thin as it is. Tailing two dozen almost-somebodies is more than your team can handle. They’re good, sure, but that scale even *with *permission and support is hard to conceal.”
+"Who then?" asked Illapa, "We're thin as it is. Tailing two dozen almost-somebodies is more than your team can handle. They're good, sure, but that scale even *with* permission and support is hard to conceal."
 
 “Well I have a thought there too,” said Ursine, a glint in her eye, “I know this one—Kimia Air, the Persian physicist. Well her mother.”
 
@@ -123,7 +123,7 @@ Ursine shrugged. “She was hot and smart. I was charismatic and bold.”
 
 “Yes yes, I’m getting there,” said Ursine. “Violet out maneuvered us because it is both a nation and, more importantly here, a *corporation*. When one hand is tied, often the other is not.”
 
-“An advantage we now have,” said Vidya, brightening, “Brand’s body was destroyed as a message. They know we know. But the images are still *our* secret. No one beyond this room knows that *we know* that they exist, or their contents. I *do *love informational asymmetry.”
+“An advantage we now have,” said Vidya, brightening, “Brand’s body was destroyed as a message. They know we know. But the images are still *our* secret. No one beyond this room knows that *we know* that they exist, or their contents. I *do* love informational asymmetry."
 
 Ursine, relieved, expelled a massive sigh of smoke and whiskey vapor.
 
@@ -163,7 +163,7 @@ Illapa stared stone-faced at Vidya for a moment, then Ursine. She stood, and tug
 
 Illapa bellowed with laughter. “You are joking.”
 
-“I would never,” said Vidya. “Almost all of the names on that list *might *be there, several almost certainly will be! Condor Moray, Violet, all the biggest corporations will be in the Rift Valley for a week. Kimia Tir is certain to be among them. Should you be, ah, noticed—”
+"I would never," said Vidya. "Almost all of the names on that list *might* be there, several almost certainly will be! Condor Moray, Violet, all the biggest corporations will be in the Rift Valley for a week. Kimia Tir is certain to be among them. Should you be, ah, noticed—”
 
 “I won’t be,” said Illapa, flat.
 
