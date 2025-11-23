@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-11/
 act: 2
 date: November 02, 2025
 ---
-Miriam, half-awake, strode through the research building, tea in one hand, a scribbled note from her bedside desk in the other. Seeing her through the glass-walls, scientists and researchers lifted their heads, hoping for eye contact, to nod or wave good morning, ready to explain their progress and ask her guidance on whatever war-relic they were reverse engineering or new efficiency they had found in some biological process. Yet she did not see them. She wove through the honeycomb, her thoughts on what lie ahead. Window-wrapped and sky lit, the labs had views of jungle and sea in almost every direction, morning sun pouring in. 
+Miriam, half-awake, strode through the research building, tea in one hand, a scribbled note from her bedside desk in the other. Seeing her through the glass-walls, scientists and researchers lifted their heads, hoping for eye contact, to nod or wave good morning, ready to explain their progress and ask her guidance on whatever war-relic they were reverse engineering or new efficiency they had found in some biological process. Yet she did not see them. She wove through the honeycomb, her thoughts on what lay ahead. The labs had views of jungle and sea in almost every direction—windows wrapping each room, skylights flooding them with morning sun. 
 
 Her destination was darker, though. The research wing, like its sister buildings, were massive disks built into the mountain side. She passed into the shadow of the mountain, rock now above and below, and stopped in front of a heavy door. She badged, pressed her thumb, and then keyed the passcode with care. Even the door had been her design, a great arc of hardened metal within two others, such that, when the door was closed, there was no gap, no weakness, triple-thick at every point. After the events of the gala night, it no longer seemed excessive.
 
@@ -33,7 +33,7 @@ Miriam was taken aback.
 
 “It is more magnificent than a time machine. Instead of dragging us to the past, it transports the best of then to now.”
 
-Before her, the bioweaver. Hundreds of its predecessors sat on factory floors, crafting wombs, bones, and eyes from filaments drawn from spinnerets. But this machine had no twin, an invention inspired, imbued with her will and soul, it was as though Anansi himself was her Chi. The massive machine curved over a small tray, just enough to hold a body, like an ogre hunched in surgery over a pigmy. On the tray now grew, strand by strand, a black curve; the beginnings of a second carapace. The first was barely dried before enveloping its host.
+Before her, the bioweaver. Hundreds of its predecessors sat on factory floors, crafting wombs, bones, and eyes from filaments drawn from spinnerets. But this machine had no twin—an invention inspired, imbued with her will and soul. The massive machine curved over a small tray, just enough to hold a body, like an ogre hunched in surgery over a pigmy. On the tray now grew, strand by strand, a black curve; the beginnings of a second carapace. The first was barely dried before enveloping its host.
 
 “I’m not sure war relics themselves are the best of the past. Some of the Long War’s advancements are better forgotten.”
 
@@ -43,7 +43,7 @@ Before her, the bioweaver. Hundreds of its predecessors sat on factory floors, c
 
 Two warning lights lit on the wall, a hiss, a peeling, and a mechanical thud as the door of the lab airlock swung open. Li Xing rolled out.
 
-“Ah good, you’re both here. Miriam you’re a once in ten generations mind. I’m not surprised,” said Li Xing, “but I am amazed. ”
+"Ah good, you're both here. Miriam you're a once-in-ten-generations mind. I'm not surprised," said Li Xing, "but I am amazed. "
 
 “I presume the carapace took then?”
 
