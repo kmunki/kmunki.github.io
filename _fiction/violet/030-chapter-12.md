@@ -9,7 +9,7 @@ date: November 02, 2025
 ---
 “Agar is at the heart of it,“ said Vizier Daewoo as she and Sifu Advika resumed their stroll through the quiet woods behind the Summer Palace.
 
-Fall had settled in, morning dew replaced with frost and the mid-day air clear and cold. In the few weeks since the Olgoi, Advika had mended, the chrys-cast needing little time. She was relieved to remove it. Weight bearing and quite strong, the cast’s encumbrance was not the primary discomfort. No, that centered on the knowledge that like its namesake chrysalis, the cast liquified the leg—*her* leg—to heal it, letting the cells regress to pluripotentcy before reconstituting. As with most of nature, its workings were both miraculous and revolting. More than an instinctive, visceral repulsion though, the sensation was unearthing in Advika a long deep-buried memory. Like a grave robber racing the sun, her mind’s shovel had struck the coffin lid and was scraping away the dirt, looking for the edges, when the cast had mercifully been removed. The past was left interred.
+Fall had settled in, morning dew replaced with frost and the mid-day air clear and cold. In the few weeks since the Olgoi, Advika had mended, the chrys-cast needing little time. She was relieved to remove it. Weight bearing and quite strong, the cast's encumbrance was not the primary discomfort. No, that centered on the knowledge that like its namesake chrysalis, the cast liquified the leg—*her* leg—to heal it, letting the cells regress to pluripotency before reconstituting. As with most of nature, its workings were both miraculous and revolting. But worse than visceral repulsion, the sensation had been unearthing a long-buried memory. Her mind, like a grave robber racing the sun, had struck the coffin lid and begun scraping away dirt when the cast was mercifully removed. The past was left interred.
 
 Daewoo, soft and sentimental, was particularly pleased to have her walking partner returned to her. Lone walks of quiet contemplation with her own thoughts as company were not her preferred way of enjoying the palace grounds. 
 
@@ -43,7 +43,7 @@ The Sifu frowned.
 
 “You would lecture *me* on the art of war, Vizier?”
 
-“On the purpose of politics, Sifu. Which is not to win, but to get what one wants, or at least what one needs. Yet my lecture here is just as foolhardy, I see, as you’re sighing with recognition. There is no new information here, I’m,” Daewoo’s thought struggled to manifest. For a moment they walked in silence, the wind rustling the leaves and the last birds of fall chirping at one another, each amazed the other remained. She took a breath, “I’m saying what you already know, but, I suspect, do not believe. Or, perhaps, not when you hear it from yourself.”
+"On the purpose of politics, Sifu. Which is not to win, but to get what one wants, or at least what one needs. Yet my lecture here is just as foolhardy, I see, as you're sighing with recognition. There is no new information here, I'm—" She faltered, catching herself lecturing a master. For a moment they walked in silence, the wind rustling the leaves and the last birds of fall chirping at one another, each amazed the other remained. She took a breath. "I'm saying what you already know, but, I suspect, do not believe. Or, perhaps, not when you hear it from yourself."
 
 The old Sifu did not look at her friend, nor did she speak. Leaves crunched underfoot against the flagstones paving the path, her walking staff a thudding fifth foot-fall, giving the sound of their steps an odd rhythm. Fears and memories, etched in her mind by history hard lived, ached like joints before a storm.
 
@@ -85,7 +85,7 @@ Hodu was moving her head faster now, inscribing circles in the air, as though se
 
 Another screech. 
 
-Terror, confusion, “No see. Dark. Spin,” Hudo said.
+Terror, confusion. "No see. Dark. Spin," Hodu said.
 
 The owl listed to one side, its talons scrabbling against the stone for purchase. She flung her wings out and beat them, attempting to right herself and, failing that, to prevent total capsize.
 
@@ -105,13 +105,13 @@ Advika hissed her silent. The forest was quiet, well lit, pillars of light pushi
 
 “We must go, we must go,” said Daewoo pulling on the Sifu’s sleeve, “please.”
 
-Advika tilted her head side to side, letting each ear have the high ground. The owl shuttered in her embrace, a living alarm bell.
+Advika tilted her head side to side, letting each ear have the high ground. The owl shuddered in her embrace, a living alarm bell.
 
 “Advika please,” Daewoo begged, “we don’t even know if Hodu means that or if she is hallucinating. She could be dying. She could be *contagious*. Please!”
 
 Nothing. The guard owl must be confused. Have confused her. Old sensations, flashbacks, and fears clouded her senses. There was nothing in the woods, she told herself. Not alone could mean anything. Whatever it was, if it was even anything, it was not attempting to use the Vizier’s irrepressible outbursts as cover for its own movements. Only silence and the susurration of leaves.
 
-Another screech and shutter, Hudo’s breathing ragged. Advika sheathed her knife and they started walking briskly towards the palace.
+Another screech and shudder, Hodu's breathing ragged. Advika sheathed her knife and they started walking briskly towards the palace.
 
 “Hold on, Hodu,” said Daewoo.
 
@@ -133,6 +133,6 @@ Daewoo stifled a sob.
 
 “Shouldn’t we…” Daewoo couldn’t finish the sentence.
 
-“Quarantine is for contagions,” Advika was walking again, “Nothing kills that fast. Even the worst engineered plagues took half a day to incubate and hours of suffering. Hudo was disoriented, blinded, and she was standing just minutes ago. This is a poison, a neurotoxin. There is nothing within ten times her range that would have done this to her.”
+"Quarantine is for contagions," Advika said, walking again. "Nothing kills that fast. Even the worst engineered plagues took half a day to incubate and hours of suffering. Hodu was disoriented, blinded, and she was standing just minutes ago. This is poison—a neurotoxin. There is nothing within ten times her range that could do this to her."
 
 First the sabotaged transport. Now a poisoned guard owl. Advika could see the same thoughts on the Vizier’s face. Together, mournful, they walked the long path of through the forest back to the Summer Palace, the cold fall air biting their cheeks and ears.
