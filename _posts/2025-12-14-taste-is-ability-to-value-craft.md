@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taste Values Craft"
-date: 2026-12-14
+date: 2025-12-14
 tags: [taste, craft, criticism, culture]
 excerpt: "Taste is the valuing of craft—the ability to assess and appreciate a work based on deep understanding of techniques and skills used in its creation."
 ---
