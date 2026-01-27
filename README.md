@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi! I'm Kyle! 👋
 
+I'm a writer and pm interested in bioethics and emerging tech, especially as it relates to healthcare, education, and governance.
+
+I'm keen on figuring out how AI can help with all those things, and also figuring out how 
 <!--
 **kmunki/kmunki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

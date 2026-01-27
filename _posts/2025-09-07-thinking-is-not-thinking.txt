@@ -1,0 +1,84 @@
+# Writing Is Not Thinking
+
+Thinking_Face_Emoji.png
+
+*Caption: What is this emoji doing? Is it **writing**?*
+
+There is an anti-AI meme going around claiming that “Writing is Thinking.”
+
+Counterpoint: No, it’s not.
+
+Before you accuse me of strawmaning, I want to be clear: “Writing is thinking” is not *my* phrasing. It is the [headline](https://www.nature.com/articles/s44222-025-00323-4) [for](https://omaroakes.substack.com/p/ostack-reads-why-writing-is-thinking) [several](https://www.insidehighered.com/blogs/higher-ed-gamma/writing-thinking) [articles](https://www.psychologytoday.com/us/blog/life-gets-better/202505/writing-is-thinking) and [posts](https://danwillis94.substack.com/p/writing-is-thinking) and is [reinforced](https://www.paulgraham.com/writes.html) by those who [repost](https://substack.com/@culturist/note/c-137415970?) it.
+
+[Paul Graham](https://www.paulgraham.com/writes.html) says Leslie Lamport stated this truth *best*:
+
+“If you're thinking without writing, you only think you're thinking.”
+
+This is the one of two conclusions that follow from taking the statement “Writing is thinking” as metaphysically true. The other is the opposite. Thus, they are:
+
+1. If you’re *not* writing, then you’re *not* thinking
+2. If you are writing, then you *are* thinking
+
+Both of these seem obviously false. It’s possible think without writing, otherwise Socrates was incapable of thought. It’s possible to write without thinking, as we have all witnessed far too often. Some of you may think that second scenario is being demonstrated by me *right now*.
+
+Or are you not able to think that until you’ve written it?
+
+There are all sorts of other weird conclusions this leads to. For example, it means no one is thinking when listening to a debate or during a seminar discussion or listening to a podcast. Strangely, it means you’re not thinking when you’re *reading*. Does anyone believe that? Does Paul Graham actually think that his [Conversation With Tyler](https://conversationswithtyler.com/episodes/paul-graham/) episode didn’t involve the act of thinking on his part, Tyler’s, or the audience?
+
+Don’t be absurd, you say. Of course he doesn’t think that.
+
+There is evidence that Graham, in fact, doesn’t think that. He alludes to it before quoting Lamport, when he says:
+
+“In fact there's a kind of thinking that can only be done by writing.”
+
+Maybe, you argue, what he is saying is that writing *forces* good, clear, deep thinking. Writing is a privileged sort of thinking. Better thinking. Thinking *plus*. He sort of says this in his other essays on the topic “[Good Writing](https://paulgraham.com/goodwriting.html)” and “[Putting Ideas into Words](https://paulgraham.com/words.html)”. In the latter, he says:
+
+“I'm not saying that writing is the best way to explore all ideas. If you have ideas about architecture, presumably the best way to explore them is to build actual buildings. What I'm saying is that however much you learn from exploring ideas in other ways, you'll still learn new things from writing about them.”
+
+The authors in the [viral *Nature* article](https://www.nature.com/articles/s44222-025-00323-4) make a similar argument:
+
+“Writing compels us to think — not in the chaotic, non-linear way our minds typically wander, but in a structured, intentional manner. By writing it down, we can sort years of research, data and analysis into an actual story, thereby identifying our main message and the influence of our work. This is not merely a philosophical observation; it is backed by scientific evidence.”
+
+But both Graham and *Nature* are engaged in a kind of question begging here. Writing is a better form of thinking because we have to think better when we write. Do you? Really? Are you *sure*?
+
+If writing is ‘better’ thinking, then why do none of these essays on how “writing is thinking” address the fact that a whole lot of writing *is not* thinking? Are these writers, in fact, not thinking? They should be, right? Writing, they claim, is a *forcing* mechanism for good thought! Alas.
+
+What’s important here is that whether or not Graham, *Nature* or others believe “Writing is Thinking” to be ontologically true (I doubt they do), but that they are lazily amplifying and repeating a *meme conveying that message* via their writing, which, ironically, undermines both the meme itself and their more nuanced claims elsewhere.
+
+Writing can be hugely edifying. It can also be garbage in, garbage out. Let’s take AI. Chatting with an AI all day involves a lot of reading and writing. Whether it’s edifying or psychosis-inducing seems to be a skill issue, not inherent in the AI or the phenomenology of written language.
+
+Or look at the perennial names on the *New York Times* bestsellers list, people whose names are fixtures, who drop banger after banger and are read by millions. Those people are writing *a lot*. They are read *a lot*. And yet my suspicion is that a lot of the “Writing is Thinking” people do not believe those at the top of the charts are our deepest or best thinkers, nor are their fans.
+
+So if writing isn’t thinking, then what *is* thinking and how does AI threaten it? Well. Maybe it’s reading? Paul Graham seems to like reading!
+
+Ezra Klein touched just this in his [chat](https://www.youtube.com/watch?v=smb7hy6KufQ) with David Perell. In the case you’re worried Klein or Perell are AI apologists, please note the video is entitled “The Case Against Writing with AI”. 
+
+Klein, apropos, starts by critiquing AI. He says having AI do the *reading* for you by summarizing things harms your thinking. His argument is around embodied cognition and wrestling with the text. Reading a book that takes 2 hours doesn’t just mean you’re spending 2 hours to get the knowledge, it also means you’re *thinking about that topic* for 2 hours. The reading of the text and engaging with it (underlining, circling) is the thinking.
+
+Perell lights up at this and paraphrases the process by describing a book as a ‘container for thinking’. Perell came up with that great metaphor when talking, which, as you might note, is neither reading nor writing. Impressive, yet sadly, it seems, impossible. 
+
+Klein goes on to say that the process of writing will sometimes change his mind, *but not in a good way*. Writing tempts him to *convince himself* of a point so that the essay “hits.” Social media writing often feels this way. Whether it’s a tweet or Substack note, or a long diatribe, the writing does not seem to be *thinking* so much as it is *confabulation* or *motivated reasoning*. The act of writing does force clarity, but sometimes it forces false clarity *when clarity is not available or desirable*. That is, writing can make your thinking *worse*.
+
+OK, so the metaphorical claim “Writing is thinking” clearly isn’t true, and the weaker “Writing forces better thinking” doesn’t seem necessarily true either. Why is this anti-AI meme so, well, memetic? Like many hyperbolic claims, there is a kernel of truth under there. Let’s dig it out.
+
+To do that, let’s first try to take the strongest implicit argument here, which is something like, “If AI is doing the writing for you, then you aren’t getting the benefits of writing, which are many.” This generalizes, of course, to “If AI does it for you, then you don’t get the benefits of doing that thing.” Dan Shipper at Every takes this to its [logical conclusion within the context of AI](https://every.to/chain-of-thought/writing-as-a-way-of-thinking?utm_source=chatgpt.com), arguing that we’ll move from content-creator style thinking to manager style thinking with AI. That is, our thinking muscles won’t get weaker, we’ll just use them differently. Dan also agrees with a bunch of my points above, which was a delight because I found his essay well after I’d drafted them!
+
+But even if Dan is right, the ‘AI’ part of the problem statement isn’t necessary! “If *you* don’t do a thing, you don’t get the benefits of doing that thing.” It is important, of course, to note here that the inverse is *not* true: “If you do a thing, you get the benefits of doing that thing.” That doesn’t follow! So what’s going on here?
+
+This fear that AI will degrade thinking is, I suspect, a projection of a larger fear of cultural decadence. Writing, particularly *strong* writing, has been a proxy for *intelligence* and *thoughtfulness* for a long time. A talented, prolific, entertaining writer is a kind of scaled intelligence. A well crafted essay, novel, or even poem can project ideas, religion, emotion, and concepts across space and time. Writing is marvelous. Not because it *is* thinking, but because, when *done well*, writing elegantly *conveys* thinking. To have an idea is one thing, to communicate it another, to do so convincingly another thing still, and to make it real and persistent in the world, by physical work or by having it resonate in other minds, is yet another thing still. All these steps require effort. All require thought.
+
+AI puts the chain of effort at risk. Suddenly ideas can, in a sense, come from nowhere. Or they can let idiots with scary ideas be prolific and eloquent. But just because writing is a helpful method for *you* to think does not mean it is a *metaphysical requirement* for others to do so. 
+
+The good news is that using AI to write is not, necessarily, a threat to thinking because, simply put: *thinking is thinking*. There are lots of ways to help you do it. Writing certainly is one! As are reading, drawing, discussing, making, listening, watching, doing, tasting, joking, feeling, and moving (and probably a good number I haven’t thought of, despite being engaged in the act of writing and my very best efforts). Each of these can be sufficient on its own or function as an augment or scaffolding or icebreaker. 
+
+But also, seriously, *thinking is thinking*. The act of just sitting there and staring into space and *putting your mind to something* is literally the thing we claim to be doing. We see people doing this all the time! You can *picture* someone *thinking*. There is a fairly famous [statue of it](https://en.wikipedia.org/wiki/The_Thinker)!
+
+Screenshot 2025-08-12 at 17.17.24.png
+
+While yes, using AI to write or read (or do many things) for you might undermine those things’ ability to help you think, AI might also free people up in other ways. AI writing might let those who never mastered the skill (or mastered a second language) be able to better convey their ideas. Maybe by making writing faster, those who think best by coding or carving or simply cogitating will have more time to think the way they think best. Maybe in reading what the AI had written, then, and only then, will someone realize what they thought was not, in fact, what they thought. 
+
+Listen, I get it. We’re all worried about AI for one reason or another. As someone who loves writing and very badly likes to think I’m occasionally good at it, I’d love for it to have a premium on Thinking Good. But it doesn’t. And we all, deep down, know that.
+
+Ultimately, you have to choose to think. How you do it and with what tools can and often will help you think better, but only if you put in the effort. Thinking is work. Sometimes making work easier makes the results of that work worse, but not always. You matter. And that nuance, I think, matters too.
+
+So my ask for the great defenders of writing vis-a-vis thinking, please broaden your horizons a bit and, maybe, go back to basics. If you want to encourage thinking, encourage thinking. It’ll help you practice what you preach.
