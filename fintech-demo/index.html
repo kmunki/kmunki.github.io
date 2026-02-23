@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinTechCo - Transactions Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #f0f2f5;
+            color: #1a1a2e;
+            line-height: 1.6;
+        }
+
+        .dashboard {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 32px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 700;
+            color: #0f172a;
+        }
+
+        .header h1 span {
+            color: #3b82f6;
+        }
+
+        .header-meta {
+            text-align: right;
+            font-size: 13px;
+            color: #64748b;
+        }
+
+        .header-meta .timestamp {
+            font-weight: 600;
+            color: #334155;
+        }
+
+        /* Summary Cards */
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+        }
+
+        .card-label {
+            font-size: 13px;
+            font-weight: 500;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .card-value {
+            font-size: 28px;
+            font-weight: 700;
+            color: #0f172a;
+        }
+
+        .card-change {
+            font-size: 12px;
+            margin-top: 4px;
+            color: #10b981;
+            font-weight: 500;
+        }
+
+        .card-change.negative {
+            color: #ef4444;
+        }
+
+        /* Chart Section */
+        .chart-section {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+            margin-bottom: 32px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0f172a;
+            margin-bottom: 20px;
+        }
+
+        .bar-chart {
+            display: flex;
+            align-items: flex-end;
+            gap: 12px;
+            height: 200px;
+            padding: 0 8px;
+        }
+
+        .bar-group {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100%;
+            justify-content: flex-end;
+        }
+
+        .bar {
+            width: 100%;
+            max-width: 48px;
+            background: linear-gradient(180deg, #3b82f6 0%, #2563eb 100%);
+            border-radius: 6px 6px 0 0;
+            transition: opacity 0.2s;
+            position: relative;
+        }
+
+        .bar:hover {
+            opacity: 0.85;
+        }
+
+        .bar-value {
+            font-size: 11px;
+            font-weight: 600;
+            color: #475569;
+            margin-bottom: 4px;
+        }
+
+        .bar-label {
+            font-size: 11px;
+            color: #94a3b8;
+            margin-top: 8px;
+            text-align: center;
+        }
+
+        /* Transactions Table */
+        .table-section {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+            overflow: hidden;
+        }
+
+        .table-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 24px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            text-align: left;
+            padding: 12px 24px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            background: #f8fafc;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        td {
+            padding: 14px 24px;
+            font-size: 14px;
+            color: #334155;
+            border-bottom: 1px solid #f1f5f9;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover {
+            background: #f8fafc;
+        }
+
+        .tx-id {
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            font-size: 13px;
+            color: #64748b;
+        }
+
+        .amount {
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .status-completed {
+            background: #f0fdf4;
+            color: #d1d5db;
+        }
+
+        .status-pending {
+            background: #fefce8;
+            color: #a16207;
+        }
+
+        .status-failed {
+            background: #fef2f2;
+            color: #dc2626;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 24px;
+            color: #94a3b8;
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .summary-cards {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <div class="header">
+            <h1><span>FinTechCo</span> Transactions Dashboard</h1>
+            <div class="header-meta">
+                <div>Internal Portal v2.4.1</div>
+                <div>Last updated: <span class="timestamp" id="lastUpdated"></span></div>
+            </div>
+        </div>
+
+        <!-- Summary Cards -->
+        <div class="summary-cards">
+            <div class="card">
+                <div class="card-label">Total Transactions</div>
+                <div class="card-value" id="totalTransactions">—</div>
+                <div class="card-change">+12.3% vs last month</div>
+            </div>
+            <div class="card">
+                <div class="card-label">Total Volume</div>
+                <div class="card-value" id="totalVolume">—</div>
+                <div class="card-change">+8.7% vs last month</div>
+            </div>
+            <div class="card">
+                <div class="card-label">Avg Transaction</div>
+                <div class="card-value" id="avgTransaction">—</div>
+                <div class="card-change negative">-2.1% vs last month</div>
+            </div>
+            <div class="card">
+                <div class="card-label">Success Rate</div>
+                <div class="card-value" id="successRate">—</div>
+                <div class="card-change">+0.4% vs last month</div>
+            </div>
+        </div>
+
+        <!-- Bar Chart -->
+        <div class="chart-section">
+            <div class="section-title">Daily Transaction Volume (Last 7 Days)</div>
+            <div class="bar-chart" id="barChart"></div>
+        </div>
+
+        <!-- Transactions Table -->
+        <div class="table-section">
+            <div class="table-header">
+                <div class="section-title" style="margin-bottom: 0;">Recent Transactions</div>
+                <div style="font-size: 13px; color: #64748b;">Showing 15 of 1,247</div>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Transaction ID</th>
+                        <th>Date</th>
+                        <th>Merchant</th>
+                        <th>Amount</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="transactionsBody"></tbody>
+            </table>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            FinTechCo Internal Dashboard &copy; 2026 &mdash; Confidential
+        </div>
+    </div>
+
+    <script>
+        // Transaction data
+        const transactions = [
+            { id: "TXN-40921", date: "Feb 18, 2026", merchant: "Acme Corp", amount: 2450.00, status: "completed" },
+            { id: "TXN-40922", date: "Feb 18, 2026", merchant: "Globex Industries", amount: 18750.00, status: "completed" },
+            { id: "TXN-40923", date: "Feb 17, 2026", merchant: "Initech Solutions", amount: 3200.00, status: "completed" },
+            { id: "TXN-40924", date: "2026-02-17", merchant: "Stark Payments LLC", amount: 950.00, status: "pending" },
+            { id: "TXN-40925", date: "Feb 16, 2026", merchant: "Wayne Financial Services", amount: 42100.00, status: "completed" },
+            { id: "TXN-40926", date: "Feb 16, 2026", merchant: "Umbrella Corp", amount: 8400.00, status: "failed" },
+            { id: "TXN-40927", date: "Feb 15, 2026", merchant: "Cyberdyne Integrated Payment Systems International Group Holdings", amount: 15600.00, status: "completed" },
+            { id: "TXN-40928", date: "Feb 15, 2026", merchant: "Soylent Financial", amount: 4325.00, status: "completed" },
+            { id: "TXN-40929", date: "Feb 14, 2026", merchant: "Wonka Enterprises", amount: 1875.00, status: "completed" },
+            { id: "TXN-40930", date: "2026-02-14", merchant: "Tyrell Corp", amount: 29500.00, status: "completed" },
+            { id: "TXN-40931", date: "Feb 13, 2026", merchant: "Oscorp Payments", amount: 6750.00, status: "completed" },
+            { id: "TXN-40932", date: "Feb 13, 2026", merchant: "LexCorp Treasury", amount: 11200.00, status: "pending" },
+            { id: "TXN-40933", date: "Feb 12, 2026", merchant: "Massive Dynamic", amount: 3900.00, status: "completed" },
+            { id: "TXN-40934", date: "2026-02-12", merchant: "Weyland-Yutani", amount: 22000.00, status: "completed" },
+            { id: "TXN-40935", date: "Feb 12, 2026", merchant: "Aperture Science", amount: 7350.00, status: "completed" }
+        ];
+
+        // Render timestamp
+        document.getElementById('lastUpdated').textContent = new Date().toLocaleString('en-US', {
+            month: 'short', day: 'numeric', year: 'numeric',
+            hour: 'numeric', minute: '2-digit', hour12: true
+        });
+
+        // Calculate summary stats
+        // BUG: off-by-one — loop stops before last element
+        let totalVolume = 0;
+        for (let i = 0; i < transactions.length - 1; i++) {
+            totalVolume += transactions[i].amount;
+        }
+
+        const totalCount = transactions.length;
+        const avgTransaction = totalVolume / totalCount;
+        const successfulCount = transactions.filter(t => t.status === 'completed').length;
+        // BUG: multiplies by 10 instead of 100
+        const successRate = (successfulCount / totalCount * 10).toFixed(1);
+
+        document.getElementById('totalTransactions').textContent = totalCount.toLocaleString();
+        document.getElementById('totalVolume').textContent = '$' + totalVolume.toLocaleString('en-US', { minimumFractionDigits: 2 });
+        document.getElementById('avgTransaction').textContent = '$' + avgTransaction.toLocaleString('en-US', { minimumFractionDigits: 2 });
+        document.getElementById('successRate').textContent = successRate + '%';
+
+        // Render bar chart
+        const dailyData = [
+            { label: "Feb 12", value: 33250 },
+            { label: "Feb 13", value: 17950 },
+            { label: "Feb 14", value: 31375 },
+            { label: "Feb 15", value: 19925 },
+            { label: "Feb 16", value: 50500 },
+            { label: "Feb 17", value: 4150 },
+            { label: "Feb 18", value: 21200 }
+        ];
+
+        const maxVal = Math.max(...dailyData.map(d => d.value));
+        const chartEl = document.getElementById('barChart');
+
+        dailyData.forEach(day => {
+            const pct = (day.value / maxVal) * 100;
+            const group = document.createElement('div');
+            group.className = 'bar-group';
+            group.innerHTML = `
+                <div class="bar-value">$${(day.value / 1000).toFixed(1)}k</div>
+                <div class="bar" style="height: ${pct}%"></div>
+                <div class="bar-label">${day.label}</div>
+            `;
+            chartEl.appendChild(group);
+        });
+
+        // Render transactions table
+        const tbody = document.getElementById('transactionsBody');
+        transactions.forEach(tx => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td class="tx-id">${tx.id}</td>
+                <td>${tx.date}</td>
+                <td>${tx.merchant}</td>
+                <td class="amount">$${tx.amount.toLocaleString('en-US', { minimumFractionDigits: 2 })}</td>
+                <td><span class="status-badge status-${tx.status}">${tx.status.charAt(0).toUpperCase() + tx.status.slice(1)}</span></td>
+            `;
+            tbody.appendChild(row);
+        });
+
+        // Analytics helper — BUG: references wrong variable name
+        function getTransactionsByStatus(status) {
+            return transactionData.filter(t => t.status === status);
+        }
+    </script>
+</body>
+</html>
