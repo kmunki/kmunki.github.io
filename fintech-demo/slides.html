@@ -512,6 +512,15 @@
         .quote-attr {
             border-top: 1px solid var(--card-border);
             padding-top: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .quote-company-logo {
+            height: 24px;
+            width: auto;
+            opacity: 0.7;
         }
 
         .quote-name {
@@ -859,41 +868,32 @@
                 <div class="quote-card">
                     <div class="quote-text">&ldquo;Claude Code marks a threshold moment for AI in software development. Its ability to handle complex, multi-step tasks sets it apart from alternatives.&rdquo;</div>
                     <div class="quote-attr">
-                        <div class="quote-name">Fergal Reid</div>
-                        <div class="quote-role">VP of AI, Intercom</div>
+                        <div>
+                            <div class="quote-name">Fergal Reid</div>
+                            <div class="quote-role">VP of AI, Intercom</div>
+                        </div>
+                        <img src="assets/intercom-logo.png" alt="Intercom" class="quote-company-logo" style="height: 48px;">
                     </div>
                 </div>
                 <div class="quote-card">
                     <div class="quote-text">&ldquo;We decide what needs to happen, and smooth the process so it can build and verify end-to-end. A big part of my job now is to keep as many instances of Claude Code busy as possible.&rdquo;</div>
                     <div class="quote-attr">
-                        <div class="quote-name">Simon Last</div>
-                        <div class="quote-role">Co-founder, Notion</div>
+                        <div>
+                            <div class="quote-name">Simon Last</div>
+                            <div class="quote-role">Co-founder, Notion</div>
+                        </div>
+                        <img src="assets/notion-logo.png" alt="Notion" class="quote-company-logo">
                     </div>
                 </div>
                 <div class="quote-card">
                     <div class="quote-text">&ldquo;I can now write EDA code in a notebook &mdash; pulling data, training a model, evaluating it &mdash; and then ask Claude to convert that into a Metaflow pipeline. This saves 1&ndash;2 days of routine work per model.&rdquo;</div>
                     <div class="quote-attr">
-                        <div class="quote-name">Anton Biryukov</div>
-                        <div class="quote-role">Staff SWE, Ramp</div>
+                        <div>
+                            <div class="quote-name">Anton Biryukov</div>
+                            <div class="quote-role">Staff SWE, Ramp</div>
+                        </div>
+                        <img src="assets/ramp-logo.svg" alt="Ramp" class="quote-company-logo">
                     </div>
-                </div>
-            </div>
-            <div class="stat-row">
-                <div class="stat-item">
-                    <div class="stat-num">1M+</div>
-                    <div class="stat-label">lines of AI-suggested code in 30 days at Ramp</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-num">50%</div>
-                    <div class="stat-label">weekly active usage across engineering</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-num">80%</div>
-                    <div class="stat-label">reduction in incident investigation time</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-num">81%</div>
-                    <div class="stat-label">developer satisfaction at Fortune 500 pilot</div>
                 </div>
             </div>
             <div class="slide-footer">
@@ -928,16 +928,8 @@
                         <div>
                             <div class="cs-stats">
                                 <div>
-                                    <div class="cs-stat-num">1M+</div>
-                                    <div class="cs-stat-label">lines of AI-suggested code in just 30 days</div>
-                                </div>
-                                <div>
-                                    <div class="cs-stat-num">50%</div>
-                                    <div class="cs-stat-label">weekly active usage across engineering team</div>
-                                </div>
-                                <div>
-                                    <div class="cs-stat-num">80%</div>
-                                    <div class="cs-stat-label">reduction in incident investigation time</div>
+                                    <div class="cs-stat-num" style="font-size: 48px;">80%</div>
+                                    <div class="cs-stat-label" style="font-size: 14px; max-width: 250px;">reduction in incident investigation time</div>
                                 </div>
                             </div>
                         </div>
@@ -954,6 +946,10 @@
             <div class="demo-label">Live Demo</div>
             <h1 style="font-size: 56px;">Let me show you<br>what this looks like.</h1>
             <div class="demo-subtitle" style="margin-top: 24px;">Two demos: a software engineering workflow and a data science workflow. Then we&rsquo;ll talk about how to measure the impact.</div>
+            <div style="margin-top: 40px; display: flex; gap: 24px;">
+                <a href="index.html" target="_blank" style="font-family: Poppins; font-weight: 600; font-size: 16px; color: var(--black); background: rgba(0,0,0,0.1); padding: 12px 24px; border-radius: 8px; text-decoration: none;">Demo 1: Transactions Dashboard</a>
+                <a href="analysis.html" target="_blank" style="font-family: Poppins; font-weight: 600; font-size: 16px; color: var(--black); background: rgba(0,0,0,0.1); padding: 12px 24px; border-radius: 8px; text-decoration: none;">Demo 2: Economic Analysis</a>
+            </div>
             <div class="slide-footer">
                 <div class="logo"><img src="assets/anthropic-logo-ivory.svg" alt="Anthropic"></div>
                 <div></div>
