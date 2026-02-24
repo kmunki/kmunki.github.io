@@ -404,7 +404,7 @@
         .roi-leading {
             background: var(--black);
             border-radius: 12px;
-            padding: 24px 32px;
+            padding: 32px 40px;
             grid-column: 1 / -1;
             display: flex;
             align-items: center;
@@ -422,28 +422,29 @@
         }
 
         .roi-leading p {
-            color: #ccc;
-            font-size: 16px;
+            color: #e8e4de;
+            font-size: 22px;
         }
 
         /* Eval phases (slide 8) */
         .phase-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
-            gap: 32px;
+            gap: 24px;
+            margin-bottom: 32px;
         }
 
         .phase-card {
             background: var(--card-bg);
             border-radius: 12px;
-            padding: 32px;
+            padding: 24px 28px;
             border: 1px solid var(--card-border);
         }
 
         .phase-num {
             font-family: 'Poppins', sans-serif;
             font-weight: 800;
-            font-size: 48px;
+            font-size: 36px;
             color: var(--terracotta);
             line-height: 1;
             margin-bottom: 4px;
@@ -452,17 +453,17 @@
         .phase-title {
             font-family: 'Poppins', sans-serif;
             font-weight: 700;
-            font-size: 20px;
+            font-size: 18px;
             color: var(--black);
-            margin-bottom: 4px;
+            margin-bottom: 2px;
         }
 
         .phase-time {
             font-family: 'Poppins', sans-serif;
             font-weight: 500;
-            font-size: 13px;
+            font-size: 12px;
             color: var(--light-gray);
-            margin-bottom: 20px;
+            margin-bottom: 12px;
         }
 
         .phase-card ul {
@@ -471,10 +472,10 @@
         }
 
         .phase-card li {
-            font-size: 15px;
+            font-size: 14px;
             color: var(--gray);
-            padding: 6px 0;
-            padding-left: 16px;
+            padding: 4px 0;
+            padding-left: 14px;
             position: relative;
         }
 
@@ -482,11 +483,72 @@
             content: '';
             position: absolute;
             left: 0;
-            top: 14px;
-            width: 6px;
-            height: 6px;
+            top: 12px;
+            width: 5px;
+            height: 5px;
             border-radius: 50%;
             background: var(--terracotta);
+        }
+
+        /* Use case progression grid */
+        .progression {
+            display: grid;
+            grid-template-columns: 100px repeat(3, 1fr);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--card-bg);
+        }
+
+        .prog-header {
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            padding: 14px 20px;
+            border-bottom: 2px solid var(--card-border);
+        }
+
+        .prog-header.corner {
+            background: var(--card-bg);
+        }
+
+        .prog-header.explore { color: var(--light-gray); }
+        .prog-header.build { color: var(--terracotta-dark); }
+        .prog-header.automate { color: var(--black); }
+
+        .prog-team {
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            font-size: 13px;
+            color: var(--black);
+            padding: 14px 16px;
+            border-right: 1px solid var(--card-border);
+            display: flex;
+            align-items: center;
+        }
+
+        .prog-cell {
+            font-family: 'Lora', serif;
+            font-size: 14px;
+            color: var(--gray);
+            padding: 14px 20px;
+            line-height: 1.4;
+            border-right: 1px solid var(--card-border);
+        }
+
+        .prog-cell:last-child {
+            border-right: none;
+        }
+
+        .prog-row {
+            display: contents;
+        }
+
+        .prog-row:not(:last-child) .prog-team,
+        .prog-row:not(:last-child) .prog-cell {
+            border-bottom: 1px solid var(--card-border);
         }
 
         /* Social proof (slide 6) */
@@ -971,8 +1033,8 @@
                         <div class="desc">&mdash; mean time to resolution</div>
                     </div>
                     <div class="roi-item">
-                        <div class="metric">Data prep time</div>
-                        <div class="desc">&mdash; raw data to analysis-ready</div>
+                        <div class="metric">Time to first commit</div>
+                        <div class="desc">&mdash; onboarding speed per repo</div>
                     </div>
                 </div>
                 <div class="roi-card">
@@ -986,8 +1048,8 @@
                         <div class="desc">&mdash; maintained or improved</div>
                     </div>
                     <div class="roi-item">
-                        <div class="metric">Code review turnaround</div>
-                        <div class="desc">&mdash; cycle time reduction</div>
+                        <div class="metric">Security scan pass rate</div>
+                        <div class="desc">&mdash; CI pipeline, automated</div>
                     </div>
                 </div>
                 <div class="roi-leading">
@@ -1008,35 +1070,59 @@
                 <div class="phase-card">
                     <div class="phase-num">1</div>
                     <div class="phase-title">Pilot</div>
-                    <div class="phase-time">Weeks 1&ndash;4</div>
+                    <div class="phase-time">Weeks 1&ndash;3 &nbsp;&middot;&nbsp; 2&ndash;3x / week check-ins</div>
                     <ul>
                         <li>2&ndash;3 champions per team</li>
                         <li>Set metric baselines</li>
-                        <li>Use cases: onboarding, EDA, incident triage</li>
-                        <li>Weekly check-ins with Anthropic</li>
+                        <li>Security review in parallel</li>
                     </ul>
                 </div>
                 <div class="phase-card">
                     <div class="phase-num">2</div>
                     <div class="phase-title">Expand</div>
-                    <div class="phase-time">Weeks 5&ndash;8</div>
+                    <div class="phase-time">Weeks 4&ndash;6 &nbsp;&middot;&nbsp; Weekly check-ins</div>
                     <ul>
                         <li>Expand based on pilot data</li>
                         <li>Team-specific CLAUDE.md templates</li>
-                        <li>Security review in parallel</li>
                         <li>Champion-led enablement</li>
                     </ul>
                 </div>
                 <div class="phase-card">
                     <div class="phase-num">3</div>
                     <div class="phase-title">Company-wide</div>
-                    <div class="phase-time">Weeks 9&ndash;12</div>
+                    <div class="phase-time">Weeks 7&ndash;9 &nbsp;&middot;&nbsp; Weekly check-ins</div>
                     <ul>
                         <li>Full rollout to 180 engineers</li>
                         <li>Managed policy deployment</li>
-                        <li>Enablement sessions</li>
                         <li>Ongoing measurement cadence</li>
                     </ul>
+                </div>
+            </div>
+
+            <!-- Use case progression -->
+            <div class="progression">
+                <div class="prog-header corner"></div>
+                <div class="prog-header explore">Explore</div>
+                <div class="prog-header build">Build</div>
+                <div class="prog-header automate">Automate</div>
+
+                <div class="prog-row">
+                    <div class="prog-team">SWE</div>
+                    <div class="prog-cell">Codebase onboarding, bug fixes</div>
+                    <div class="prog-cell">Feature PRs, test generation</div>
+                    <div class="prog-cell">Multi-service changes, migrations</div>
+                </div>
+                <div class="prog-row">
+                    <div class="prog-team">Data</div>
+                    <div class="prog-cell">EDA notebooks, data cleaning</div>
+                    <div class="prog-cell">Pipeline prototyping, model eval</div>
+                    <div class="prog-cell">Notebook-to-pipeline conversion</div>
+                </div>
+                <div class="prog-row">
+                    <div class="prog-team">SRE</div>
+                    <div class="prog-cell">Log analysis, incident investigation</div>
+                    <div class="prog-cell">Runbook drafts, alert tuning</div>
+                    <div class="prog-cell">Automated triage playbooks</div>
                 </div>
             </div>
             <div class="slide-footer">
@@ -1051,7 +1137,7 @@
             <div style="margin-top: 40px; display: flex; flex-direction: column; gap: 20px; max-width: 650px;">
                 <div style="display: flex; align-items: baseline; gap: 16px;">
                     <span style="font-family: Poppins; font-weight: 800; font-size: 28px;">1</span>
-                    <span style="font-family: Lora; font-size: 22px;">Technical deep-dive with your platform team</span>
+                    <span style="font-family: Lora; font-size: 22px;">Security &amp; compliance review with your InfoSec team</span>
                 </div>
                 <div style="display: flex; align-items: baseline; gap: 16px;">
                     <span style="font-family: Poppins; font-weight: 800; font-size: 28px;">2</span>
