@@ -7,7 +7,7 @@ permalink: /fiction/violet/chapter-04/
 act: 1
 date: November 02, 2025
 ---
-Warm jungle air wafted through the night. Here in humanity’s original latitude, the barest of effort was needed for any manner of living thing to thrive. Greens of every shade, thickness, and texture coated the island. Home as this little biological miracle was to an almost uncountable variety of life, it was also home to the mind and heart of one of humanity’s favorite super-organisms: the corporation. This one in particular, Violet, was built by climbing the rungs of DNA. For the right price, Violet’s products put nature in her place for a while. And tonight they were celebrating their independence.
+Warm jungle air wafted through the night. Here in humanity's original latitude, life thrived without effort. Greens of every shade, thickness, and texture coated the island. Home as this little biological miracle was to an almost uncountable variety of life, it was also home to one of humanity's favorite super-organisms: the corporation. This one in particular, Violet, was built on DNA itself. For the right price, Violet’s products put nature in her place for a while. And tonight they were celebrating their independence.
 
 Brand was here because the price was, for many of the world’s governments, becoming too high. Violet had, just hours before, declared itself a Sovereignty, an independent nation-state, recognized by all the players who mattered. A new form of government with citizen-employees. The bland corporate combo title of “President and CEO” took on an ironic twist. His mission: learn what you can. Something about Violet was bigger than just a new type of nation. More than even his superiors, Brand found this new truth unnerving. He had seen the Queen bend a knee to the Samraat, her Imperial Majesty of Kerala, but that at least made sense. This way was anarchy.
 
@@ -35,7 +35,7 @@ Today, though, we celebrate. Today something momentous has happened. Today we ga
 
 Tomorrow will be like yesterday. We will return to our labs, our factories, our offices. We will continue our work, building and bettering the things that make our world a livable place. We build the wombs where new lives grow, we build the blood that saves lives threatened, we build the drugs that lets lives be better, longer. 
 
-Tomorrow will not be like yesterday. Tomorrow, we will the first dawn will rise on the nation of Violet.”
+Tomorrow will not be like yesterday. Tomorrow, the first dawn will rise on the nation of Violet."
 
 Applause, cheers and whoops of approval exploded from the crowd. Li Xing, smiling, held her hands up, asking for quiet. She began to move across the stage as she spoke.
 
@@ -51,9 +51,9 @@ Progress is similar. Mystical. Emergent. 
 
 Misunderstood.
 
-Progress is not a series of discoveries. Progress does not merely happen.
+Progress is not a series of discoveries waiting to be unearthed. It is not a thing, but a place—a dimension of spacetime.
 
-The future, so often synonymous with progress, is not a thing, somewhere, waiting to be unearthed. It is only a place, a dimension of space time. The fourth, built into the very fabric of the universe. It comes into being without effort. Time passes. 
+The future comes into being without effort. Time passes. 
 
 For the first ten thousand millennia of hominid existence, our future and past were indistinguishable. Existence cycled, unchanging, a great static motion.
 
