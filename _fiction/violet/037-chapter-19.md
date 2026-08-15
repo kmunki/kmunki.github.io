@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 19
 title: "Storm the Palace"
 permalink: /fiction/violet/chapter-19/

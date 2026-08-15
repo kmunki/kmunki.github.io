@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 28
 title: "Where the War Never Ended"
 permalink: /fiction/violet/chapter-28/

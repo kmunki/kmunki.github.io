@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 52
 title: "Appulse"
 permalink: /fiction/violet/chapter-52/

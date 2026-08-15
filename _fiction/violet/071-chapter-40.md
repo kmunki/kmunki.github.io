@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 40
 title: "The Gift of Betrayal"
 permalink: /fiction/violet/chapter-40/

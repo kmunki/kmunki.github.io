@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 37
 title: "The Magicians"
 permalink: /fiction/violet/chapter-37/

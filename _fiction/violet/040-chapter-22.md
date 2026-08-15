@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 22
 title: "Graduation and Matriculation"
 permalink: /fiction/violet/chapter-22/

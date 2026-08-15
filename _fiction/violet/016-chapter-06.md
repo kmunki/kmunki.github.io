@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 6
 title: "Tree Top Espionage"
 permalink: /fiction/violet/chapter-06/

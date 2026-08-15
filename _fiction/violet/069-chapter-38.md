@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 38
 title: "The Quartermaster; The Coffin"
 permalink: /fiction/violet/chapter-38/

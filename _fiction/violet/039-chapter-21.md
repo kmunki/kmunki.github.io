@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 21
 title: "Join Us"
 permalink: /fiction/violet/chapter-21/

@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 17
 title: "A Brewing Storm"
 permalink: /fiction/violet/chapter-17/

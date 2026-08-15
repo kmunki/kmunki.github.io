@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 10
 title: "Fallout at the European Security Agency"
 permalink: /fiction/violet/chapter-10/

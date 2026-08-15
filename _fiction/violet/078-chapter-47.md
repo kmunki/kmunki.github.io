@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 47
 title: "The Thing on the Doorstep"
 permalink: /fiction/violet/chapter-47/

@@ -29,10 +29,6 @@ exclude:
 # Permalink structure for posts
 permalink: /:year/:month/:day/:title/
 
-# Pagination
-paginate: 10
-paginate_path: "/page:num/"
-
 # Social links
 social:
   linkedin: kylemunkittrick

@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 35
 title: "Mercenaries' Mecca"
 permalink: /fiction/violet/chapter-35/

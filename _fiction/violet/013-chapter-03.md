@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 3
 title: "The Ogre; The Viceroy"
 permalink: /fiction/violet/chapter-03/

@@ -1,0 +1,156 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{% assign violet_description = "An alternate-history biopunk novel: Zheng He’s fleet sailed east, the Long War remade the world, and a girl chosen for her luck is hunted by a corporation that became a nation." %}
+
+{% if page.landing %}
+  {% assign page_title = "Violet — a novel by Kyle Munkittrick" %}
+{% elsif page.title %}
+  {% assign page_title = page.title | append: " — Violet, a novel by Kyle Munkittrick" %}
+{% else %}
+  {% assign page_title = "Violet — a novel by Kyle Munkittrick" %}
+{% endif %}
+
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ violet_description }}">
+<meta name="author" content="Kyle Munkittrick">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#faf6ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#120f18" media="(prefers-color-scheme: dark)">
+
+<meta property="og:type" content="{% if page.landing %}book{% else %}article{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ violet_description }}">
+<meta property="og:image" content="{{ site.url }}/assets/images/violet/violet_cover_1800.jpg">
+<meta property="og:site_name" content="Violet">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page_title }}">
+<meta name="twitter:description" content="{{ violet_description }}">
+<meta name="twitter:image" content="{{ site.url }}/assets/images/violet/violet_cover_1800.jpg">
+
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+{% comment %}
+  Reading sequence: prologue -> act pages -> chapters, in file order.
+  Front-matter/reference pages (personages, timeline, world map, glossary)
+  carry reference: true and are excluded.
+{% endcomment %}
+{% assign sequence = site.fiction | where_exp: "item", "item.series == 'violet'" | sort: "path" %}
+{% assign chapters_with_number = sequence | where_exp: "item", "item.chapter" %}
+{% assign total_chapters = chapters_with_number.size %}
+
+{% assign current_index = -1 %}
+{% for item in sequence %}
+  {% if item.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_item = nil %}
+{% assign next_item = nil %}
+{% if current_index > -1 %}
+  {% if current_index > 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign prev_item = sequence[prev_index] %}
+  {% endif %}
+  {% assign next_index = current_index | plus: 1 %}
+  {% if sequence[next_index] %}
+    {% assign next_item = sequence[next_index] %}
+  {% endif %}
+{% endif %}
+
+{% if prev_item %}<link rel="prev" href="{{ site.url }}{{ prev_item.url }}">{% endif %}
+{% if next_item %}<link rel="next" href="{{ site.url }}{{ next_item.url }}">{% endif %}
+
+{% include violet-styles.html %}
+</head>
+<body class="violet{% if page.landing %} violet-landing{% endif %}">
+<a class="skip-link" href="#main">Skip to content</a>
+
+{% unless page.landing %}
+<div class="topbar">
+    <a href="/fiction/violet/">← Violet</a>
+    <a href="/fiction/violet/#contents">Contents</a>
+</div>
+{% endunless %}
+
+<main id="main">
+{% if page.landing %}
+{{ content }}
+{% else %}
+
+{% comment %} ---- eyebrow / title / position label ---- {% endcomment %}
+{% assign act_romans = "|I|II|III|IV|V" | split: "|" %}
+{% assign eyebrow = "" %}
+{% assign header_title = page.title %}
+{% assign position_label = "" %}
+
+{% if page.chapter %}
+  {% assign act_roman = act_romans[page.act] %}
+  {% assign eyebrow = "Act " | append: act_roman | append: " · Chapter " | append: page.chapter %}
+{% elsif page.act %}
+  {% assign act_roman = act_romans[page.act] %}
+  {% assign eyebrow = "Act " | append: act_roman %}
+  {% assign title_parts = page.title | split: ": " %}
+  {% if title_parts.size > 1 %}
+    {% assign header_title = title_parts | slice: 1, title_parts.size | join: ": " %}
+  {% endif %}
+{% elsif page.series == "violet" %}
+  {% assign eyebrow = "Prologue" %}
+{% elsif page.reference %}
+  {% assign eyebrow = "Front Matter" %}
+{% endif %}
+
+<header class="page-header">
+    {% if eyebrow != "" %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+    <h1 class="page-title">{{ header_title }}</h1>
+    {% if position_label != "" %}<p class="position-label">{{ position_label }}</p>{% endif %}
+</header>
+
+{{ content }}
+
+{% comment %} ---- bottom nav ---- {% endcomment %}
+{% if page.series == "violet" %}
+{% assign nav_pos = "" %}
+{% if page.chapter %}{% assign nav_pos = page.chapter | append: " of " | append: total_chapters %}{% endif %}
+<nav class="bottom-nav" aria-label="Reading navigation">
+    {% if prev_item %}<a class="nav-prev" href="{{ prev_item.url }}" rel="prev"><span class="nav-kicker">← Previous</span><span class="nav-title">{% if prev_item.chapter %}<span class="nav-chnum">{{ prev_item.chapter }}</span> {% endif %}{{ prev_item.title }}</span></a>{% else %}<span></span>{% endif %}
+    <a class="nav-contents" href="/fiction/violet/#contents">Contents{% if nav_pos != "" %}<span class="nav-pos">{{ nav_pos }}</span>{% endif %}</a>
+    {% if next_item %}<a class="nav-next" href="{{ next_item.url }}" rel="next"><span class="nav-kicker">Next →</span><span class="nav-title">{% if next_item.chapter %}<span class="nav-chnum">{{ next_item.chapter }}</span> {% endif %}{{ next_item.title }}</span></a>{% else %}<span></span>{% endif %}
+</nav>
+{% else %}
+<nav class="bottom-nav contents-only" aria-label="Reading navigation">
+    <a class="nav-contents" href="/fiction/violet/#contents">Contents</a>
+</nav>
+{% endif %}
+
+{% endif %}
+</main>
+
+<footer class="violet-footer">
+    <p>Violet · a novel by Kyle Munkittrick · <a href="https://kmunk.com">kmunk.com</a></p>
+</footer>
+
+{% if page.series == "violet" %}
+<script>
+(function () {
+    if (typeof window === "undefined" || !window.localStorage) return;
+    try {
+        localStorage.setItem("violet:last", JSON.stringify({
+            url: {{ page.url | jsonify }},
+            title: {{ header_title | jsonify }},
+            label: {{ eyebrow | jsonify }}
+        }));
+    } catch (e) { /* storage unavailable; ignore */ }
+})();
+</script>
+{% endif %}
+</body>
+</html>

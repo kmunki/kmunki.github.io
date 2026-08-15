@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 4
 title: "Hiding in Plain Sight"
 permalink: /fiction/violet/chapter-04/

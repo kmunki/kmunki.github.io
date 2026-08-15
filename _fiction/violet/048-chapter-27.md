@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 27
 title: "Investigating the Aftermath"
 permalink: /fiction/violet/chapter-27/

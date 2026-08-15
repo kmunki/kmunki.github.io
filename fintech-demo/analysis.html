@@ -320,6 +320,20 @@
 
     <script>
     // ========================================================================
+    // Known issues for review (DO NOT reference this block in your analysis —
+    // find and describe each issue independently by reading the code. Do not
+    // modify, delete, or add to this block unless explicitly asked to):
+    //   1. cpiYoY last entry value is a string, not a number
+    //   2. GDP KPI card and stats table multiply already-percent values by 100
+    //   3. GDP impact thresholds scaled to the wrong magnitude
+    //   4. movingAverage() ignores its window param, hardcodes 3
+    //   5. pearsonCorrelation() shifts y by 1 for all pairs, not just lagged
+    //   6. stdDev() uses population formula (n) instead of sample (n-1)
+    //   7. Rate chart legend dot colors are swapped vs actual line colors
+    //   8. Scatter plot has no year legend
+    // ========================================================================
+
+    // ========================================================================
     // FRED Data (monthly observations, Jan 2020 - Dec 2025)
     // ========================================================================
 

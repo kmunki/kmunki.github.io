@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 12
 title: "Owl in Daylight"
 permalink: /fiction/violet/chapter-12/

@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 23
 title: "To the Floating City"
 permalink: /fiction/violet/chapter-23/

@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 58
 title: "Crane-Dragon Duel"
 permalink: /fiction/violet/chapter-58/

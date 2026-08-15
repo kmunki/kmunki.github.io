@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 50
 title: "Ghul"
 permalink: /fiction/violet/chapter-50/

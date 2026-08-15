@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 30
 title: "Free Beasts"
 permalink: /fiction/violet/chapter-30/

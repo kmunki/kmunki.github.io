@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 57
 title: "Bardo"
 permalink: /fiction/violet/chapter-57/

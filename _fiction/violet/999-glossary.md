@@ -1,206 +1,138 @@
 ---
-layout: minimal
+layout: violet
 title: "Glossary of Terms"
 permalink: /fiction/violet/glossary/
 collection: fiction
-series: violet
+reference: true
 order: 999
 published: true
 ---
 
-<article class="glossary">
-    <header class="glossary-header">
-        <div class="novel-title-container">
-            <a href="/fiction/violet/" class="novel-title">Violet</a>
-        </div>
-        <h1 class="glossary-title">Glossary of Terms</h1>
-    </header>
-
-<div class="glossary-content" markdown="1">
+<div class="prose-wrap" markdown="1">
+<p class="glossary-note"><em>Draft definitions — being reviewed</em></p>
 
 ## Agar
 
-[To be expanded]
-
-## Arcology
-
-[To be expanded]
+The viscous, amber-red gel that rebuilt the post-war world: originally a bacterial growth medium, refined after the Biological Revolution into a substance that accelerates healing and underwrites the economies of the arcologies that produce it. It is precious and unevenly distributed — nations negotiate, and sometimes fight, over the supply.
 
 ## Arachnoweave
 
-[To be expanded]
+A woven fibre that seizes rigid under impact — a treated window turns to opaque webbing rather than shattering — used in tactical vests, and, for those who can afford it, in formalwear that converts to fighting gear with a tuck and a clip.
+
+## Arcology
+
+A self-contained, city-sized bubble settlement, many built in a panic during the Long War as refuges from the plagues and fighting. Most were abandoned or lost to the Wilds; the ones that survive are treasured for their populations and as the primary sources of agar.
 
 ## Asura
 
-Genetically enhanced individual. Process is random and highly dangerous, with only one in three surviving, and fewer than one in ten gaining any meaningful benefit, with many others ending up netting out at zero, with the risks and benefits balancing. Used as top level assassins by the governments able to acquire and keep them.
+A genetically enhanced human. The transformation is rare and violent — roughly one in three candidates survive it, and fewer than one in ten gain any real advantage from it, with most others netting out at zero. Surviving asura become extraordinary operatives, prized (and feared) as elite assassins by the few governments able to acquire and control them.
+
+## Busaw
+
+A monstrous war-relic bioweapon: a fungal-viral infection that overtakes a human host, driving it to consume calories, usually by killing and dragging off anyone nearby, while its body mutates and ruptures under runaway growth. Other characters name the same thing differently by culture — a hungry ghost or *preta*, a graveyard-feasting *ghūl*, a wendigo — but it is not undead, and its attacks don't create more of its kind. It is simply an engineered killing machine.
 
 ## Continuum
 
-[To be expanded]
+The loose alliance of nations strung along the Great Ocean — Koryo among them — bound by the postwar treaties of the Peace and led, nominally, by a rotating Chief Magistrate. By the novel's present its cohesion is fraying; more than one character says the Continuum "is not what it once was."
+
+## Crane-Dragon Duel
+
+An archaic dueling tradition, barely remembered even by the Koryo court, by which a royal may challenge for the throne between Selection and enthronement. It has two parts: an unarmed physical contest under traditional kumite rules, and an intellectual contest on a topic chosen by the one being challenged.
+
+## Ectogen
+
+An artificial-womb pod — a "pseudo-uterus" — used to gestate new citizens outside the body. Arcologies run whole halls of them, and the practice underlies more than one nation's breeding programs, secretive or otherwise.
+
+## Edge-lands
+
+The contested frontier between settled nations and the Wilds proper — not reclaimed civilization, but not outright hostile wilderness either. It's where nations like Koryo fight to hold ground, and where they do their diplomacy with isolated arcologies.
 
 ## Fusion
 
-A fusion of multiple brains in a suspension fluid. Result is a hive mind able to come to a shared consensus while maintaining a kind of individuality among their thoughts. Capable of the best collective thinking has to offer, are also somewhat insane, given their general lose of body. To correct for this, are given proxies, drones, or representatives. These are individuals who connect while still possessing a full body. Versions of a Mind where all minds have a body as well do exist, though several have resulted in particularly strange events. It's generally best to have a Mind with a single proxy body.
+Multiple minds joined into a single consciousness, capable of shared, consensus-driven thought while retaining traces of individual identity. Full Fusions are traditionally housed as brains in a suspension fluid and given a proxy body or drone to offset the disorientation of no longer having a body of one's own — though the form a Fusion takes can vary considerably.
 
-## Hybrid
+## Koryo / New Joseon Dynasty
 
-Any animal mixed with another. Generally a combination of multiple non-human animals and a few human traits, often to allow speech and higher order thinking. Examples encountered in the text are the Rat Kings, Baiji, Hawk, and scary thing in the ice. They are prolific in the world of Violet.
-
-"hùnghé" (混合) in Chinese carries several connotations depending on the context in which it is used. Here are some common connotations associated with "hùnghé":
-
-- **Blending and Mixing**: "Hùnghé" implies the idea of combining or mixing different elements or substances together. It suggests the merging or integration of diverse components to create a harmonious whole. This connotation is often associated with the blending of flavors in cooking, the mixing of colors in art, or the combination of ingredients in various contexts.
-
-- **Harmony and Unity**: "Hùnghé" can connote the concept of harmony and unity. It emphasizes the coming together of disparate elements in a balanced and unified manner. This connotation aligns with the idea of achieving a cohesive and coherent result by harmonizing different aspects or perspectives.
-
-- **Synthesis and Integration**: "Hùnghé" carries the connotation of synthesis and integration. It implies the process of incorporating and assimilating different ideas, concepts, or influences to create a new and comprehensive understanding or approach. This connotation is often present in fields like philosophy, culture, or technology where the blending of various perspectives leads to innovation and growth.
-
-- **Eclecticism**: "Hùnghé" can also suggest eclecticism or the inclusion of diverse elements from different sources or traditions. It signifies an openness to incorporating a range of ideas, practices, or styles, resulting in a rich and varied outcome.
-
-Overall, "hùnghé" connotes the notions of blending, harmony, unity, synthesis, and eclecticism. It represents the process of bringing together different elements in a cohesive and balanced manner, leading to a unified whole or a new and unique synthesis.
+Koryo is the Korean-peninsula nation-state ruled by the New Joseon Dynasty, the House of Yi. Its Viceroy is chosen periodically by Selection from among royal Progeny and trained Wards, and Koryo holds a seat — a weakening one, by the novel's present — among the nations of the Continuum.
 
 ## The Long War
 
-[To be expanded]
+The world-spanning conflict, kindled by the asura Ananda's plagues, that devastated the globe over generations. It produced the Wilds, the swarms, the arcologies, and the scavenged war-relic technology that still shapes the world; it ended with the treaties now called the Peace.
+
+## Mesh
+
+The world's wireless communications network, said to have started decades ago outside Nairobi with a young engineer's solar-powered router. It is now the invisible backbone of ordinary life — and, for spies, a convenient place to hide a data packet in plain sight.
 
 ## Ogumo
 
-Soldiers who have been fused into a symbiotic relationship with a bio-suit. As a result, they are substantially stronger and better soldiers. The suit slowly integrates with the brain of the wearer, making sustained usage of the suits dangerous. A Rakshasa is the permanent result of a suit worn too long. Removal of the suit is fatal. The effects also make the wearer substantially more willing to accept hierarchical guidance due to several swarm insect patterns integrated into the suit.
+Long War soldiers fused with a living bio-armor — the "war carapace" — that grows its own muscle, nerve and blood and slowly takes root in the wearer's spine. The longer it is worn the better it works and the less the wearer wants it off; once fully bonded, removal is fatal, and the suit consumes the person inside. Their manufacture was thought lost.
 
 ## Onzulu
 
-[To be expanded]
+An arcology-nation known as the City in the Mountain, allied with the Continuum and a trading power in its own right. Its ambassadors and outside representatives are drawn from an internal faction, the Cult of the Outer World, which alone is permitted to leave the arc.
 
 ## Osso-ceramic
 
-[To be expanded]
+A known, hard bio-ceramic composite material, light and strong enough that an entire weapon — not just a barrel or slide — can be built from it.
 
 ## The Peace
 
-[To be expanded]
+The treaty era following the Long War's official end — properly, the Accords. Despite the name it never stopped killing: nation-on-nation war went underground into assassination, proxy conflict, and terrorism instead, and by the novel's present it is visibly failing.
 
 ## The Revolutions
 
-[To be expanded]
+The turbulent political upheavals — a First and a Second — that followed the Accords, as the covert power struggles of the early Shadow hardened into open contests, first between nations, later between the newly ascendant sovereign corporations.
 
 ## Sapa
 
-[To be expanded]
+The Inka's rulers — invisible, invulnerable, all-commanding, and rarely discussed. Where other nations argue loudly about how life should be organized, the Inka simply live under the Sapa's direction, and swear by them ("Sapa and serpent feathers").
+
+## Scorwev
+
+An insectoid war-relic swarm species, borrowing traits from across the exoskeletal world and built for scorched-earth warfare: burrow, sting, tear, stun, inject, replicate. Anything organic becomes food; everything else gets shredded.
 
 ## The Shadow
 
-[To be expanded]
+The long, dark decades after the Long War's fighting stopped, when the war's horrors lingered as both literal wreckage — war-relics, swarms, feral creatures — and as a psychological weight carried by everyone who lived through it.
+
+## Shi bu shi / The Coin
+
+*Shi bu shi* — "is it, is it not" — is a ceremonial coin flip used to hand a genuinely difficult decision to chance; once invoked, the result is treated as final. The coin itself carries deeper meaning for the secretive Society, who read it as a cousin to the Yi Ching, the chakana, the dharmachakra, and the taijitu — another culture's symbol for the same encounter with fate.
+
+## The Society
+
+A secretive, very old organization — in full, the Sadat Al-Hazi, "Masters of Luck" — whose long-running project of engineering luck through selective breeding and embryo programs surfaces at the edges of more than one nation's history. Characters who brush against it are rarely sure how far its reach extends.
 
 ## Sovereignty
 
-[To be expanded]
+The legal status the Violet Corporation controversially declares for itself: an independent, self-governing nation of citizen-employees, recognized (however uneasily) by the world's existing powers. It unsettles the assumption that only nation-states get to exist that way.
+
+## Swarm
+
+The general term for a self-sustaining war-relic bio-weapon collective — scorwevs are one kind — that roams the Wilds on pure instinct: consume, replicate, preserve the swarm, destroy anything else. Individuals within a swarm come and go, but the swarm itself persists.
 
 ## Uplift
 
-[To be expanded]
+Two meanings. As a proper noun, Rift Valley Uplift is the biotech industry's annual gathering in Nairobi, where the world's corporations unveil their newest work. As a biological term, uplift is the raising of non-human animals toward human-level mind — the process behind hybrids, and, at its rare extreme, the singular "uplifted" beings that are closer to legend than to hybrids.
 
 ## War-relic
 
-Any technology left over from the war no longer in regular use. Highly coveted because they are often dangerous, powerful, and the knowledge or will or scale of production required to reproduce them has been lost.
+Any surviving technology or weapon from the Long War no longer in general production. War-relics are fiercely sought after, since the knowledge, will, or industrial capacity needed to reproduce most of them no longer exists — and because they're often as dangerous as they are powerful.
 
-## Wendigo
+## Ward / Progeny / Selection
 
-An expression of a specific infection designed to cause horror in enemies. After taking over a human host, the fungo-virus generates a rabies and cordycepts like infection while also modifying the body. The creature (what remains is no longer human) then consumes as many calories as possible, usually by killing other nearby humans and dragging them off to be eaten. During this time rapid growth and mutation occurs, so rapidly that the skin often bursts or elements misform. The result is a constantly bleeding, misshapen, hulk of a creature that cannot be reasoned with. It's attacks do not create new ghuls. It is not a zombie. It is merely a killing machine.
+The New Joseon choose their royals rather than breed them. Progeny are selected as embryos and raised as princes and princesses; Wards, like Hye, are children found later — plucked from ordinary villages when signs of excellence emerge — and raised alongside them under a Rearer. Both are royals, but a Ward's traditional ceiling is Vizier, not the throne. Selection is the periodic process by which the royals vote one of their own in as Viceroy.
 
-## Zuqqum
+## The Wilds
 
-[To be expanded]
+The vast, largely uninhabitable expanse of mutated ecosystems and war-mutated life left behind by the Long War, covering roughly half the world's landmass. Swarms, hybrids, and worse roam it; the scattered arcologies and edge-lands that persist within or beside it are the exception, not the rule.
+
+## Yi Ching
+
+A divinatory practice — cast the way its real-world namesake is, with a bundle of yarrow sticks — consulted by the New Joseon royal line at moments of real consequence. Tradition credits it with shaping pivotal succession decisions, including the very policy that created the Progeny and Ward system.
+
+## Zaqqum
+
+A collective of many minds preserved together in agar in a facility deep in the Siberian Wilds, speaking through a single embodied Host — Kurku, the Uyasimi. Ancient, unstable, and formidably informed. (Spelled Zuqqum in a few passages; this glossary follows the majority spelling and the Personages page.)
 
 </div>
-
-</article>
-
-<style>
-    .glossary {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 2rem 0;
-        font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-    }
-
-    .glossary-header {
-        text-align: center;
-        margin-bottom: 3rem;
-        padding-bottom: 2rem;
-        border-bottom: 1px solid #eee;
-    }
-
-    .novel-title-container {
-        margin-bottom: 1.5rem;
-    }
-
-    .novel-title {
-        font-size: 1.1rem;
-        display: inline-block;
-    }
-
-    .glossary-title {
-        font-size: 2.2rem;
-        font-weight: 400;
-        margin: 0;
-        line-height: 1.2;
-    }
-
-    .glossary-content {
-        font-size: 1.05rem;
-        line-height: 1.7;
-    }
-
-    .glossary-content h2 {
-        font-size: 1.5rem;
-        font-weight: 600;
-        margin: 2.5rem 0 1rem 0;
-        padding-top: 1.5rem;
-        border-top: 1px solid #f0f0f0;
-        color: #222;
-    }
-
-    .glossary-content h2:first-of-type {
-        border-top: none;
-        margin-top: 0;
-        padding-top: 0;
-    }
-
-    .glossary-content p {
-        margin-bottom: 1.5rem;
-        color: #444;
-    }
-
-    /* Placeholder terms */
-    .glossary-content p:has(> em) {
-        color: #999;
-        font-style: italic;
-    }
-
-    /* Lists within definitions */
-    .glossary-content ul {
-        margin: 1rem 0 1.5rem 2rem;
-    }
-
-    .glossary-content li {
-        margin-bottom: 0.75rem;
-        line-height: 1.6;
-    }
-
-    @media (max-width: 600px) {
-        .glossary {
-            padding: 1rem;
-        }
-
-        .glossary-title {
-            font-size: 1.8rem;
-        }
-
-        .glossary-content h2 {
-            font-size: 1.3rem;
-        }
-
-        .glossary-content ul {
-            margin-left: 1.5rem;
-        }
-    }
-</style>

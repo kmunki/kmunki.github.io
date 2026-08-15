@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 9
 title: "The Eye of the Swarm"
 permalink: /fiction/violet/chapter-09/
