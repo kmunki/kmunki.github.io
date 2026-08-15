@@ -45,7 +45,7 @@ published: true
 
 {%- assign seq = site.fiction | where_exp: "item", "item.series == 'violet'" | sort: "path" -%}
 {%- assign act_romans = "|I|II|III|IV|V" | split: "|" -%}
-{%- assign prologue = seq | where_exp: "item", "item.chapter == nil and item.act == nil" | first -%}
+{%- assign prologue = seq | where_exp: "item", "item.chapter == nil" | where_exp: "item", "item.act == nil" | first -%}
 {%- if prologue %}
 <div class="act-block prologue-block">
 <div class="act-heading">
@@ -54,11 +54,11 @@ published: true
 </div>
 {%- endif %}
 
-{%- assign act_pages = seq | where_exp: "item", "item.act and item.chapter == nil" -%}
+{%- assign act_pages = seq | where_exp: "item", "item.act != nil" | where_exp: "item", "item.chapter == nil" -%}
 {%- for act in act_pages %}
 {%- assign parts = act.title | split: ": " -%}
 {%- assign act_name = parts | slice: 1, parts.size | join: ": " -%}
-{%- assign act_chapters = seq | where_exp: "item", "item.chapter and item.act == act.act" -%}
+{%- assign act_chapters = seq | where_exp: "item", "item.chapter != nil" | where: "act", act.act -%}
 <div class="act-block">
 <div class="act-heading">
 <h3><span class="act-num">Act {{ act_romans[act.act] }}</span> {{ act_name }}</h3>

@@ -43,7 +43,7 @@
   carry reference: true and are excluded.
 {% endcomment %}
 {% assign sequence = site.fiction | where_exp: "item", "item.series == 'violet'" | sort: "path" %}
-{% assign chapters_with_number = sequence | where_exp: "item", "item.chapter" %}
+{% assign chapters_with_number = sequence | where_exp: "item", "item.chapter != nil" %}
 {% assign total_chapters = chapters_with_number.size %}
 
 {% assign current_index = -1 %}
