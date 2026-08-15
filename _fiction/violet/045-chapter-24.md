@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 24
 title: "Bank, Hotel, Tickets"
 permalink: /fiction/violet/chapter-24/

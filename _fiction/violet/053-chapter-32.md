@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 32
 title: "The High Priestess"
 permalink: /fiction/violet/chapter-32/

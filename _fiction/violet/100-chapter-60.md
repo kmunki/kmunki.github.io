@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 60
 title: "Enthronement"
 permalink: /fiction/violet/chapter-60/

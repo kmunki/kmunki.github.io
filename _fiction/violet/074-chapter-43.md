@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 43
 title: "The Chamber of Harmonic Discord"
 permalink: /fiction/violet/chapter-43/

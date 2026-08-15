@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 54
 title: "The Cuckoo"
 permalink: /fiction/violet/chapter-54/

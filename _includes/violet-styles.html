@@ -1,0 +1,660 @@
+<style>
+/* =========================================================================
+   Violet — shared stylesheet for every page in the novel.
+   Cover → interior: the landing page is the cover (dark hero art); every
+   other page is the interior of the book (one warm paper surface, one
+   serif, one accent). Respects prefers-color-scheme automatically.
+   ========================================================================= */
+
+/* ---- Reset -------------------------------------------------------------- */
+.violet, .violet *, .violet *::before, .violet *::after {
+    box-sizing: border-box;
+}
+.violet {
+    margin: 0;
+}
+.violet img { max-width: 100%; height: auto; display: block; }
+.violet h1, .violet h2, .violet h3, .violet h4 { margin: 0; }
+.violet p { margin: 0 0 1.25em 0; }
+.violet ol, .violet ul { margin: 0; padding: 0; }
+
+/* ---- Design tokens -------------------------------------------------------
+   Light (paper) is the default. Dark follows the OS preference only —
+   there is no manual toggle. */
+:root {
+    --v-paper: #faf6ef;
+    --v-ink: #1f1a24;
+    --v-muted: #6e6472;
+    --v-rule: #e6dfd6;
+    --v-accent: #6b3fa0;
+    --v-accent-soft: #efe7f7;
+
+    --v-serif: Charter, "Iowan Old Style", Georgia, Cambria, serif;
+    --v-mono: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --v-paper: #120f18;
+        --v-ink: #ebe4f0;
+        --v-muted: #a89cb0;
+        --v-rule: #2c2436;
+        --v-accent: #b47cc7;
+        --v-accent-soft: #221a2c;
+    }
+}
+
+/* ---- Base page shell ------------------------------------------------- */
+html:has(body.violet) { overflow-x: hidden; }
+
+body.violet {
+    background: var(--v-paper);
+    color: var(--v-ink);
+    font-family: var(--v-serif);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+
+.violet a {
+    color: var(--v-accent);
+    text-decoration: none;
+}
+
+.violet :focus-visible {
+    outline: 2px solid var(--v-accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+}
+
+.violet .skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 100;
+    background: var(--v-accent);
+    color: var(--v-paper);
+    padding: 0.75em 1.25em;
+    font-family: var(--v-mono);
+    font-size: 0.85rem;
+}
+.violet .skip-link:focus {
+    left: 1rem;
+    top: 1rem;
+}
+
+.violet .eyebrow {
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--v-muted);
+    margin: 0 0 0.75em 0;
+}
+
+/* ---- Top bar (interior pages) ------------------------------------------ */
+.violet .topbar {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 1.5rem 1.5rem 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: var(--v-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.03em;
+}
+.violet .topbar a {
+    color: var(--v-muted);
+    text-decoration: none;
+}
+.violet .topbar a:hover,
+.violet .topbar a:focus-visible {
+    color: var(--v-accent);
+}
+
+/* ---- Interior header block ---------------------------------------------- */
+.violet .page-header {
+    max-width: 38rem;
+    margin: 3rem auto 2.5rem auto;
+    padding: 0 1.5rem;
+    text-align: center;
+}
+.violet .page-header .eyebrow {
+    text-align: center;
+}
+.violet .page-title {
+    font-family: var(--v-serif);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    font-size: 2rem;
+    line-height: 1.25;
+}
+.violet .position-label {
+    margin: 0.9em 0 0 0;
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    color: var(--v-muted);
+    text-transform: uppercase;
+}
+
+/* ---- Prose (chapter / act / prologue body content) ---------------------- */
+.violet .prose-wrap {
+    max-width: 38rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.75;
+}
+.violet .prose-wrap p {
+    margin-bottom: 1.4em;
+    text-align: left;
+    hyphens: none;
+}
+.violet .prose-wrap a {
+    text-underline-offset: 0.15em;
+}
+.violet .prose-wrap a:hover {
+    text-decoration: underline;
+}
+.violet .prose-wrap em { font-style: italic; }
+.violet .prose-wrap strong { font-weight: 600; }
+
+/* Epigraphs — act pages and the prologue */
+.violet .epigraph {
+    border-left: 2px solid var(--v-rule);
+    margin: 0 0 2.5rem 0;
+    padding: 0.25rem 0 0.25rem 1.5rem;
+    color: var(--v-muted);
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+.violet .epigraph p { margin-bottom: 1em; }
+.violet .epigraph footer {
+    margin-top: 1em;
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    font-style: normal;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--v-muted);
+}
+.violet .epigraph + .epigraph { margin-top: -1.5rem; }
+
+.violet .prologue-epigraph {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.9;
+    color: var(--v-ink);
+    font-style: italic;
+    border: none;
+    padding: 0;
+}
+
+/* "Begin →" CTA on act / prologue pages */
+.violet .begin-cta {
+    text-align: center;
+    margin-top: 2.5rem;
+}
+.violet .begin-cta a {
+    display: inline-block;
+    font-family: var(--v-serif);
+    font-size: 1.05rem;
+    padding: 0.85em 1.9em;
+    border: 1px solid var(--v-accent);
+    border-radius: 3px;
+    color: var(--v-accent);
+    transition: background 0.15s ease, color 0.15s ease;
+}
+.violet .begin-cta a:hover {
+    background: var(--v-accent);
+    color: var(--v-paper);
+}
+
+/* ---- Bottom nav ----------------------------------------------------------- */
+.violet .bottom-nav {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem 1.5rem;
+    border-top: 1px solid var(--v-rule);
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 1rem;
+    font-family: var(--v-mono);
+    font-size: 0.8rem;
+}
+.violet .bottom-nav.contents-only {
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
+.violet .bottom-nav a {
+    color: var(--v-muted);
+    line-height: 1.4;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+.violet .bottom-nav .nav-kicker {
+    font-family: var(--v-mono);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--v-muted);
+}
+.violet .bottom-nav .nav-title {
+    font-family: var(--v-serif);
+    font-size: 1rem;
+    color: var(--v-ink);
+    line-height: 1.35;
+}
+.violet .bottom-nav .nav-chnum {
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    color: var(--v-muted);
+    margin-right: 0.15em;
+}
+.violet .bottom-nav a:hover .nav-title,
+.violet .bottom-nav a:focus-visible .nav-title { color: var(--v-accent); }
+.violet .bottom-nav .nav-pos {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    text-transform: none;
+    color: var(--v-muted);
+}
+.violet .bottom-nav a:hover,
+.violet .bottom-nav a:focus-visible {
+    color: var(--v-accent);
+}
+.violet .nav-prev { text-align: left; justify-self: start; }
+.violet .nav-next { text-align: right; justify-self: end; }
+.violet .nav-contents {
+    justify-self: center;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    text-align: center;
+    align-items: center;
+}
+
+/* ---- Footer --------------------------------------------------------------- */
+.violet .violet-footer {
+    text-align: center;
+    padding: 2.5rem 1.5rem 3.5rem 1.5rem;
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.03em;
+    color: var(--v-muted);
+}
+.violet .violet-footer a { color: var(--v-muted); text-decoration: underline; }
+.violet .violet-footer a:hover { color: var(--v-accent); }
+
+/* =========================================================================
+   Landing page
+   ========================================================================= */
+.violet-landing .hero {
+    position: relative;
+    width: 100%;
+    height: 52vh;
+    min-height: 340px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0a0514;
+}
+.violet-landing .hero img.hero-image {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 35%;
+}
+.violet-landing .hero-wordmark {
+    position: relative;
+    z-index: 2;
+    padding: 1.5rem;
+}
+.violet-landing .hero-wordmark img {
+    max-width: 420px;
+    width: 78%;
+    height: auto;
+    filter: drop-shadow(0 4px 18px rgba(0, 0, 0, 0.45));
+}
+
+.violet-landing .landing-body {
+    max-width: 38rem;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 0 1.5rem;
+}
+
+.violet-landing .jacket p {
+    font-size: 1.125rem;
+    line-height: 1.75;
+    margin-bottom: 1.4em;
+}
+.violet-landing .jacket .meta-line {
+    font-family: var(--v-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.02em;
+    color: var(--v-muted);
+    font-style: normal;
+    margin-top: 1.5rem;
+}
+
+.violet-landing .cta-block {
+    text-align: center;
+    margin: 2.5rem 0 1rem 0;
+}
+.violet-landing .btn-primary {
+    display: inline-block;
+    font-family: var(--v-serif);
+    font-size: 1.15rem;
+    font-weight: 500;
+    padding: 0.9em 2.2em;
+    background: var(--v-accent);
+    color: var(--v-paper);
+    border-radius: 3px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.violet-landing .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(107, 63, 160, 0.28);
+}
+.violet-landing .continue-line,
+.violet-landing .meta-line {
+    text-align: center;
+}
+.violet-landing .continue-line {
+    margin: 0.9rem 0 0 0;
+    font-size: 0.95rem;
+    color: var(--v-muted);
+}
+.violet-landing .continue-line a {
+    color: var(--v-accent);
+}
+.violet-landing .continue-line a:hover { text-decoration: underline; }
+.violet-landing .meta-line {
+    margin: 1.75rem 0 0 0;
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+    color: var(--v-muted);
+    text-align: center;
+}
+
+.violet-landing #contents {
+    max-width: 46rem;
+    margin: 4rem auto 0 auto;
+    padding: 3rem 1.5rem 0 1.5rem;
+    border-top: 1px solid var(--v-rule);
+    scroll-margin-top: 1.5rem;
+}
+.violet-landing #contents > .section-eyebrow {
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--v-muted);
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.violet-landing .prologue-link {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    font-family: var(--v-mono);
+    font-size: 0.9rem;
+}
+.violet-landing .prologue-link a {
+    color: var(--v-ink);
+    border-bottom: 1px solid var(--v-accent);
+}
+
+.violet-landing .act-block { margin-bottom: 2.75rem; }
+.violet-landing .act-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    border-bottom: 1px solid var(--v-rule);
+    padding-bottom: 0.6rem;
+    margin-bottom: 1rem;
+}
+.violet-landing .act-heading h3 {
+    font-family: var(--v-serif);
+    font-weight: 500;
+    font-size: 1.2rem;
+    letter-spacing: -0.01em;
+}
+.violet-landing .act-heading a.act-epigraph-link {
+    font-family: var(--v-mono);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--v-muted);
+    white-space: nowrap;
+}
+.violet-landing .act-heading a.act-epigraph-link:hover { color: var(--v-accent); }
+
+.violet-landing .chapter-list {
+    list-style-position: outside;
+    padding-left: 2.4em;
+}
+@media (min-width: 760px) {
+    .violet-landing .chapter-list {
+        column-count: 2;
+        column-gap: 3rem;
+    }
+    .violet-landing .chapter-list li { break-inside: avoid; }
+}
+.violet-landing .act-heading h3 .act-num {
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--v-muted);
+    margin-right: 0.6em;
+    vertical-align: 0.15em;
+}
+.violet-landing .prologue-block .act-heading { border-bottom: 0; padding-bottom: 0; margin-bottom: 0; }
+.violet-landing .prologue-block h3 a { color: var(--v-ink); }
+.violet-landing .prologue-block h3 a:hover { color: var(--v-accent); }
+.violet-landing .chapter-list li {
+    font-size: 1rem;
+    line-height: 1.65;
+    padding: 0.28em 0;
+}
+.violet-landing .chapter-list li::marker {
+    font-family: var(--v-mono);
+    font-size: 0.8rem;
+    color: var(--v-muted);
+}
+.violet-landing .chapter-list a {
+    color: var(--v-ink);
+}
+.violet-landing .chapter-list a:hover {
+    color: var(--v-accent);
+    text-decoration: underline;
+}
+
+.violet-landing .reference-row {
+    max-width: 46rem;
+    margin: 3.5rem auto 0 auto;
+    padding: 2.5rem 1.5rem;
+    border-top: 1px solid var(--v-rule);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem 2rem;
+    font-family: var(--v-mono);
+    font-size: 0.85rem;
+}
+.violet-landing .reference-row a { color: var(--v-ink); }
+.violet-landing .reference-row a:hover { color: var(--v-accent); text-decoration: underline; }
+
+/* =========================================================================
+   Front matter pages
+   ========================================================================= */
+
+/* Personages — two-column magazine list on desktop */
+.violet .format-note {
+    max-width: 38rem;
+    margin: 0 auto 2.5rem auto;
+    padding: 0 1.5rem;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--v-muted);
+}
+.violet .personages-columns {
+    max-width: 62rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem 1.5rem;
+    column-count: 1;
+    column-gap: 3rem;
+}
+.violet .faction-heading {
+    font-family: var(--v-mono);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--v-accent);
+    border-bottom: 1px solid var(--v-rule);
+    padding-bottom: 0.6rem;
+    margin: 2rem 0 1.1rem 0;
+    break-after: avoid;
+    break-inside: avoid;
+}
+.violet .faction-heading:first-child { margin-top: 0; }
+.violet .entry {
+    break-inside: avoid;
+    margin-bottom: 1.25rem;
+    font-size: 0.98rem;
+    line-height: 1.65;
+}
+.violet .entry p { margin-bottom: 0.15em; }
+.violet .entry strong {
+    display: block;
+    font-weight: 600;
+    color: var(--v-ink);
+}
+.violet .entry em {
+    display: block;
+    color: var(--v-muted);
+    font-style: italic;
+    font-size: 0.92em;
+}
+
+/* Timeline — real table, scrolls horizontally on mobile */
+.violet .table-scroll {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem 1.5rem;
+    overflow-x: auto;
+}
+.violet .table-scroll table {
+    width: 100%;
+    min-width: 34rem;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+.violet .table-scroll th {
+    font-family: var(--v-mono);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: var(--v-muted);
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--v-rule);
+}
+.violet .table-scroll td {
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--v-rule);
+    vertical-align: top;
+}
+.violet .table-scroll td:last-child { font-style: normal; }
+.violet .table-scroll td em { color: var(--v-muted); }
+.violet .table-scroll tr:last-child td { border-bottom: none; }
+
+/* World map */
+.violet .map-figure {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem 1.5rem;
+    text-align: center;
+}
+.violet .map-figure a { display: inline-block; }
+.violet .map-figure img {
+    border: 1px solid var(--v-rule);
+    border-radius: 4px;
+}
+.violet .map-figure figcaption {
+    margin-top: 1rem;
+    font-style: italic;
+    color: var(--v-muted);
+    font-size: 0.95rem;
+}
+.violet .map-figure .map-hint {
+    display: block;
+    margin-top: 0.5rem;
+    font-family: var(--v-mono);
+    font-size: 0.75rem;
+    font-style: normal;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--v-muted);
+}
+
+/* Glossary */
+.violet .glossary-note {
+    max-width: 38rem;
+    margin: 0 auto 2rem auto;
+    padding: 0 1.5rem;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--v-muted);
+}
+.violet .prose-wrap h2 {
+    font-family: var(--v-serif);
+    font-weight: 500;
+    font-size: 1.3rem;
+    letter-spacing: -0.01em;
+    margin: 2.25rem 0 0.75rem 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--v-rule);
+}
+.violet .prose-wrap h2:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+}
+
+/* =========================================================================
+   Responsive
+   ========================================================================= */
+@media (min-width: 46rem) {
+    .violet .personages-columns { column-count: 2; }
+}
+
+@media (max-width: 640px) {
+    .violet-landing .hero { height: 40vh; min-height: 260px; }
+    .violet-landing .hero-wordmark img { max-width: 320px; }
+
+    .violet .bottom-nav {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        text-align: center;
+        gap: 0.75rem;
+    }
+    .violet .nav-prev, .violet .nav-next { text-align: center; justify-self: center; }
+    .violet .nav-prev { order: 2; }
+    .violet .nav-contents { order: 1; }
+    .violet .nav-next { order: 3; }
+
+    .violet .page-title { font-size: 1.6rem; }
+}
+</style>

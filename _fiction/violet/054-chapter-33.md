@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 33
 title: "The Blade of Kahina"
 permalink: /fiction/violet/chapter-33/

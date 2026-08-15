@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 49
 title: "The Asura"
 permalink: /fiction/violet/chapter-49/

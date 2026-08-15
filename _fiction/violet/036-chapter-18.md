@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 18
 title: "The Persian"
 permalink: /fiction/violet/chapter-18/

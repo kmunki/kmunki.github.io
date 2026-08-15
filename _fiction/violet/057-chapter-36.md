@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 36
 title: "The Coin"
 permalink: /fiction/violet/chapter-36/

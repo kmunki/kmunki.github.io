@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 11
 title: "War Weaving"
 permalink: /fiction/violet/chapter-11/

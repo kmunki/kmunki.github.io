@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 8
 title: "Brave New World"
 permalink: /fiction/violet/chapter-08/

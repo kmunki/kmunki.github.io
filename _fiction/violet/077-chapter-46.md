@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 46
 title: "Saṃsāra"
 permalink: /fiction/violet/chapter-46/

@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 26
 title: "The Railroad of Bones"
 permalink: /fiction/violet/chapter-26/

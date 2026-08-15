@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 1
 title: "The Ward, the Princess, and the Sifu"
 permalink: /fiction/violet/chapter-01/

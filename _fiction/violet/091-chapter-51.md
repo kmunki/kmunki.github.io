@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 51
 title: "Busaw"
 permalink: /fiction/violet/chapter-51/

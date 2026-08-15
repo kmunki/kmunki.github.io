@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 48
 title: "Naraka"
 permalink: /fiction/violet/chapter-48/

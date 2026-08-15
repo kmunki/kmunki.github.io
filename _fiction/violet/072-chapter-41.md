@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 41
 title: "Old Friends"
 permalink: /fiction/violet/chapter-41/

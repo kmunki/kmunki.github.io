@@ -1,8 +1,9 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 44
-title: "The Residential Pavillion of Global Serenity"
+title: "The Residential Pavilion of Global Serenity"
 permalink: /fiction/violet/chapter-44/
 act: 4
 date: November 02, 2025

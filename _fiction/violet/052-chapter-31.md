@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 31
 title: "Legendary Weapons"
 permalink: /fiction/violet/chapter-31/

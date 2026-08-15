@@ -1,8 +1,9 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 42
-title: "The Reliquery and the Vial"
+title: "The Reliquary and the Vial"
 permalink: /fiction/violet/chapter-42/
 act: 4
 date: November 02, 2025

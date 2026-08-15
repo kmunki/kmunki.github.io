@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 7
 title: "The Organs of the Olgoi"
 permalink: /fiction/violet/chapter-07/

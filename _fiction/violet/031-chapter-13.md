@@ -1,8 +1,9 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 13
-title: "Narobi"
+title: "Nairobi"
 permalink: /fiction/violet/chapter-13/
 act: 2
 date: November 02, 2025

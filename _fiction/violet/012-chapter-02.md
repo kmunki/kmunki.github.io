@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 2
 title: "Jack Brand, International Man of Mystery"
 permalink: /fiction/violet/chapter-02/

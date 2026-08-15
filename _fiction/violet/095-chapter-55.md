@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 55
 title: "Conjunction"
 permalink: /fiction/violet/chapter-55/

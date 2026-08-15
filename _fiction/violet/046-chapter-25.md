@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 25
 title: "Undercurrent"
 permalink: /fiction/violet/chapter-25/

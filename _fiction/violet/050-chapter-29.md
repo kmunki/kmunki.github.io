@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 29
 title: "Treasures of the Sifu"
 permalink: /fiction/violet/chapter-29/

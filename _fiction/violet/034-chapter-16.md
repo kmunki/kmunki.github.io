@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 16
 title: "Uplift"
 permalink: /fiction/violet/chapter-16/

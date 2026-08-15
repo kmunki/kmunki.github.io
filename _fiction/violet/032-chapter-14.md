@@ -1,6 +1,7 @@
 ---
 layout: chapter
 novel: Violet
+series: violet
 chapter: 14
 title: "Coin Flip"
 permalink: /fiction/violet/chapter-14/
