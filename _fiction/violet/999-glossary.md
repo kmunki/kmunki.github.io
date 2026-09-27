@@ -29,7 +29,7 @@ A genetically enhanced human. The transformation is rare and violent — roughly
 
 ## Busaw
 
-A monstrous war-relic bioweapon: a fungal-viral infection that overtakes a human host, driving it to consume calories, usually by killing and dragging off anyone nearby, while its body mutates and ruptures under runaway growth. Other characters name the same thing differently by culture — a hungry ghost or *preta*, a graveyard-feasting *ghūl*, a wendigo — but it is not undead, and its attacks don't create more of its kind. It is simply an engineered killing machine.
+A monstrous war-relic bioweapon: a fungal-viral infection that overtakes a human host, driving it to consume calories, usually by killing and dragging off anyone nearby, while its body mutates and ruptures under runaway growth. Other characters name the same thing differently by culture — a hungry ghost or *preta*, a graveyard-feasting *ghūl* — but it is not undead, and its attacks don't create more of its kind. It is simply an engineered killing machine.
 
 ## Continuum
 
@@ -101,7 +101,7 @@ The long, dark decades after the Long War's fighting stopped, when the war's hor
 
 ## The Society
 
-A secretive, very old organization — in full, the Sadat Al-Hazi, "Masters of Luck" — whose long-running project of engineering luck through selective breeding and embryo programs surfaces at the edges of more than one nation's history. Characters who brush against it are rarely sure how far its reach extends.
+A secretive, very old organization — in full, the Sadat al-Hazz, "Masters of Luck" — whose long-running project of engineering luck through selective breeding and embryo programs surfaces at the edges of more than one nation's history. Characters who brush against it are rarely sure how far its reach extends.
 
 ## Sovereignty
 
@@ -133,6 +133,6 @@ A divinatory practice — cast the way its real-world namesake is, with a bundle
 
 ## Zaqqum
 
-A collective of many minds preserved together in agar in a facility deep in the Siberian Wilds, speaking through a single embodied Host — Kurku, the Uyasimi. Ancient, unstable, and formidably informed. (Spelled Zuqqum in a few passages; this glossary follows the majority spelling and the Personages page.)
+A collective of many minds preserved together in agar in a facility deep in the Siberian Wilds, speaking through a single embodied Host — Kurku, the Uyasimi. Ancient, unstable, and formidably informed.
 
 </div>

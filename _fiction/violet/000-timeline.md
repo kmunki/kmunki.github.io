@@ -25,7 +25,7 @@ published: true
 |  |  |  |  | Uplift Rebellions, Abandonment of the Wilds |
 |  |  |  |  | Revolutionary Periods, first Corporate Wars, War-Relic Rush begins |
 |  |  |  |  | **The Shadow** |
-| 4695 | 1997 | 1418 | 12.19.3 | Hyeon Bong-Cha Chosen as Ward |
+| 4695 | 1997 | 1418 | 12.19.3 | Hyeon Bong-cha Chosen as Ward |
 | 4712 | 2014 | 1435 | 13.0.1 | Violet Corporation declares itself a sovereignty |
 
 </div>
