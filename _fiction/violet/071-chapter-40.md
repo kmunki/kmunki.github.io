@@ -16,13 +16,13 @@ Muggy evening breeze floated through Li Xing’s private office, the baffles in 
 
 “True, but it will be hard to work if there is a war on. These are some angry headlines.” She tapped a stack of newspapers from every continent.
 
-“Miriam you forget,” said Li Xing, tapping her sheaf of reports square before setting it aside, “they will find a reason to stop us whether we give them one or not. We stepped on the tiger’s tail deliberately, directing their gaze where we choose.”
+“Miriam, you forget,” said Li Xing, tapping her sheaf of reports square before setting it aside, “they will find a reason to stop us whether we give them one or not. We stepped on the tiger’s tail deliberately, directing their gaze where we choose.”
 
- “I’ve never met a woman more interested in the spotlight for what it hid rather than what it showed.”
+“I’ve never met a woman more interested in the spotlight for what it hid rather than what it showed.”
 
 “On that, how goes our work offstage?”
 
-“Slow. The weakness is clear. Exploiting it is more than difficult. Agar has properties unlike anything I’ve seen, save perhaps water. It behaves strangely, defying dozens of rules. I understand more each day why its discovery was an accident, mistaken for an act of the divine. Not with ten-thousand scientists who knew such a thing was possible could we invent it. I used to scoff at the ‘Dust of the Gods’ theory. Less so now.”
+“Slow. The weakness is clear. Exploiting it is more than difficult. Agar has properties unlike anything I’ve seen, save perhaps water. It behaves strangely, defying dozens of rules. I understand more each day why its discovery was an accident, mistaken for an act of the divine. Not with ten thousand scientists who knew such a thing was possible could we invent it. I used to scoff at the ‘Dust of the Gods’ theory. Less so now.”
 
 “You won’t let me down, Miriam.”
 
@@ -34,7 +34,7 @@ A single rap on the door came before it opened.
 
 “It’s not Seong-ma,” said Hideyo, striding to the desk. “Hyeon. The sister. The Ward. The one with the old Sifu.” Her chest rose and fell, the forced steady-slow breath of someone trying to hide that they had been running.
 
-“The Lucky Child is the one who escaped?” said Miriam, almost laughing with surprise. “It cannot be a coincidence. The opposite, more plausibly. As good as evidence as we could hope. How—”
+“The Lucky Child is the one who escaped?” said Miriam, almost laughing with surprise. “It cannot be a coincidence. The opposite, more plausibly. As good evidence as we could hope for. How—”
 
 Li Xing held up a silencing hand.
 
@@ -44,43 +44,55 @@ Li Xing held up a silencing hand.
 
 “Save the evaluation, Hideyo. To the point, the Lucky One.”
 
-“Yes. Their destination was the original Penglai Island facility of all places. The Sifu *had been there before*. Our… associate there sent news. There is doubt.”
+“Yes. Their destination was the original Penglai facility of all places. The Sifu *had been there before*. Our… associate there sent news. There is doubt.”
 
 “Is this one of your Society?” Miriam asked.
 
 Li Xing nodded confirmation, her face compressed in thought. “In a sense, yes. Of that vein, but not our project. This is unfortunate. They are not our sanest member, Hideyo. Evidence?”
 
-“The Host invited them in, not realizing. The old woman, Advika…” Hideyo clenched her jaw and fists, speaking the name through her teeth. “She knew *shi bu shi*. Knew the coin. The Society.” 	Li Xing stiffened.
+“The Host invited them in, not realizing. The old woman, Advika…” Hideyo clenched her jaw and fists, speaking the name through her teeth. “She knew *shi bu shi*. Knew the coin. The Society.”
 
-“There is additional supposition from our friend. They believe,” Hideyo began, then stumbled, herself struggling with the idea. Composed, she continued. “The Zaqqum believes, based on that, that Advika is not only *an *asura, but *the *Asura.”
+Li Xing stiffened.
+
+“There is additional supposition from our friend. They believe,” Hideyo began, then stumbled, herself struggling with the idea. Composed, she continued. “The Zaqqum believes, based on that, that Advika is not only *an* asura, but *the* Asura.”
 
 “You can’t mean…” Miriam’s sentence trailed off as she became lost in her own thought.
 
 All sat stunned. Silent. Contemplating. Hideyo gripped the shoulder of her synthetic arm, knuckles white.
 
-Li Xing coughed, as if forcing out aspirated poison, then spoke, her voice flat, smothering a tremble. “I grasp, Hideyo, the weight of this, both in the abstract and for you, and you alone. You began, however, speaking of the Lucky One. What. Evidence?”
+Li Xing coughed, as if forcing out aspirated poison, then spoke, her voice flat, smothering a tremble. “I grasp, Hideyo, the weight of this, both in the abstract and for you, and you alone.”
+
+Hideyo did not answer. Her eyes, black to the rims, gave back nothing of the lamplight.
+
+“You told me once what color her eyes were,” said Li Xing. “The first year, when you still spoke of her. Violet.” She let the word lie on the desk between them. “She trained you. You have believed for forty years that you killed her.”
+
+Hideyo’s left hand still held her shoulder. The right, the white one, had no knuckles to whiten. It hung at her side and closed, one carapace plate ticking over the next, until it was a fist, and went on closing. Something in the wrist clicked.
+
+“I did,” said Hideyo.
+
+Li Xing held her gaze a moment longer, then let it go. “You began, however, speaking of the Lucky One. What. Evidence?”
 
 Hideyo closed her eyes, released her shoulder and a held breath.
 
-“The coin rolled on edge.”
+“The coin rolled on edge—and came to the mouse. It set it down for her.”
 
 In their decades together, Miriam had seen all sides of Li Xing. Tears of fury during their early trials and rejections. Ebullience and delight upon walking into this office for the first time. But never had she seen Li Xing go pale.
 
 “Kurku tried to claim her?”
 
-“Tried to claim both. The coin rolled to one of her own creations, a fusion, three mice. The girl had rescued it from expulsion. Set it down for her. Won their freedom, information, and passage home.”
+“Tried to claim both. It went instead to one of the Host’s own creations, a fusion, three mice. The girl had rescued it from expulsion. Won their freedom, information, and passage home.”
 
-Miriam looked between the two, desperately searching her memories. Damn their little cult. Li Xing had told her some of it early in their partnership, where the friendship took on the depth required to stand against the world and build something defiant. The rest she had pieced together from snatches of conversation and surreptitious research. This push, to collect, was but a subset of their shared goal, to build a true nation, the seed of all future civilization. Like so much before, she had allowed eccentricity where it dovetailed with ambition. Yet for all their reverence, it still felt fantastic, the yarn of a griot not the lodestar of a CEO. 
+Miriam looked between the two, desperately searching her memories. Damn their little cult. Li Xing had told her some of it early in their partnership, when the friendship took on the depth required to stand against the world and build something defiant. The rest she had pieced together from snatches of conversation and surreptitious research. This push, to collect, was but a subset of their shared goal, to build a true nation, the seed of all future civilization. Like so much before, she had allowed eccentricity where it dovetailed with ambition. Yet for all their reverence, it still felt fantastic, the yarn of a griot not the lodestar of a CEO.
 
-“Home?” Miriam asked. 
+“Home?” Miriam asked.
 
 “What information,” Li Xing added.
 
-Hideyo seemed to swallow bile. “They revealed we were behind the attack, our double plan to abduct the Lucky Child and install our cuckoo. The two had suspected sedition, but not our involvement. They honored the coin, and set Child and Asura on a path to the Grand Palace to up-end the enthronement.”
+Hideyo seemed to swallow bile. “They revealed we were behind the attack, our double plan to abduct the Lucky Child and install our cuckoo. The two had suspected sedition, but not our involvement. They honored the coin and set Child and Asura on a path to the Grand Palace to up-end the enthronement.”
 
-“That,” said Miriam, “is excellent evidence itself that we do not have this ‘lucky one.’ This sectary of yours—Zaqqum, Host, *acquaintance—*does not share our goals. I understand the reaction, that they would traduce us is no surprise, but not the product. Why tell *us* all this? The stoichiometry is in imbalance.”
+“That,” said Miriam, “is excellent evidence itself that we do not have this ‘lucky one.’ This sectary of yours—Zaqqum, Host, *acquaintance*—does not share our goals. I understand the reaction—that they would traduce us is no surprise—but not the product. Why tell *us* all this? The stoichiometry is in imbalance.”
 
-“It is, Miriam, the spotlight again. Traduce to produce trust. Perhaps, this *is* our luck,” said Li Xing, as if looking at future itself, just over the hidden horizon. “Hideyo, prepare your puppet, then join him. They are not expecting to be *expected*. In sharing their plan—”
+“It is, Miriam, the spotlight again. Traduce to produce trust. Kurku plays every side. Perhaps this *is* our luck,” said Li Xing, as if looking at the future itself, just over the hidden horizon. “Hideyo, prepare your puppet, then join him. They are not expecting to be *expected*. In sharing their plan—”
 
 “The Zaqqum turns a gift into a trap,” said Miriam.
 
@@ -90,7 +102,7 @@ Hideyo seemed to swallow bile. “They revealed we were behind the attack, our d
 
 “Li Xing, this is becoming absurd,” said Miriam. “We’ve got nearly the entire list. The development of Collapse and SenesCess are succeeding. Why would you put this all at risk?”
 
-“It is at risk *without *her,” said Li Xing. Then to Hideyo. “War-relics are authorized. Leverage the asura’s true history as a cover. No matter how vicious or brutal your method, the old asura will take the blame so long as everyone knows who she is. Go prepare your puppet. And find something that Asura Advika cannot kill so easily as ogumo. Something that truly punishes those who aid her.”
+“It is at risk *without* her,” said Li Xing. “She is not a talisman, Miriam. She is the germline.” Then she turned to Hideyo. “War-relics are authorized. Leverage the asura’s true history as a cover. No matter how vicious or brutal your method, the old asura will take the blame so long as everyone knows who she is. Go prepare your puppet. And find something that Asura Advika cannot kill so easily as ogumo. Something that truly punishes those who aid her.”
 
 “I have some ideas,” said the black-eyed asura.
 
@@ -98,9 +110,9 @@ Hideyo seemed to swallow bile. “They revealed we were behind the attack, our d
 
 “Miriam, you have other matters to attend. Our plan moves forward.”
 
-“Fueled by revenge and ambition.” 
+“Fueled by revenge and ambition.”
 
-“And what else but that,” asked Li Xing holding up a hand, pinky and ring fingers folded, “has driven you these long hard years, Miriam?”
+“And what else but that,” asked Li Xing, holding up a hand, pinky and ring fingers folded, “has driven you these long hard years, Miriam?”
 
 Miriam gaped, disbelieving. Hideyo looked on with relish.
 

@@ -36,7 +36,7 @@ published: true
     <p class="continue-line" id="continue-line" hidden>or pick up where you left off — <a id="continue-link" href="#"></a></p>
 </div>
 
-<p class="meta-line">Complete draft · about 120,000 words · Book One of a planned trilogy</p>
+<p class="meta-line">Revised draft · about 107,000 words · Book One of a planned trilogy</p>
 
 </div>
 

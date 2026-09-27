@@ -16,7 +16,7 @@ Li Xing smirked at her Master of Assassins, unlocked the door, and rolled hersel
 
 “The board?”
 
-“As we hoped. Vico took a minute but after that, it was almost contagious.”
+“As we hoped. Vico took a minute, but after that it was almost contagious.”
 
 “I’m not the only one with pheromones. Get one going, and it can be enough. Body language is subconscious too. Mirror neurons are hard to override. Like I said—”
 
@@ -38,11 +38,11 @@ Keyboard clacks and the electric hum-grunt of the terminal were the only sounds.
 
 Now it was Li Xing’s turn to be, in a rare moment, stunned.
 
-“Koryo,” Hideyo continued, “the records were—“
+“Koryo,” Hideyo continued. “The records were—”
 
 “I’ve seen them, don’t caveat it.”
 
-“We’re above the certainty threshold. Three researchers came to the same conclusion independently. It’s one of the current generation’s fledgelings. Two in particular stand out, both under the care of the same rearer. One thing to note—“
+“We’re above the certainty threshold. Three researchers came to the same conclusion independently. It’s one of the current generation’s fledgelings. Two in particular stand out, both under the care of the same rearer. One thing to note—”
 
 “We don’t know which?”
 
@@ -50,7 +50,7 @@ Now it was Li Xing’s turn to be, in a rare moment, stunned.
 
 “That’s”—Li Xing was nodding now, understanding—“that’s expected, to a degree.”
 
-She pushed herself back from the desk, looking up at Hideyo now not as her General, but as her long time friend and confidant.
+She pushed herself back from the desk, looking up at Hideyo now not as her Chief of Security, but as her longtime friend and confidant.
 
 “For a long time, I didn’t believe this project could be possible. Not that we couldn’t complete our part,” she said, gesturing at the terminal, “but that the theory could be true. Lucky Child…”
 
@@ -58,9 +58,9 @@ Hideyo nodded. Utopic thinking, eschatological fantasies, paradise on earth wish
 
 “What do you need? Can you get both?” Li Xing asked, cutting through her own digression.
 
-“The rearer is a former shade. A spy of some kind. Possibly former assassin. There was a moment where she almost made me.”
+“The rearer is a former shade. A spy of some kind, possibly an assassin. She nearly made my agent. I never saw her face; the palace keeps no cameras on the rearer’s hut.”
 
-“I doubt it. Still, an interesting choice for the old viceroy. Both Progeny?”
+“I doubt she saw anything. Still, an interesting choice for the old Viceroy. Both Progeny?”
 
 “No, both royals though. Very well trained. Passed the hardest of our vetting by far.”
 
@@ -72,13 +72,13 @@ Hideyo nodded. Utopic thinking, eschatological fantasies, paradise on earth wish
 
 “These two will be worth it.”
 
-“Force isn’t just a—“
+“Force isn’t just a—”
 
 “Li Xing, please.”
 
-The CEO put up her hands in placation. “You’re right, you’re right. You know the cost. You wouldn’t suggest it otherwise. But”—Hideyo went to protest, Li Xing overrode it—“*But, *you cannot be involved. If it goes wrong, and it could, even if it won’t, we *can’t *have it traceable. Not to you. Not to us.”
+The CEO put up her hands in placation. “You’re right, you’re right. You know the cost. You wouldn’t suggest it otherwise. But”—Hideyo went to protest; Li Xing overrode it—“*but*, you cannot be involved. If it goes wrong, and it could, even if it won’t, we *can’t* have it traceable. Not to you. Not to us.”
 
-“I already *went*. I need to be there. This tutor is more than—“
+“I already *went*. I need to be there. This tutor is more than—”
 
 “Hideyo, no.”
 
@@ -88,25 +88,25 @@ Li Xing closed her eyes and drew in a deep breath through her nose, her chest sw
 
 “*Shi bu shi*.”
 
-She reached into a pocket and produced a coin. Turning it in her hand, the light reflected across each exquisitely carved sides. On one, the white and black of the tiger and tortoise; contra, the blue-green and red of the dragon and phoenix. Pinching it at the center, she drew her finger along the edge, rotating it slowly, admiring the craft of the golden dragon carved into the circumference.
+She reached into a pocket and produced a coin. She turned it in her hand, and the light reflected across each exquisitely carved side. On one, the white and black of the tiger and tortoise; contra, the blue-green and red of the dragon and phoenix. Pinching it at the center, she drew her finger along the edge, rotating it slowly, admiring the craft of the golden dragon carved into the circumference.
 
 “Li Xing, this is not a time for chance.”
 
-“You know better than most that means it absolutely is. *Shi bu shi *can’t be challenged, so enough. Your flip. Call your side.”
+“You know better than most that means it absolutely is. *Shi bu shi* can’t be challenged, so enough. Your flip. Call your side.”
 
 “It’s always the same,” Hideyo said, stern.
 
 “Call it.”
 
-“Black and white.” 
+“Black and white.”
 
 Hideyo tossed the coin.
 
-The upwards arc of the spinning sphered coin caught the sun and threw it in blazing spirals around the room. Gravity pulled it home. This simple ceremony, the *shi bu shi, *yes or no, to be or not to be, had been repeated hundreds of times between them. Always major decisions, always at an impasse. An invitation from spacetime to ceed the difficult choice to a dalliance with chance. Each time, the asura snatched it out of the air and then ceremonially slapped it into her opposing palm. Hands pressed flat and presented to Li Xing, fate hidden between them, she would then nod her approval, *you may reveal our luck*.
+The upwards arc of the spinning coin caught the sun and threw it in blazing spirals around the room. Gravity pulled it home. This simple ceremony, the *shi bu shi*, yes or no, to be or not to be, had been repeated hundreds of times between them. Always major decisions, always at an impasse. An invitation from spacetime to cede the difficult choice to a dalliance with chance. Each time, the asura snatched it out of the air and then ceremonially slapped it into her opposing palm. Hands pressed flat and presented to Li Xing, fate hidden between them, she would then nod her approval, *you may reveal our luck*.
 
-Which is why both were surprised when, this time, the asura fumbled the grasp. Instead of capturing it in a curling fist, she knocked it away — the coin tumbled chaotically through the air, ecstatic sunlight  flashing, before hitting the carpeted floor, bouncing, rolling with little jumps; each hop a revolution over the uneven golden dragon’s back. The path of the mis-caught coin jogged and weaved; it wobbled, losing momentum, about to collide with the floor-to-ceiling window behind Li Xing, turning at the very last moment to rest, upright.
+Which is why both were surprised when, this time, the asura fumbled the grasp. Instead of capturing it in a curling fist, she knocked it away—the coin tumbled chaotically through the air, ecstatic sunlight flashing, before hitting the carpeted floor, bouncing, rolling with little jumps; each hop a revolution over the uneven golden dragon’s back. The path of the mis-caught coin jogged and weaved; it wobbled, losing momentum, about to collide with the floor-to-ceiling window behind Li Xing, turning at the very last moment to rest, upright.
 
-Moving with a stillness and caution, as if not trying to wake a resting panther, Li Xing turned her chair and then, with agonizing control, approached the coin. Hideyo mirrored. Bending to look, they saw the coin, nearly on edge, rested at a slight angle against the glass.
+Moving with a stillness and caution, as if not trying to wake a resting panther, Li Xing turned her chair and then, with agonizing control, approached the coin. Hideyo mirrored. Bending to look, they saw the coin, nearly on edge, resting at a slight angle against the glass.
 
 “The golden dragon edge is up.”
 
@@ -116,4 +116,4 @@ Li Xing looked at her friend in silence, not moving, for a time. A cloud passed 
 
 “Then we’ve decided,” she said, “force approved. You will not accompany.” Li Xing reached down and, with reverence, picked up the coin. She pressed it between her palms, bowed to it, and placed it into her pocket.
 
-She looked up, Hideyo was no longer there.
+She looked up. Hideyo was no longer there.
