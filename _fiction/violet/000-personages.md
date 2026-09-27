@@ -144,7 +144,7 @@ Underboss. Enforcer. Negotiator. Translator. Killer. *Of looming presences.*
 </div>
 
 <div class="entry" markdown="1">
-**Iskandara — Olokun Captain, The Chomba**
+**Iskandra — Olokun Captain, The *Chombo***
 Feathers easily and often ruffled. Runs a tight ship. Minds the flock. *Of relentless pursuits.*
 </div>
 
