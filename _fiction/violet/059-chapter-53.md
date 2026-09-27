@@ -5,6 +5,8 @@ series: violet
 chapter: 53
 title: "Crane-Dragon Duel"
 permalink: /fiction/violet/chapter-53/
+redirect_from:
+  - /fiction/violet/chapter-58/
 act: 5
 date: November 02, 2025
 ---

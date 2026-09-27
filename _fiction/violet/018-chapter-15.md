@@ -5,6 +5,9 @@ series: violet
 chapter: 15
 title: "Uplift"
 permalink: /fiction/violet/chapter-15/
+redirect_from:
+  - /fiction/violet/chapter-13/
+  - /fiction/violet/chapter-16/
 act: 2
 date: November 02, 2025
 ---

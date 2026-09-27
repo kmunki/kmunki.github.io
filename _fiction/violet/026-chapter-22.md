@@ -5,6 +5,9 @@ series: violet
 chapter: 22
 title: "To the Floating City"
 permalink: /fiction/violet/chapter-22/
+redirect_from:
+  - /fiction/violet/chapter-23/
+  - /fiction/violet/chapter-25/
 act: 3
 date: November 02, 2025
 ---

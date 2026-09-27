@@ -5,6 +5,8 @@ series: violet
 chapter: 35
 title: "The Chariot"
 permalink: /fiction/violet/chapter-35/
+redirect_from:
+  - /fiction/violet/chapter-39/
 act: 4
 date: November 02, 2025
 ---

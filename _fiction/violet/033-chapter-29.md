@@ -5,6 +5,8 @@ series: violet
 chapter: 29
 title: "The High Priestess"
 permalink: /fiction/violet/chapter-29/
+redirect_from:
+  - /fiction/violet/chapter-32/
 act: 3
 date: November 02, 2025
 ---

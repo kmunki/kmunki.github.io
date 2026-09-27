@@ -5,6 +5,8 @@ series: violet
 chapter: 23
 title: "Bank, Hotel, Tickets"
 permalink: /fiction/violet/chapter-23/
+redirect_from:
+  - /fiction/violet/chapter-24/
 act: 3
 date: November 02, 2025
 ---

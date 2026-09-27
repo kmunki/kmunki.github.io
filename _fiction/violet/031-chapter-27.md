@@ -5,6 +5,8 @@ series: violet
 chapter: 27
 title: "Free Beasts"
 permalink: /fiction/violet/chapter-27/
+redirect_from:
+  - /fiction/violet/chapter-30/
 act: 3
 date: November 02, 2025
 ---

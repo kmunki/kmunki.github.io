@@ -5,6 +5,8 @@ series: violet
 chapter: 38
 title: "Old Friends"
 permalink: /fiction/violet/chapter-38/
+redirect_from:
+  - /fiction/violet/chapter-41/
 act: 4
 date: November 02, 2025
 ---

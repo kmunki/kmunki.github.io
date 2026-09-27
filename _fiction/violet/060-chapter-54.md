@@ -5,6 +5,8 @@ series: violet
 chapter: 54
 title: "Grave Robbers"
 permalink: /fiction/violet/chapter-54/
+redirect_from:
+  - /fiction/violet/chapter-59/
 act: 5
 date: November 02, 2025
 ---

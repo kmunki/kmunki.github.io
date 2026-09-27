@@ -5,6 +5,10 @@ series: violet
 chapter: 47
 title: "Ghul"
 permalink: /fiction/violet/chapter-47/
+redirect_from:
+  - /fiction/violet/chapter-50/
+  - /fiction/violet/chapter-52/
+  - /fiction/violet/chapter-55/
 act: 5
 date: November 02, 2025
 ---

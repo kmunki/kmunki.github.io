@@ -5,6 +5,8 @@ series: violet
 chapter: 32
 title: "The Coin"
 permalink: /fiction/violet/chapter-32/
+redirect_from:
+  - /fiction/violet/chapter-36/
 act: 3
 date: November 02, 2025
 ---

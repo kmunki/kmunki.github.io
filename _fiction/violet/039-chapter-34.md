@@ -5,6 +5,8 @@ series: violet
 chapter: 34
 title: "The Quartermaster; The Coffin"
 permalink: /fiction/violet/chapter-34/
+redirect_from:
+  - /fiction/violet/chapter-38/
 act: 4
 date: November 02, 2025
 ---

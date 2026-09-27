@@ -5,6 +5,8 @@ series: violet
 chapter: 43
 title: "Saṃsāra"
 permalink: /fiction/violet/chapter-43/
+redirect_from:
+  - /fiction/violet/chapter-46/
 act: 4
 date: November 02, 2025
 ---

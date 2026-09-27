@@ -5,6 +5,9 @@ series: violet
 chapter: 26
 title: "Treasures of the Sifu"
 permalink: /fiction/violet/chapter-26/
+redirect_from:
+  - /fiction/violet/chapter-27/
+  - /fiction/violet/chapter-29/
 act: 3
 date: November 02, 2025
 ---

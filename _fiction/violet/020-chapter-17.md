@@ -5,6 +5,8 @@ series: violet
 chapter: 17
 title: "The Persian"
 permalink: /fiction/violet/chapter-17/
+redirect_from:
+  - /fiction/violet/chapter-18/
 act: 2
 date: November 02, 2025
 ---

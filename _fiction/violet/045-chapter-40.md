@@ -5,6 +5,8 @@ series: violet
 chapter: 40
 title: "The Chamber of Harmonic Discord"
 permalink: /fiction/violet/chapter-40/
+redirect_from:
+  - /fiction/violet/chapter-43/
 act: 4
 date: November 02, 2025
 ---

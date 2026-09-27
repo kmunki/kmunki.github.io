@@ -5,6 +5,8 @@ series: violet
 chapter: 46
 title: "The Asura"
 permalink: /fiction/violet/chapter-46/
+redirect_from:
+  - /fiction/violet/chapter-49/
 act: 5
 date: November 02, 2025
 ---

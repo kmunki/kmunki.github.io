@@ -5,6 +5,9 @@ series: violet
 chapter: 30
 title: "The Blade of Kahina"
 permalink: /fiction/violet/chapter-30/
+redirect_from:
+  - /fiction/violet/chapter-33/
+  - /fiction/violet/chapter-35/
 act: 3
 date: November 02, 2025
 ---

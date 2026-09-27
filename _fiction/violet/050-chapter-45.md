@@ -5,6 +5,8 @@ series: violet
 chapter: 45
 title: "Naraka"
 permalink: /fiction/violet/chapter-45/
+redirect_from:
+  - /fiction/violet/chapter-48/
 act: 4
 date: November 02, 2025
 ---

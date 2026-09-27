@@ -5,6 +5,8 @@ series: violet
 chapter: 39
 title: "The Reliquary and the Vial"
 permalink: /fiction/violet/chapter-39/
+redirect_from:
+  - /fiction/violet/chapter-42/
 act: 4
 date: November 02, 2025
 ---

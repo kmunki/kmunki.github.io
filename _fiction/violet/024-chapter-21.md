@@ -5,6 +5,8 @@ series: violet
 chapter: 21
 title: "Graduation and Matriculation"
 permalink: /fiction/violet/chapter-21/
+redirect_from:
+  - /fiction/violet/chapter-22/
 act: 2
 date: November 02, 2025
 ---

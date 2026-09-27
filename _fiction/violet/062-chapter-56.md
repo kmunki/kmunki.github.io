@@ -5,6 +5,8 @@ series: violet
 chapter: 56
 title: "Enthronement"
 permalink: /fiction/violet/chapter-56/
+redirect_from:
+  - /fiction/violet/chapter-60/
 act: 5
 date: November 02, 2025
 ---

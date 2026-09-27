@@ -5,6 +5,8 @@ series: violet
 chapter: 20
 title: "Join Us"
 permalink: /fiction/violet/chapter-20/
+redirect_from:
+  - /fiction/violet/chapter-21/
 act: 2
 date: November 02, 2025
 ---

@@ -5,6 +5,8 @@ series: violet
 chapter: 41
 title: "The Residential Pavilion of Global Serenity"
 permalink: /fiction/violet/chapter-41/
+redirect_from:
+  - /fiction/violet/chapter-44/
 act: 4
 date: November 02, 2025
 ---

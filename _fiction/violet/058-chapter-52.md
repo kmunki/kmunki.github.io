@@ -5,6 +5,8 @@ series: violet
 chapter: 52
 title: "Bardo"
 permalink: /fiction/violet/chapter-52/
+redirect_from:
+  - /fiction/violet/chapter-57/
 act: 5
 date: November 02, 2025
 ---

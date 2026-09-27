@@ -5,6 +5,8 @@ series: violet
 chapter: 48
 title: "Busaw"
 permalink: /fiction/violet/chapter-48/
+redirect_from:
+  - /fiction/violet/chapter-51/
 act: 5
 date: November 02, 2025
 ---

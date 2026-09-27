@@ -5,6 +5,8 @@ series: violet
 chapter: 51
 title: "Revenants; Segaki"
 permalink: /fiction/violet/chapter-51/
+redirect_from:
+  - /fiction/violet/chapter-56/
 act: 5
 date: November 02, 2025
 ---

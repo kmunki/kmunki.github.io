@@ -5,6 +5,8 @@ series: violet
 chapter: 18
 title: "Storm the Palace"
 permalink: /fiction/violet/chapter-18/
+redirect_from:
+  - /fiction/violet/chapter-19/
 act: 2
 date: November 02, 2025
 ---

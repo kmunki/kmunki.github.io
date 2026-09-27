@@ -5,6 +5,8 @@ series: violet
 chapter: 49
 title: "Transit; Occultation"
 permalink: /fiction/violet/chapter-49/
+redirect_from:
+  - /fiction/violet/chapter-53/
 act: 5
 date: November 02, 2025
 ---

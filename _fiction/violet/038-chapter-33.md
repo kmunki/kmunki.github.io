@@ -5,6 +5,8 @@ series: violet
 chapter: 33
 title: "The Magicians"
 permalink: /fiction/violet/chapter-33/
+redirect_from:
+  - /fiction/violet/chapter-37/
 act: 4
 date: November 02, 2025
 ---

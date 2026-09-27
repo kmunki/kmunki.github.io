@@ -5,6 +5,8 @@ series: violet
 chapter: 42
 title: "Yōkai"
 permalink: /fiction/violet/chapter-42/
+redirect_from:
+  - /fiction/violet/chapter-45/
 act: 4
 date: November 02, 2025
 ---

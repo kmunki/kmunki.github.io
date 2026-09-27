@@ -5,6 +5,8 @@ series: violet
 chapter: 24
 title: "The Railroad of Bones"
 permalink: /fiction/violet/chapter-24/
+redirect_from:
+  - /fiction/violet/chapter-26/
 act: 3
 date: November 02, 2025
 ---

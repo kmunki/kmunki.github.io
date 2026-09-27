@@ -5,6 +5,8 @@ series: violet
 chapter: 28
 title: "Legendary Weapons"
 permalink: /fiction/violet/chapter-28/
+redirect_from:
+  - /fiction/violet/chapter-31/
 act: 3
 date: November 02, 2025
 ---

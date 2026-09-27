@@ -5,6 +5,8 @@ series: violet
 chapter: 13
 title: "Coin Flip"
 permalink: /fiction/violet/chapter-13/
+redirect_from:
+  - /fiction/violet/chapter-14/
 act: 2
 date: November 02, 2025
 ---

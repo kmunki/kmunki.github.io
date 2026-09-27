@@ -5,6 +5,8 @@ series: violet
 chapter: 14
 title: "Hexagrams"
 permalink: /fiction/violet/chapter-14/
+redirect_from:
+  - /fiction/violet/chapter-15/
 act: 2
 date: November 02, 2025
 ---

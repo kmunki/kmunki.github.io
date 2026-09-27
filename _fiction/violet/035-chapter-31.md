@@ -5,6 +5,8 @@ series: violet
 chapter: 31
 title: "The Hermit"
 permalink: /fiction/violet/chapter-31/
+redirect_from:
+  - /fiction/violet/chapter-34/
 act: 3
 date: November 02, 2025
 ---

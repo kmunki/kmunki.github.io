@@ -5,6 +5,8 @@ series: violet
 chapter: 50
 title: "The Cuckoo"
 permalink: /fiction/violet/chapter-50/
+redirect_from:
+  - /fiction/violet/chapter-54/
 act: 5
 date: November 02, 2025
 ---

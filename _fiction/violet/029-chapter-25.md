@@ -5,6 +5,8 @@ series: violet
 chapter: 25
 title: "Where the War Never Ended"
 permalink: /fiction/violet/chapter-25/
+redirect_from:
+  - /fiction/violet/chapter-28/
 act: 3
 date: November 02, 2025
 ---

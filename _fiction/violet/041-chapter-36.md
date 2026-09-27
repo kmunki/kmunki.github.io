@@ -5,6 +5,8 @@ series: violet
 chapter: 36
 title: "The Gift of Betrayal"
 permalink: /fiction/violet/chapter-36/
+redirect_from:
+  - /fiction/violet/chapter-40/
 act: 4
 date: November 02, 2025
 ---

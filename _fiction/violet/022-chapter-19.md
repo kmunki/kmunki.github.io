@@ -5,6 +5,8 @@ series: violet
 chapter: 19
 title: "The Asura"
 permalink: /fiction/violet/chapter-19/
+redirect_from:
+  - /fiction/violet/chapter-20/
 act: 2
 date: November 02, 2025
 ---

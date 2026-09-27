@@ -5,6 +5,8 @@ series: violet
 chapter: 44
 title: "The Thing on the Doorstep"
 permalink: /fiction/violet/chapter-44/
+redirect_from:
+  - /fiction/violet/chapter-47/
 act: 4
 date: November 02, 2025
 ---

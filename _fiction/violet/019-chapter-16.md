@@ -5,6 +5,8 @@ series: violet
 chapter: 16
 title: "A Brewing Storm"
 permalink: /fiction/violet/chapter-16/
+redirect_from:
+  - /fiction/violet/chapter-17/
 act: 2
 date: November 02, 2025
 ---
